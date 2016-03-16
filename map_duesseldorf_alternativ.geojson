@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#40a134",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "farm",
         "Typ": "Anbau",
         "* ": "",
         "Name": "Meine Ernte – Gemüsebau Andree",
@@ -209,6 +209,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
         "Typ": "Bioladen",
         "* ": "",
         "Name": "Hofladen Südpark",
@@ -981,6 +983,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ffcc66",
+        "marker-size": "medium",
+        "marker-symbol": "fast-food",
         "Typ": "Lieferservice",
         "* ": "v/vgn",
         "Name": "Jade Imbiss",
@@ -1236,6 +1241,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
+        "marker-symbol": "warehouse",
         "Typ": "Reformhaus",
         "* ": "",
         "Name": "Reformhaus Wersten",
