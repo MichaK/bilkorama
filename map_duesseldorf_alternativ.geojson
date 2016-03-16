@@ -115,6 +115,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
         "Typ": "Bäcker",
         "* ": "",
         "Name": "Hercules Bäckerei ",
@@ -151,6 +153,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
         "Typ": "Bioladen",
         "* ": "",
         "Name": "Annes Bioladen",
@@ -172,7 +177,8 @@
         "* ": "",
         "Name": "Das Kleeblatt",
         "Adresse": "Benderstr. 75 40625 Düsseldorf",
-        "Zusatz": ""
+        "Zusatz": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +195,8 @@
         "* ": "",
         "Name": "Frucht & Genuss ",
         "Adresse": "Stresemannstr. 29,  40210 Düsseldorf",
-        "Zusatz": "http://www.fruchtundgenuss.de"
+        "Zusatz": "http://www.fruchtundgenuss.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -206,7 +213,8 @@
         "* ": "",
         "Name": "Hofladen Südpark",
         "Adresse": "In den Großen Banden 60, 40225 Düsseldorf",
-        "Zusatz": "http://www.wfaa.de"
+        "Zusatz": "http://www.wfaa.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -223,7 +231,8 @@
         "* ": "",
         "Name": "Naturkost Holthausen",
         "Adresse": "Itter Str. 34, 40589 Düsseldorf",
-        "Zusatz": "http://www.moehre.com"
+        "Zusatz": "http://www.moehre.com",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -240,7 +249,8 @@
         "* ": "v/vgn",
         "Name": "Natürlich Natürlich",
         "Adresse": "Brunnenstr. 22 40223 Düsseldorf",
-        "Zusatz": ""
+        "Zusatz": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +267,8 @@
         "* ": "omni/v/vgn",
         "Name": "Ökologische Marktwirtschaft",
         "Adresse": "Heerstr. 19 40227 Düsseldorf",
-        "Zusatz": "http://www.oekoma.de"
+        "Zusatz": "http://www.oekoma.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +305,8 @@
         "* ": "",
         "Name": "GarageBilk | Coworking Space",
         "Adresse": "Bilker Allee 217, 40215 Düsseldorf",
-        "Zusatz": "https://garagebilk.de"
+        "Zusatz": "https://garagebilk.de",
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
@@ -539,7 +551,9 @@
         "* ": "",
         "Name": "Re-Cycler",
         "Adresse": " Herderstr. 26-28, 40237 Düsseldorf ",
-        "Zusatz": "http://www.re-cycler.de/"
+        "Zusatz": "http://www.re-cycler.de/",
+        "marker-symbol": "bicycle",
+        "marker-color": "#7e7e7e"
       },
       "geometry": {
         "type": "Point",
@@ -556,7 +570,9 @@
         "* ": "",
         "Name": "Schicke Mütze ",
         "Adresse": "Talstr. 22-24 (Hinterhaus), 40217 Düsseldorf",
-        "Zusatz": "Café, Laden, Schrauberei. http://schickemuetze.de/"
+        "Zusatz": "Café, Laden, Schrauberei. http://schickemuetze.de/",
+        "marker-symbol": "bicycle",
+        "marker-color": "#7e7e7e"
       },
       "geometry": {
         "type": "Point",
@@ -608,11 +624,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff7f00",
+        "marker-size": "medium",
         "Typ": "Givebox",
         "* ": "",
         "Name": "Givebox Benrath",
         "Adresse": "Sistenichstr.",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +648,9 @@
         "* ": "",
         "Name": "Givebox Eller",
         "Adresse": "Konradstr./Gertrudisplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -646,7 +667,9 @@
         "* ": "",
         "Name": "Givebox Flingern",
         "Adresse": "Platanenstr./Hermannplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +686,9 @@
         "* ": "",
         "Name": "Givebox Gerresheim (1)",
         "Adresse": "Heyestr. 95",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -680,7 +705,9 @@
         "* ": "",
         "Name": "Givebox Gerresheim (2)",
         "Adresse": "Benderstr./Apostelplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -697,7 +724,9 @@
         "* ": "",
         "Name": "Givebox Knittkuhl",
         "Adresse": "Am Mergelsberg, 40629 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -714,7 +743,9 @@
         "* ": "",
         "Name": "Givebox Oberbilk (1) ",
         "Adresse": "Siegburger Str. 3, 40591 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -731,7 +762,9 @@
         "* ": "",
         "Name": "Givebox Oberbilk (2) ",
         "Adresse": "Lessingplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -748,7 +781,9 @@
         "* ": "",
         "Name": "Givebox Oberkassel",
         "Adresse": "Brüggener Weg 8, 40547 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -765,7 +800,9 @@
         "* ": "",
         "Name": "Givebox Rath",
         "Adresse": "Westfalenstr.",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -782,7 +819,9 @@
         "* ": "",
         "Name": "Givebox Unterbilk",
         "Adresse": "Kirchplatz (leider abgebrannt)",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -799,7 +838,9 @@
         "* ": "",
         "Name": "Givebox Unterrath",
         "Adresse": "Kalkumer Str. 58,  40468 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +857,9 @@
         "* ": "",
         "Name": "Givebox Vennhausen",
         "Adresse": "Vennhauser Allee 215, 40627 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -833,7 +876,9 @@
         "* ": "",
         "Name": "Givebox Wersten",
         "Adresse": "Liebfrauenstr./Burscheider Str. ",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -850,7 +895,9 @@
         "* ": "",
         "Name": "Indoor-Givebox für Lebensmittel",
         "Adresse": "Aldekerkstr. 31, 40549 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "heart"
       },
       "geometry": {
         "type": "Point",
@@ -863,11 +910,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9bfc9b",
+        "marker-size": "medium",
         "Typ": "Imbiss",
         "* ": "omni/v/vgn",
         "Name": "MY Gemüse Döner",
-        "Adresse": "Bachstr. 126, 40217 Düsseldorf",
-        "Zusatz": ""
+        "Adresse": "",
+        "Zusatz": "",
+        "marker-symbol": "fast-food"
       },
       "geometry": {
         "type": "Point",
@@ -1497,7 +1547,8 @@
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": "Herzogstr. 28, 40217 Düsseldorf",
-        "Zusatz": "http://cash-und-raus.skmd.de/"
+        "Zusatz": "http://cash-und-raus.skmd.de/",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1514,7 +1565,8 @@
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": " Schloßstr. 58, 40477 Düsseldorf",
-        "Zusatz": "http://cash-und-raus.skmd.de/"
+        "Zusatz": "http://cash-und-raus.skmd.de/",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1531,7 +1583,8 @@
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": " Kaiserswerther Str. 33, 40477 Düsseldorf",
-        "Zusatz": "http://cash-und-raus.skmd.de/"
+        "Zusatz": "http://cash-und-raus.skmd.de/",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1548,7 +1601,8 @@
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": " Katzbachstr. 2, 40231 Düsseldorf",
-        "Zusatz": "Küchenstudio  http://cash-und-raus.skmd.de/"
+        "Zusatz": "Küchenstudio  http://cash-und-raus.skmd.de/",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1561,6 +1615,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#128d04",
+        "marker-size": "medium",
+        "marker-symbol": "building",
         "Typ": "",
         "* ": "",
         "Name": "Ökotop Heerdt e.V.",
@@ -1698,6 +1755,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7f007f",
+        "marker-size": "medium",
+        "marker-symbol": "warehouse",
         "Typ": "SecondHand",
         "* ": "",
         "Name": "Hosenmatz",
