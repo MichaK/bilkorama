@@ -569,6 +569,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#508658",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
         "Typ": "GemeinschaftsGarten",
         "* ": " ",
         "Name": "düsselgrün",
@@ -578,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.800717,
-          51.22042
+          6.800451278686523,
+          51.21806698712828
         ]
       }
     },
@@ -590,7 +593,9 @@
         "* ": " ",
         "Name": "Oberbilker Stadtgärtner e.V.",
         "Adresse": "Ellerstr. 126/128, 40227 Düsseldorf",
-        "Zusatz": ""
+        "Zusatz": "",
+        "marker-color": "#508658",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
