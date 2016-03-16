@@ -1,1 +1,1929 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Typ":"Anbau","* ":"","Name":"Meine Ernte – Gemüsebau Andree","Adresse":"Volmerswerther Deich, 40221 Düsseldorf","Zusatz":"http://www.meine-ernte.de"},"geometry":{"type":"Point","coordinates":[6.755489,51.184138]}},{"type":"Feature","properties":{"Typ":"Bäcker","* ":"","Name":"Bäcker Schüren","Adresse":"Nordstr. 77, 40477 Düsseldorf","Zusatz":"http://www.ihr-baecker-schueren.de"},"geometry":{"type":"Point","coordinates":[6.780348,51.23902]}},{"type":"Feature","properties":{"Typ":"Bäcker","* ":"","Name":"Bäcker Schüren","Adresse":"Hauptstr. 5, 40597 Düsseldorf","Zusatz":"http://www.ihr-bäcker-schüren.de"},"geometry":{"type":"Point","coordinates":[6.873838,51.162629]}},{"type":"Feature","properties":{"Typ":"Bäcker","* ":"","Name":"Bäcker Schüren","Adresse":"Luegallee 93, 40545 Düsseldorf    ","Zusatz":"http://www.ihr-bäcker-schüren.de"},"geometry":{"type":"Point","coordinates":[6.750477,51.231286]}},{"type":"Feature","properties":{"Typ":"Bäcker","* ":"","Name":"Bäcker Schüren","Adresse":"Rethelstr. 144, 40239 Düsseldorf","Zusatz":"http://www.ihr-bäcker-schüren.de"},"geometry":{"type":"Point","coordinates":[6.79955,51.23839]}},{"type":"Feature","properties":{"Typ":"Bäcker","* ":"","Name":"Bäckerei Hinkel","Adresse":"Hohe Str. 31, 40213 Düsseldorf","Zusatz":"http://www.baeckerei-hinkel.de"},"geometry":{"type":"Point","coordinates":[6.773945,51.221165]}},{"type":"Feature","properties":{"Typ":"Bäcker","* ":"","Name":"Hercules Bäckerei ","Adresse":"Ulmenstr. 120, 40476 Düsseldorf,","Zusatz":"http://www.hercules-baeckerei.de"},"geometry":{"type":"Point","coordinates":[6.78162,51.25033]}},{"type":"Feature","properties":{"Typ":"Bäcker","* ":"","Name":"Steinofen Bäcker (im SuperBioMarkt)","Adresse":"Aachener Str. 57, 40223 Düsseldorf","Zusatz":"www.steinofenbaecker.de"},"geometry":{"type":"Point","coordinates":[6.77324,51.204647]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"","Name":"Annes Bioladen","Adresse":"Benrodestr. 39, 40597 Düsseldorf","Zusatz":"http://www.annesbioladen.de"},"geometry":{"type":"Point","coordinates":[6.865908,51.163397]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"","Name":"Das Kleeblatt","Adresse":"Benderstr. 75 40625 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.85282,51.237893]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"","Name":"Frucht & Genuss ","Adresse":"Stresemannstr. 29,  40210 Düsseldorf","Zusatz":"http://www.fruchtundgenuss.de"},"geometry":{"type":"Point","coordinates":[6.785288,51.220186]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"","Name":"Hofladen Südpark","Adresse":"In den Großen Banden 60, 40225 Düsseldorf","Zusatz":"http://www.wfaa.de"},"geometry":{"type":"Point","coordinates":[6.803151,51.19796]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"","Name":"Naturkost Holthausen","Adresse":"Itter Str. 34, 40589 Düsseldorf","Zusatz":"http://www.moehre.com"},"geometry":{"type":"Point","coordinates":[6.8304,51.17389]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"v/vgn","Name":"Natürlich Natürlich","Adresse":"Brunnenstr. 22 40223 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.778598,51.206695]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"omni/v/vgn","Name":"Ökologische Marktwirtschaft","Adresse":"Heerstr. 19 40227 Düsseldorf","Zusatz":"http://www.oekoma.de"},"geometry":{"type":"Point","coordinates":[6.808828,51.212021]}},{"type":"Feature","properties":{"Typ":"Buchhandlung","* ":"","Name":"BiBaBuZe","Adresse":"Aachener Str. 1, 40223 Düsseldorf","Zusatz":"Die BilkerBasisBuchZentrale ist mehr als nur ein Buchladen http://www.bibabuze.de/"},"geometry":{"type":"Point","coordinates":[6.776655,51.207675]}},{"type":"Feature","properties":{"Typ":"Büro","* ":"","Name":"GarageBilk | Coworking Space","Adresse":"Bilker Allee 217, 40215 Düsseldorf","Zusatz":"https://garagebilk.de"},"geometry":{"type":"Point","coordinates":[6.7803,51.2105]}},{"type":"Feature","properties":{"Typ":"Büro","* ":"","Name":"GEWÄCHSHAUS DÜSSELDORF","Adresse":"Mindener Str. 30, 40227 Düsseldorf","Zusatz":"http://www.gewaechshaus-duesseldorf.de"},"geometry":{"type":"Point","coordinates":[6.807456,51.21502]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"omni/v/vgn","Name":"Café Sternwarte","Adresse":"Volmerswertherstr. 130,  40221 Düsseldorf","Zusatz":"Cafe, Park und Wasserspielplatz"},"geometry":{"type":"Point","coordinates":[6.762825,51.203514]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"v/vgn","Name":"Carrot/Cake","Adresse":"Moltkestr. 75, 40479 Düsseldorf","Zusatz":"http://www.carrotcake.de"},"geometry":{"type":"Point","coordinates":[6.789848,51.23762]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"omni/v/vgn","Name":"Florabar","Adresse":"Kronenstr. 65, 40217 Düsseldorf","Zusatz":"http://www.florabar.de"},"geometry":{"type":"Point","coordinates":[6.773543,51.210323]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"v/vgn","Name":"Greenies","Adresse":"Collenbachstr. 41, 40476 Düsseldorf","Zusatz":"Cafe mit vegetarisch/veganer Küche https://www.facebook.com/greeniessalat"},"geometry":{"type":"Point","coordinates":[6.782844,51.243501]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"omni/v/vgn","Name":"YOMARO Frozen Yogurt","Adresse":"Am Carlsplatz 6B, 40213 Düsseldorf ","Zusatz":"info@yomaro.de"},"geometry":{"type":"Point","coordinates":[6.772675,51.223208]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"omni/v","Name":"YOMARO Frozen Yogurt","Adresse":"Immermannstr. 18, 40210 Düsseldorf ","Zusatz":"info@yomaro.de"},"geometry":{"type":"Point","coordinates":[6.78718,51.22437]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"omni/v","Name":"YOMARO Frozen Yogurt","Adresse":"Hauptstr. 18, 40597 Düsseldorf","Zusatz":"info@yomaro.de"},"geometry":{"type":"Point","coordinates":[6.874076,51.163622]}},{"type":"Feature","properties":{"Typ":"Cafe","* ":"omni/v","Name":"YOMARO Frozen Yogurt","Adresse":"Lorettostr. 17, 40219 Düsseldorf","Zusatz":"info@yomaro.de"},"geometry":{"type":"Point","coordinates":[6.765989,51.214184]}},{"type":"Feature","properties":{"Typ":"EisBar","* ":"v/vgn","Name":"Eiscafe","Adresse":"Friedrichstr. 8 40217 Düsseldorf","Zusatz":"http://www.eisbar-eis.de"},"geometry":{"type":"Point","coordinates":[6.777039,51.217066]}},{"type":"Feature","properties":{"Typ":"Energie","* ":"","Name":"NATURSTROM AG","Adresse":"Achenbachstr. 43, 40237 Düsseldorf","Zusatz":"http://www.naturstrom.de"},"geometry":{"type":"Point","coordinates":[6.8057,51.23378]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"Düsselrad","Adresse":" Konkordiastr. 61 (im Hof), 40219 Düsseldorf","Zusatz":"http://www.duesselrad.de"},"geometry":{"type":"Point","coordinates":[6.76735,51.213572]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"Re-Cycler","Adresse":" Herderstr. 26-28, 40237 Düsseldorf ","Zusatz":"http://www.re-cycler.de/"},"geometry":{"type":"Point","coordinates":[6.798981,51.235076]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"Schicke Mütze ","Adresse":"Talstr. 22-24 (Hinterhaus), 40217 Düsseldorf","Zusatz":"Café, Laden, Schrauberei. http://schickemuetze.de/"},"geometry":{"type":"Point","coordinates":[6.778939,51.216319]}},{"type":"Feature","properties":{"Typ":"GemeinschaftsGarten","* ":" ","Name":"düsselgrün","Adresse":"Haifastr. / Eintrachtstr. 40227 Düsseldorf","Zusatz":"Wir sind eine Gruppe von Bürger_Innen, die sich lose zusammen geschlossen hat um einen offenen Gemeinschaftsgarten für Düsseldorf zu gestalten. http://duesselgruen.de/"},"geometry":{"type":"Point","coordinates":[6.800717,51.22042]}},{"type":"Feature","properties":{"Typ":"GemeinschaftsGarten","* ":" ","Name":"Oberbilker Stadtgärtner e.V.","Adresse":"Ellerstr. 126/128, 40227 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.797907,51.215536]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Benrath","Adresse":"Sistenichstr.","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.872126,51.163665]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Eller","Adresse":"Konradstr./Gertrudisplatz","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.83854,51.200598]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Flingern","Adresse":"Platanenstr./Hermannplatz","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.807924,51.228089]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Gerresheim (1)","Adresse":"Heyestr. 95","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.862361,51.226565]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Gerresheim (2)","Adresse":"Benderstr./Apostelplatz","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.851295,51.238596]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Knittkuhl","Adresse":"Am Mergelsberg, 40629 Düsseldorf","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.871515,51.268278]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Oberbilk (1) ","Adresse":"Siegburger Str. 3, 40591 Düsseldorf","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.8074,51.20855]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Oberbilk (2) ","Adresse":"Lessingplatz","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.793278,51.212725]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Oberkassel","Adresse":"Brüggener Weg 8, 40547 Düsseldorf","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.746634,51.239701]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Rath","Adresse":"Westfalenstr.","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.815608,51.26289]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Unterbilk","Adresse":"Kirchplatz (leider abgebrannt)","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.776054,51.213993]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Unterrath","Adresse":"Kalkumer Str. 58,  40468 Düsseldorf","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.77574,51.26619]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Vennhausen","Adresse":"Vennhauser Allee 215, 40627 Düsseldorf","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.861281,51.210091]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Givebox Wersten","Adresse":"Liebfrauenstr./Burscheider Str. ","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.821989,51.187058]}},{"type":"Feature","properties":{"Typ":"Givebox","* ":"","Name":"Indoor-Givebox für Lebensmittel","Adresse":"Aldekerkstr. 31, 40549 Düsseldorf","Zusatz":"https://www.facebook.com/GiveboxDuesseldorf"},"geometry":{"type":"Point","coordinates":[6.70639,51.2333]}},{"type":"Feature","properties":{"Typ":"Imbiss","* ":"omni/v/vgn","Name":"MY Gemüse Döner","Adresse":"Bachstr. 126, 40217 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.774549,51.209385]}},{"type":"Feature","properties":{"Typ":"Kids","* ":"","Name":"Purzel-Baum - Naturtextil & Spiel","Adresse":"Birkenstr. 86, 40233 Düsseldorf","Zusatz":"http://www.purzel-baum.com"},"geometry":{"type":"Point","coordinates":[6.80677,51.22712]}},{"type":"Feature","properties":{"Typ":"Kosmetik","* ":"vgn","Name":"Salon für Naturkosmetik","Adresse":"Flurstr. 77 (Hinterhof), 40235 Düsseldorf","Zusatz":"Naturkosmetik - Studio "},"geometry":{"type":"Point","coordinates":[6.81785,51.228719]}},{"type":"Feature","properties":{"Typ":"Kräuter","* ":"","Name":"Kräuterhaus Hackenberg","Adresse":"Moltkestr. 98, 40479 Düsseldorf","Zusatz":"http://www.kraeuterhaus-hackenberg.de/"},"geometry":{"type":"Point","coordinates":[6.790971,51.237506]}},{"type":"Feature","properties":{"Typ":"Lieferservice","* ":"v/vgn","Name":"Jade Imbiss","Adresse":"Dürener Str. 42, 40223 Düsseldorf","Zusatz":"http://www.jade-imbiss.de/"},"geometry":{"type":"Point","coordinates":[6.770017,51.197939]}},{"type":"Feature","properties":{"Typ":"Markt","* ":"omni/v/vgn","Name":"Bauernmarkt Friedensplätzchen","Adresse":"Friedensplätzchen","Zusatz":"jeden Dienstag von 08:00 Uhr bis 13:00 Uhr / jeden Freitag von 10:00 Uhr bis 18:00 Uhr"},"geometry":{"type":"Point","coordinates":[6.768222,51.212572]}},{"type":"Feature","properties":{"Typ":"Markt","* ":"omni/v/vgn","Name":"Bauernmarkt Kolpingplatz","Adresse":"Kolpingplatz","Zusatz":"jeden Mittwoch von 9.00 bis 13.00 Uhr / jeden Samstag von 08:30 Uhr bis 13:30 Uhr "},"geometry":{"type":"Point","coordinates":[6.77934,51.241187]}},{"type":"Feature","properties":{"Typ":"Markt","* ":"omni/v/vgn","Name":"Bauernmarkt Lessingplatz","Adresse":"Lessingplatz","Zusatz":"jeden Donnerstag von 08:00 Uhr bis 13:30 Uhr"},"geometry":{"type":"Point","coordinates":[6.793278,51.212725]}},{"type":"Feature","properties":{"Typ":"Mode","* ":"","Name":"Fräulein Bredow - Green Concept Store","Adresse":"Roßstr. 9, 40476 Düsseldorf","Zusatz":"http://www.fraeuleinbredow.com"},"geometry":{"type":"Point","coordinates":[6.781803,51.242998]}},{"type":"Feature","properties":{"Typ":"Mode","* ":"","Name":"HanfHaus Düsseldorf","Adresse":"Münsterstr. 336, 40470 Düsseldorf","Zusatz":"OutletStore nur Freitags und Samstags geöffnet. https://www.hanfhaus.de/"},"geometry":{"type":"Point","coordinates":[6.80203,51.25321]}},{"type":"Feature","properties":{"Typ":"Mode","* ":"","Name":"SOULGOODS Düsseldorf","Adresse":"Nordstr. 6, 40477 Düsseldorf","Zusatz":"www.soulgoods-duesseldorf.de\n"},"geometry":{"type":"Point","coordinates":[6.778316,51.235764]}},{"type":"Feature","properties":{"Typ":"Mode","* ":"","Name":"SUBURBIA Store","Adresse":"Birkenstr. 40, 40233 Düsseldorf","Zusatz":"http://www.suburbia-store.de"},"geometry":{"type":"Point","coordinates":[6.802276,51.227382]}},{"type":"Feature","properties":{"Typ":"Mode","* ":"v/vgn","Name":"Yavana Naturmode - organisch und fair","Adresse":"Brunnenstr. 32, 40223 Düsseldorf","Zusatz":"http://www.yavana.de "},"geometry":{"type":"Point","coordinates":[6.778811,51.206565]}},{"type":"Feature","properties":{"Typ":"Reformhaus","* ":"","Name":"Reformhaus Bacher","Adresse":"Rehtelstr. 166, 40237 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.801179,51.238644]}},{"type":"Feature","properties":{"Typ":"Reformhaus","* ":"omni/v/vgn","Name":"Reformhaus Goll","Adresse":"Friedrichstr. 6, 40217 Düsseldorf","Zusatz":"http://www.reformhaus-goll.de"},"geometry":{"type":"Point","coordinates":[6.7771,51.217549]}},{"type":"Feature","properties":{"Typ":"Reformhaus","* ":"","Name":"Reformhaus Goll","Adresse":"Luegallee 108a, 40545 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.750317,51.231667]}},{"type":"Feature","properties":{"Typ":"Reformhaus","* ":"","Name":"Reformhaus Kaubisch,","Adresse":"Jacobistr. 7, 40210 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.78709,51.2281]}},{"type":"Feature","properties":{"Typ":"Reformhaus","* ":"omni/v/vgn","Name":"Reformhaus Ulrike Hilger","Adresse":"Nordstr. 100, 40477 Düsseldorf","Zusatz":"http://www.reformhaus-ulrikehilger.de"},"geometry":{"type":"Point","coordinates":[6.78072,51.23991]}},{"type":"Feature","properties":{"Typ":"Reformhaus","* ":"","Name":"Reformhaus van der Zande","Adresse":"Neustr. 13, 40213 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.776237,51.227053]}},{"type":"Feature","properties":{"Typ":"Reformhaus","* ":"","Name":"Reformhaus Wersten","Adresse":"Kölner Landstr. 204, 40591 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.81949,51.186721]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"omni/v/vgn","Name":" Kirti's Dhaba","Adresse":"Düsselthaler Str. 1a, 40211 Düsseldorf","Zusatz":"http://www.kirtisdhaba.de/"},"geometry":{"type":"Point","coordinates":[6.790046,51.232201]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"v/vgn","Name":"Amano Verde","Adresse":"Hammer Str. 23, 40219 Düsseldorf ","Zusatz":"http://www.radissonblu.de/mediaharbourhotel-duesseldorf"},"geometry":{"type":"Point","coordinates":[6.75375,51.21377]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"omni/v/vgn","Name":"Kirti's Restaurant","Adresse":"Brückenstr. 19, 40221 Düsseldorf","Zusatz":"http://www.kirtis.de"},"geometry":{"type":"Point","coordinates":[6.759679,51.215849]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"omni/v/vgn","Name":"Richie'n Rose","Adresse":"Konkordiastr. 89, 40219 Düsseldorf","Zusatz":"(also vegan & vegetarisch ist eher strittig!) http://www.richie-n-rose.de/"},"geometry":{"type":"Point","coordinates":[6.766418,51.212594]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"v/vgn","Name":"Sattgrün Flingern","Adresse":"Hoffeldstr. 18, 40233 Düsseldorf","Zusatz":"http://sattgruen.de/"},"geometry":{"type":"Point","coordinates":[6.81315,51.23052]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"v/vgn","Name":"Sattgrün Medienhafen","Adresse":"Brückenstr. 12, 40221 Düsseldorf","Zusatz":"http://sattgruen.de/"},"geometry":{"type":"Point","coordinates":[6.759028,51.216035]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"v/vgn","Name":"Sattgrün Mitte","Adresse":"Graf-Adolf-Platz 6, 40213 Düsseldorf","Zusatz":"http://sattgruen.de/"},"geometry":{"type":"Point","coordinates":[6.77651,51.218441]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"v/vgn","Name":"SchnellVeg","Adresse":"Bagelstr. 130, 40479 Düsseldorf","Zusatz":"Vegetarian Eatery and Bar http://www.schnellveg.com/"},"geometry":{"type":"Point","coordinates":[6.79278,51.23549]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"omni/v/vgn","Name":"Space Burger","Adresse":"Neustr. 41, 40213 Düsseldorf","Zusatz":"http://spaceburger.eu"},"geometry":{"type":"Point","coordinates":[6.776028,51.226101]}},{"type":"Feature","properties":{"Typ":"Restaurant","* ":"omni/v/vgn","Name":"Space Burger","Adresse":"Pfalzstr 15, 40477 Düsseldorf","Zusatz":"http://spaceburger.eu"},"geometry":{"type":"Point","coordinates":[6.778246,51.239845]}},{"type":"Feature","properties":{"Typ":"Schuster","* ":"","Name":"Der schnelle Joe","Adresse":"Kruppstr. 47, 40227 Düsseldorf","Zusatz":""},"geometry":{"type":"Point","coordinates":[6.799001,51.213589]}},{"type":"Feature","properties":{"Typ":"Supermarkt","* ":"omni/v/vgn","Name":"Basic – Bio für alle","Adresse":" Friedrichstr. 73, 40217 Düsseldorf","Zusatz":"http://www.basic-bio-genuss-fuer-alle.de"},"geometry":{"type":"Point","coordinates":[6.776546,51.214556]}},{"type":"Feature","properties":{"Typ":"Supermarkt","* ":"omni/v/vgn","Name":"SuperBioMarkt","Adresse":"Aachener Str. 57, 40223 Düsseldorf","Zusatz":"http://www.superbiomarkt.de"},"geometry":{"type":"Point","coordinates":[6.77324,51.204647]}},{"type":"Feature","properties":{"Typ":"Supermarkt","* ":"omni/v/vgn","Name":"SuperBioMarkt","Adresse":"Nordstr. 82, 40477 Düsseldorf","Zusatz":"http://www.superbiomarkt.de"},"geometry":{"type":"Point","coordinates":[6.780089,51.2392]}},{"type":"Feature","properties":{"Typ":"Supermarkt","* ":"vgn","Name":"Vantastisch","Adresse":"Elisabethstr. 54A, Düsseldorf","Zusatz":"Vantastisch - alles vegan www.vantastisch-alles-vegan.de"},"geometry":{"type":"Point","coordinates":[6.775559,51.212216]}},{"type":"Feature","properties":{"Typ":"Tansfair","* ":"","Name":"el martin - Das Fachgeschäft für fairen Handel","Adresse":"Nordstr. 94, 40477 Düsseldorf","Zusatz":"http://www.elmartin.de"},"geometry":{"type":"Point","coordinates":[6.780576,51.239592]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Cash & Raus ","Adresse":"Herzogstr. 28, 40217 Düsseldorf","Zusatz":"http://cash-und-raus.skmd.de/"},"geometry":{"type":"Point","coordinates":[6.778481,51.21572]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Cash & Raus ","Adresse":" Schloßstr. 58, 40477 Düsseldorf","Zusatz":"http://cash-und-raus.skmd.de/"},"geometry":{"type":"Point","coordinates":[6.7899,51.24134]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Cash & Raus ","Adresse":" Kaiserswerther Str. 33, 40477 Düsseldorf","Zusatz":"http://cash-und-raus.skmd.de/"},"geometry":{"type":"Point","coordinates":[6.777623,51.238895]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Cash & Raus ","Adresse":" Katzbachstr. 2, 40231 Düsseldorf","Zusatz":"Küchenstudio  http://cash-und-raus.skmd.de/"},"geometry":{"type":"Point","coordinates":[6.835283,51.20889]}},{"type":"Feature","properties":{"Typ":"","* ":"","Name":"Ökotop Heerdt e.V.","Adresse":"Am Ökotop 70, 40549 Düsseldorf","Zusatz":"http://www.oekotop.de/"},"geometry":{"type":"Point","coordinates":[6.71016,51.23493]}},{"type":"Feature","properties":{"Typ":"Mode","* ":"","Name":"PLUP - Planet Upcycling","Adresse":"Ackerstr. 168b, 40233 Düsseldorf","Zusatz":"https://www.planet-upcycling.de/"},"geometry":{"type":"Point","coordinates":[6.808411,51.230414]}},{"type":"Feature","properties":{"Typ":"Imker","* ":"","Name":"Imkerei Dieter Weinkauf & Karin Wolter","Adresse":"Bachstraße 68 40217 Düsseldorf","Zusatz":"http://honig-duesseldorf.de"},"geometry":{"type":"Point","coordinates":[6.770653,51.20883]}},{"type":"Feature","properties":{"Typ":"Imker","* ":"","Name":"Imkerei Strauch","Adresse":"Eiskellersstr. 15, 40213 Düsseldorf","Zusatz":"http://www.duesseldorferhonig.de/"},"geometry":{"type":"Point","coordinates":[6.77307,51.23053]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Elementarteilchen","Adresse":"Ackerstraße 125, 40233 Düsseldorf","Zusatz":"http://www.elementarteilchen-secondhand.de"},"geometry":{"type":"Point","coordinates":[6.804651,51.228834]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Noblesse  Second-Hand","Adresse":"Oststraße 89, 40210 Düsseldorf","Zusatz":"http://www.noblesse-secondhand.de/"},"geometry":{"type":"Point","coordinates":[6.786702,51.223279]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Feen und Kobolde","Adresse":"Nordstraße 80 Düsseldorf","Zusatz":"http://www.feenundkobolde.com"},"geometry":{"type":"Point","coordinates":[6.780028,51.23917]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"LIEBLINGSSTÜCKE","Adresse":"Bruchstraße 1, 40235 Düsseldorf ","Zusatz":"http://www.lieblings-stuecke.de"},"geometry":{"type":"Point","coordinates":[6.813763,51.23067]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Hosenmatz","Adresse":"Amsterdamer Straße 8, 40474 Düsseldorf","Zusatz":"http://www.hosenmatz.net/"},"geometry":{"type":"Point","coordinates":[6.753663,51.260151]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Anziehend Secondhand ","Adresse":"Wissmannstr. 25, Düsseldorf","Zusatz":"https://www.facebook.com/anziehendduesseldorf"},"geometry":{"type":"Point","coordinates":[6.767983,51.211101]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Oxfam","Adresse":"Nordstr. 9, 40477 Düsseldorf","Zusatz":"http://www.oxfam.de"},"geometry":{"type":"Point","coordinates":[6.778554,51.235517]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Jacke wie Hose","Adresse":"Bilker Allee 24, 40219 Düsseldorf ","Zusatz":"http://www.jacke-wie-hose-duesseldorf.de/"},"geometry":{"type":"Point","coordinates":[6.765093,51.211489]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Vintage Fabrik","Adresse":"Nordstrasse 4 Düsseldorf ","Zusatz":"http://vintage-fabrik.de/"},"geometry":{"type":"Point","coordinates":[6.778275,51.235661]}},{"type":"Feature","properties":{"Typ":"Wellness","* ":"","Name":"PADMAVATI Ayurveda – Yoga, Wellness & Reiki","Adresse":"Reichsgasse/Ecke Reichsstrasse 57 40217 Düsseldorf","Zusatz":"http://www.padmavatiwellness.de/"},"geometry":{"type":"Point","coordinates":[6.774049,51.215369]}},{"type":"Feature","properties":{"Typ":"Wellness","* ":"","Name":"Rundum Yoga","Adresse":"Kronenstraße 4 40217 Düsseldorf","Zusatz":"http://www.rundumyoga.de/ (Studio Unterbilk)"},"geometry":{"type":"Point","coordinates":[6.774079,51.213539]}},{"type":"Feature","properties":{"Typ":"Wellness","* ":"","Name":"Rundum Yoga","Adresse":"Schwerinstraße 21, 40477 Düsseldorf","Zusatz":"http://www.rundumyoga.de/ (Studio Derendorf)"},"geometry":{"type":"Point","coordinates":[6.778793,51.239684]}},{"type":"Feature","properties":{"Typ":"Bioladen","* ":"","Name":"Naturburschen","Adresse":"Birkenstraße 149 40233 Düsseldorf ","Zusatz":"http://www.naturburschen-flingern.de/"},"geometry":{"type":"Point","coordinates":[6.810927,51.226915]}},{"type":"Feature","properties":{"Typ":"","* ":"","Name":"Repaircafé","Adresse":"Bilker Allee 217 (in den Räumen des Coworking Space GarageBilk)  40215 Düsseldorf","Zusatz":"http://garage-lab.de"},"geometry":{"type":"Point","coordinates":[6.7803,51.2105]}},{"type":"Feature","properties":{"Typ":"","* ":"","Name":"TasteGreece","Adresse":"Volmerswerther Str. 21 40221 Düsseldorf","Zusatz":"http://www.tastegreece.com"},"geometry":{"type":"Point","coordinates":[6.76205,51.21018]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"RAD AB ","Adresse":"Friedrichstraße 112 – 116, 40217 Düsseldorf ","Zusatz":"http://www.radab.de"},"geometry":{"type":"Point","coordinates":[6.776965,51.211348]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"Magno Fahrräder ","Adresse":"Bilker Allee 167, 40217 Düsseldorf","Zusatz":"http://www.magno.de"},"geometry":{"type":"Point","coordinates":[6.77625,51.210567]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"JUNG & VOLKE Zweiradstudio","Adresse":"Jahnstrasse 22 - 24, 40215 Düsseldorf","Zusatz":"http://www.jung-volke.de/"},"geometry":{"type":"Point","coordinates":[6.781016,51.216071]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"Radstation Düsseldorf","Adresse":"Willi-Becker-Allee 8a, 40227 Düsseldorf","Zusatz":"http://www.radstation-duesseldorf.de"},"geometry":{"type":"Point","coordinates":[6.79502,51.218146]}},{"type":"Feature","properties":{"Typ":"Fahrrad","* ":"","Name":"Bicycle Doctor ","Adresse":"Derendorfer Straße 10 – 12, 40479 Düsseldorf ","Zusatz":"http://www.bicycle-doctor.de/"},"geometry":{"type":"Point","coordinates":[6.789826,51.237228]}},{"type":"Feature","properties":{"Typ":"SecondHand","* ":"","Name":"Oxfam","Adresse":"Friedrichstraße 25, 40217 Düsseldorf","Zusatz":"http://www.oxfam.de"},"geometry":{"type":"Point","coordinates":[6.776629,51.217201]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Anbau",
+        "* ": "",
+        "Name": "Meine Ernte – Gemüsebau Andree",
+        "Adresse": "Volmerswerther Deich, 40221 Düsseldorf",
+        "Zusatz": "http://www.meine-ernte.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.755489,
+          51.184138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bäcker",
+        "* ": "",
+        "Name": "Bäcker Schüren",
+        "Adresse": "Nordstr. 77, 40477 Düsseldorf",
+        "Zusatz": "http://www.ihr-baecker-schueren.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.780348,
+          51.23902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bäcker",
+        "* ": "",
+        "Name": "Bäcker Schüren",
+        "Adresse": "Hauptstr. 5, 40597 Düsseldorf",
+        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873838,
+          51.162629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bäcker",
+        "* ": "",
+        "Name": "Bäcker Schüren",
+        "Adresse": "Luegallee 93, 40545 Düsseldorf    ",
+        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.750477,
+          51.231286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bäcker",
+        "* ": "",
+        "Name": "Bäcker Schüren",
+        "Adresse": "Rethelstr. 144, 40239 Düsseldorf",
+        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79955,
+          51.23839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bäcker",
+        "* ": "",
+        "Name": "Bäckerei Hinkel",
+        "Adresse": "Hohe Str. 31, 40213 Düsseldorf",
+        "Zusatz": "http://www.baeckerei-hinkel.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.773945,
+          51.221165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bäcker",
+        "* ": "",
+        "Name": "Hercules Bäckerei ",
+        "Adresse": "Ulmenstr. 120, 40476 Düsseldorf,",
+        "Zusatz": "http://www.hercules-baeckerei.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78162,
+          51.25033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bäcker",
+        "* ": "",
+        "Name": "Steinofen Bäcker (im SuperBioMarkt)",
+        "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
+        "Zusatz": "www.steinofenbaecker.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77324,
+          51.204647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "",
+        "Name": "Annes Bioladen",
+        "Adresse": "Benrodestr. 39, 40597 Düsseldorf",
+        "Zusatz": "http://www.annesbioladen.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.865908,
+          51.163397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "",
+        "Name": "Das Kleeblatt",
+        "Adresse": "Benderstr. 75 40625 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85282,
+          51.237893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "",
+        "Name": "Frucht & Genuss ",
+        "Adresse": "Stresemannstr. 29,  40210 Düsseldorf",
+        "Zusatz": "http://www.fruchtundgenuss.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785288,
+          51.220186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "",
+        "Name": "Hofladen Südpark",
+        "Adresse": "In den Großen Banden 60, 40225 Düsseldorf",
+        "Zusatz": "http://www.wfaa.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.803151,
+          51.19796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "",
+        "Name": "Naturkost Holthausen",
+        "Adresse": "Itter Str. 34, 40589 Düsseldorf",
+        "Zusatz": "http://www.moehre.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8304,
+          51.17389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "v/vgn",
+        "Name": "Natürlich Natürlich",
+        "Adresse": "Brunnenstr. 22 40223 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778598,
+          51.206695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "omni/v/vgn",
+        "Name": "Ökologische Marktwirtschaft",
+        "Adresse": "Heerstr. 19 40227 Düsseldorf",
+        "Zusatz": "http://www.oekoma.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808828,
+          51.212021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Buchhandlung",
+        "* ": "",
+        "Name": "BiBaBuZe",
+        "Adresse": "Aachener Str. 1, 40223 Düsseldorf",
+        "Zusatz": "Die BilkerBasisBuchZentrale ist mehr als nur ein Buchladen http://www.bibabuze.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776655,
+          51.207675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Büro",
+        "* ": "",
+        "Name": "GarageBilk | Coworking Space",
+        "Adresse": "Bilker Allee 217, 40215 Düsseldorf",
+        "Zusatz": "https://garagebilk.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803,
+          51.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Büro",
+        "* ": "",
+        "Name": "GEWÄCHSHAUS DÜSSELDORF",
+        "Adresse": "Mindener Str. 30, 40227 Düsseldorf",
+        "Zusatz": "http://www.gewaechshaus-duesseldorf.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.807456,
+          51.21502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "omni/v/vgn",
+        "Name": "Café Sternwarte",
+        "Adresse": "Volmerswertherstr. 130,  40221 Düsseldorf",
+        "Zusatz": "Cafe, Park und Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.762825,
+          51.203514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "v/vgn",
+        "Name": "Carrot/Cake",
+        "Adresse": "Moltkestr. 75, 40479 Düsseldorf",
+        "Zusatz": "http://www.carrotcake.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.789848,
+          51.23762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "omni/v/vgn",
+        "Name": "Florabar",
+        "Adresse": "Kronenstr. 65, 40217 Düsseldorf",
+        "Zusatz": "http://www.florabar.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.773543,
+          51.210323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "v/vgn",
+        "Name": "Greenies",
+        "Adresse": "Collenbachstr. 41, 40476 Düsseldorf",
+        "Zusatz": "Cafe mit vegetarisch/veganer Küche https://www.facebook.com/greeniessalat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782844,
+          51.243501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "omni/v/vgn",
+        "Name": "YOMARO Frozen Yogurt",
+        "Adresse": "Am Carlsplatz 6B, 40213 Düsseldorf ",
+        "Zusatz": "info@yomaro.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772675,
+          51.223208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "omni/v",
+        "Name": "YOMARO Frozen Yogurt",
+        "Adresse": "Immermannstr. 18, 40210 Düsseldorf ",
+        "Zusatz": "info@yomaro.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78718,
+          51.22437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "omni/v",
+        "Name": "YOMARO Frozen Yogurt",
+        "Adresse": "Hauptstr. 18, 40597 Düsseldorf",
+        "Zusatz": "info@yomaro.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874076,
+          51.163622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Cafe",
+        "* ": "omni/v",
+        "Name": "YOMARO Frozen Yogurt",
+        "Adresse": "Lorettostr. 17, 40219 Düsseldorf",
+        "Zusatz": "info@yomaro.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.765989,
+          51.214184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "EisBar",
+        "* ": "v/vgn",
+        "Name": "Eiscafe",
+        "Adresse": "Friedrichstr. 8 40217 Düsseldorf",
+        "Zusatz": "http://www.eisbar-eis.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777039,
+          51.217066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Energie",
+        "* ": "",
+        "Name": "NATURSTROM AG",
+        "Adresse": "Achenbachstr. 43, 40237 Düsseldorf",
+        "Zusatz": "http://www.naturstrom.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8057,
+          51.23378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "Düsselrad",
+        "Adresse": " Konkordiastr. 61 (im Hof), 40219 Düsseldorf",
+        "Zusatz": "http://www.duesselrad.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76735,
+          51.213572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "Re-Cycler",
+        "Adresse": " Herderstr. 26-28, 40237 Düsseldorf ",
+        "Zusatz": "http://www.re-cycler.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.798981,
+          51.235076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "Schicke Mütze ",
+        "Adresse": "Talstr. 22-24 (Hinterhaus), 40217 Düsseldorf",
+        "Zusatz": "Café, Laden, Schrauberei. http://schickemuetze.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778939,
+          51.216319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "GemeinschaftsGarten",
+        "* ": " ",
+        "Name": "düsselgrün",
+        "Adresse": "Haifastr. / Eintrachtstr. 40227 Düsseldorf",
+        "Zusatz": "Wir sind eine Gruppe von Bürger_Innen, die sich lose zusammen geschlossen hat um einen offenen Gemeinschaftsgarten für Düsseldorf zu gestalten. http://duesselgruen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.800717,
+          51.22042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "GemeinschaftsGarten",
+        "* ": " ",
+        "Name": "Oberbilker Stadtgärtner e.V.",
+        "Adresse": "Ellerstr. 126/128, 40227 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.797907,
+          51.215536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Benrath",
+        "Adresse": "Sistenichstr.",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.872126,
+          51.163665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Eller",
+        "Adresse": "Konradstr./Gertrudisplatz",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83854,
+          51.200598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Flingern",
+        "Adresse": "Platanenstr./Hermannplatz",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.807924,
+          51.228089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Gerresheim (1)",
+        "Adresse": "Heyestr. 95",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.862361,
+          51.226565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Gerresheim (2)",
+        "Adresse": "Benderstr./Apostelplatz",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.851295,
+          51.238596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Knittkuhl",
+        "Adresse": "Am Mergelsberg, 40629 Düsseldorf",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871515,
+          51.268278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Oberbilk (1) ",
+        "Adresse": "Siegburger Str. 3, 40591 Düsseldorf",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8074,
+          51.20855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Oberbilk (2) ",
+        "Adresse": "Lessingplatz",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.793278,
+          51.212725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Oberkassel",
+        "Adresse": "Brüggener Weg 8, 40547 Düsseldorf",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.746634,
+          51.239701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Rath",
+        "Adresse": "Westfalenstr.",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.815608,
+          51.26289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Unterbilk",
+        "Adresse": "Kirchplatz (leider abgebrannt)",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776054,
+          51.213993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Unterrath",
+        "Adresse": "Kalkumer Str. 58,  40468 Düsseldorf",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77574,
+          51.26619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Vennhausen",
+        "Adresse": "Vennhauser Allee 215, 40627 Düsseldorf",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861281,
+          51.210091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Givebox Wersten",
+        "Adresse": "Liebfrauenstr./Burscheider Str. ",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.821989,
+          51.187058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Givebox",
+        "* ": "",
+        "Name": "Indoor-Givebox für Lebensmittel",
+        "Adresse": "Aldekerkstr. 31, 40549 Düsseldorf",
+        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70639,
+          51.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Imbiss",
+        "* ": "omni/v/vgn",
+        "Name": "MY Gemüse Döner",
+        "Adresse": "Bachstr. 126, 40217 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774549,
+          51.209385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Kids",
+        "* ": "",
+        "Name": "Purzel-Baum - Naturtextil & Spiel",
+        "Adresse": "Birkenstr. 86, 40233 Düsseldorf",
+        "Zusatz": "http://www.purzel-baum.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80677,
+          51.22712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Kosmetik",
+        "* ": "vgn",
+        "Name": "Salon für Naturkosmetik",
+        "Adresse": "Flurstr. 77 (Hinterhof), 40235 Düsseldorf",
+        "Zusatz": "Naturkosmetik - Studio "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81785,
+          51.228719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Kräuter",
+        "* ": "",
+        "Name": "Kräuterhaus Hackenberg",
+        "Adresse": "Moltkestr. 98, 40479 Düsseldorf",
+        "Zusatz": "http://www.kraeuterhaus-hackenberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.790971,
+          51.237506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Lieferservice",
+        "* ": "v/vgn",
+        "Name": "Jade Imbiss",
+        "Adresse": "Dürener Str. 42, 40223 Düsseldorf",
+        "Zusatz": "http://www.jade-imbiss.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770017,
+          51.197939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Markt",
+        "* ": "omni/v/vgn",
+        "Name": "Bauernmarkt Friedensplätzchen",
+        "Adresse": "Friedensplätzchen",
+        "Zusatz": "jeden Dienstag von 08:00 Uhr bis 13:00 Uhr / jeden Freitag von 10:00 Uhr bis 18:00 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.768222,
+          51.212572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Markt",
+        "* ": "omni/v/vgn",
+        "Name": "Bauernmarkt Kolpingplatz",
+        "Adresse": "Kolpingplatz",
+        "Zusatz": "jeden Mittwoch von 9.00 bis 13.00 Uhr / jeden Samstag von 08:30 Uhr bis 13:30 Uhr "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77934,
+          51.241187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Markt",
+        "* ": "omni/v/vgn",
+        "Name": "Bauernmarkt Lessingplatz",
+        "Adresse": "Lessingplatz",
+        "Zusatz": "jeden Donnerstag von 08:00 Uhr bis 13:30 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.793278,
+          51.212725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Mode",
+        "* ": "",
+        "Name": "Fräulein Bredow - Green Concept Store",
+        "Adresse": "Roßstr. 9, 40476 Düsseldorf",
+        "Zusatz": "http://www.fraeuleinbredow.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.781803,
+          51.242998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Mode",
+        "* ": "",
+        "Name": "HanfHaus Düsseldorf",
+        "Adresse": "Münsterstr. 336, 40470 Düsseldorf",
+        "Zusatz": "OutletStore nur Freitags und Samstags geöffnet. https://www.hanfhaus.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80203,
+          51.25321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Mode",
+        "* ": "",
+        "Name": "SOULGOODS Düsseldorf",
+        "Adresse": "Nordstr. 6, 40477 Düsseldorf",
+        "Zusatz": "www.soulgoods-duesseldorf.de\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778316,
+          51.235764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Mode",
+        "* ": "",
+        "Name": "SUBURBIA Store",
+        "Adresse": "Birkenstr. 40, 40233 Düsseldorf",
+        "Zusatz": "http://www.suburbia-store.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802276,
+          51.227382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Mode",
+        "* ": "v/vgn",
+        "Name": "Yavana Naturmode - organisch und fair",
+        "Adresse": "Brunnenstr. 32, 40223 Düsseldorf",
+        "Zusatz": "http://www.yavana.de "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778811,
+          51.206565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Reformhaus",
+        "* ": "",
+        "Name": "Reformhaus Bacher",
+        "Adresse": "Rehtelstr. 166, 40237 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.801179,
+          51.238644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Reformhaus",
+        "* ": "omni/v/vgn",
+        "Name": "Reformhaus Goll",
+        "Adresse": "Friedrichstr. 6, 40217 Düsseldorf",
+        "Zusatz": "http://www.reformhaus-goll.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7771,
+          51.217549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Reformhaus",
+        "* ": "",
+        "Name": "Reformhaus Goll",
+        "Adresse": "Luegallee 108a, 40545 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.750317,
+          51.231667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Reformhaus",
+        "* ": "",
+        "Name": "Reformhaus Kaubisch,",
+        "Adresse": "Jacobistr. 7, 40210 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78709,
+          51.2281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Reformhaus",
+        "* ": "omni/v/vgn",
+        "Name": "Reformhaus Ulrike Hilger",
+        "Adresse": "Nordstr. 100, 40477 Düsseldorf",
+        "Zusatz": "http://www.reformhaus-ulrikehilger.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78072,
+          51.23991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Reformhaus",
+        "* ": "",
+        "Name": "Reformhaus van der Zande",
+        "Adresse": "Neustr. 13, 40213 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776237,
+          51.227053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Reformhaus",
+        "* ": "",
+        "Name": "Reformhaus Wersten",
+        "Adresse": "Kölner Landstr. 204, 40591 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81949,
+          51.186721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "omni/v/vgn",
+        "Name": " Kirti's Dhaba",
+        "Adresse": "Düsselthaler Str. 1a, 40211 Düsseldorf",
+        "Zusatz": "http://www.kirtisdhaba.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.790046,
+          51.232201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "v/vgn",
+        "Name": "Amano Verde",
+        "Adresse": "Hammer Str. 23, 40219 Düsseldorf ",
+        "Zusatz": "http://www.radissonblu.de/mediaharbourhotel-duesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75375,
+          51.21377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "omni/v/vgn",
+        "Name": "Kirti's Restaurant",
+        "Adresse": "Brückenstr. 19, 40221 Düsseldorf",
+        "Zusatz": "http://www.kirtis.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.759679,
+          51.215849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "omni/v/vgn",
+        "Name": "Richie'n Rose",
+        "Adresse": "Konkordiastr. 89, 40219 Düsseldorf",
+        "Zusatz": "(also vegan & vegetarisch ist eher strittig!) http://www.richie-n-rose.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.766418,
+          51.212594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "v/vgn",
+        "Name": "Sattgrün Flingern",
+        "Adresse": "Hoffeldstr. 18, 40233 Düsseldorf",
+        "Zusatz": "http://sattgruen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81315,
+          51.23052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "v/vgn",
+        "Name": "Sattgrün Medienhafen",
+        "Adresse": "Brückenstr. 12, 40221 Düsseldorf",
+        "Zusatz": "http://sattgruen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.759028,
+          51.216035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "v/vgn",
+        "Name": "Sattgrün Mitte",
+        "Adresse": "Graf-Adolf-Platz 6, 40213 Düsseldorf",
+        "Zusatz": "http://sattgruen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77651,
+          51.218441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "v/vgn",
+        "Name": "SchnellVeg",
+        "Adresse": "Bagelstr. 130, 40479 Düsseldorf",
+        "Zusatz": "Vegetarian Eatery and Bar http://www.schnellveg.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79278,
+          51.23549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "omni/v/vgn",
+        "Name": "Space Burger",
+        "Adresse": "Neustr. 41, 40213 Düsseldorf",
+        "Zusatz": "http://spaceburger.eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776028,
+          51.226101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Restaurant",
+        "* ": "omni/v/vgn",
+        "Name": "Space Burger",
+        "Adresse": "Pfalzstr 15, 40477 Düsseldorf",
+        "Zusatz": "http://spaceburger.eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778246,
+          51.239845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Schuster",
+        "* ": "",
+        "Name": "Der schnelle Joe",
+        "Adresse": "Kruppstr. 47, 40227 Düsseldorf",
+        "Zusatz": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.799001,
+          51.213589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Supermarkt",
+        "* ": "omni/v/vgn",
+        "Name": "Basic – Bio für alle",
+        "Adresse": " Friedrichstr. 73, 40217 Düsseldorf",
+        "Zusatz": "http://www.basic-bio-genuss-fuer-alle.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776546,
+          51.214556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Supermarkt",
+        "* ": "omni/v/vgn",
+        "Name": "SuperBioMarkt",
+        "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
+        "Zusatz": "http://www.superbiomarkt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77324,
+          51.204647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Supermarkt",
+        "* ": "omni/v/vgn",
+        "Name": "SuperBioMarkt",
+        "Adresse": "Nordstr. 82, 40477 Düsseldorf",
+        "Zusatz": "http://www.superbiomarkt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.780089,
+          51.2392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Supermarkt",
+        "* ": "vgn",
+        "Name": "Vantastisch",
+        "Adresse": "Elisabethstr. 54A, Düsseldorf",
+        "Zusatz": "Vantastisch - alles vegan www.vantastisch-alles-vegan.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775559,
+          51.212216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Tansfair",
+        "* ": "",
+        "Name": "el martin - Das Fachgeschäft für fairen Handel",
+        "Adresse": "Nordstr. 94, 40477 Düsseldorf",
+        "Zusatz": "http://www.elmartin.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.780576,
+          51.239592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Cash & Raus ",
+        "Adresse": "Herzogstr. 28, 40217 Düsseldorf",
+        "Zusatz": "http://cash-und-raus.skmd.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778481,
+          51.21572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Cash & Raus ",
+        "Adresse": " Schloßstr. 58, 40477 Düsseldorf",
+        "Zusatz": "http://cash-und-raus.skmd.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7899,
+          51.24134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Cash & Raus ",
+        "Adresse": " Kaiserswerther Str. 33, 40477 Düsseldorf",
+        "Zusatz": "http://cash-und-raus.skmd.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777623,
+          51.238895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Cash & Raus ",
+        "Adresse": " Katzbachstr. 2, 40231 Düsseldorf",
+        "Zusatz": "Küchenstudio  http://cash-und-raus.skmd.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.835283,
+          51.20889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "",
+        "* ": "",
+        "Name": "Ökotop Heerdt e.V.",
+        "Adresse": "Am Ökotop 70, 40549 Düsseldorf",
+        "Zusatz": "http://www.oekotop.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71016,
+          51.23493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Mode",
+        "* ": "",
+        "Name": "PLUP - Planet Upcycling",
+        "Adresse": "Ackerstr. 168b, 40233 Düsseldorf",
+        "Zusatz": "https://www.planet-upcycling.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808411,
+          51.230414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Imker",
+        "* ": "",
+        "Name": "Imkerei Dieter Weinkauf & Karin Wolter",
+        "Adresse": "Bachstraße 68 40217 Düsseldorf",
+        "Zusatz": "http://honig-duesseldorf.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770653,
+          51.20883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Imker",
+        "* ": "",
+        "Name": "Imkerei Strauch",
+        "Adresse": "Eiskellersstr. 15, 40213 Düsseldorf",
+        "Zusatz": "http://www.duesseldorferhonig.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77307,
+          51.23053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Elementarteilchen",
+        "Adresse": "Ackerstraße 125, 40233 Düsseldorf",
+        "Zusatz": "http://www.elementarteilchen-secondhand.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.804651,
+          51.228834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Noblesse  Second-Hand",
+        "Adresse": "Oststraße 89, 40210 Düsseldorf",
+        "Zusatz": "http://www.noblesse-secondhand.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.786702,
+          51.223279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Feen und Kobolde",
+        "Adresse": "Nordstraße 80 Düsseldorf",
+        "Zusatz": "http://www.feenundkobolde.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.780028,
+          51.23917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "LIEBLINGSSTÜCKE",
+        "Adresse": "Bruchstraße 1, 40235 Düsseldorf ",
+        "Zusatz": "http://www.lieblings-stuecke.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.813763,
+          51.23067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Hosenmatz",
+        "Adresse": "Amsterdamer Straße 8, 40474 Düsseldorf",
+        "Zusatz": "http://www.hosenmatz.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.753663,
+          51.260151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Anziehend Secondhand ",
+        "Adresse": "Wissmannstr. 25, Düsseldorf",
+        "Zusatz": "https://www.facebook.com/anziehendduesseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.767983,
+          51.211101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Oxfam",
+        "Adresse": "Nordstr. 9, 40477 Düsseldorf",
+        "Zusatz": "http://www.oxfam.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778554,
+          51.235517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Jacke wie Hose",
+        "Adresse": "Bilker Allee 24, 40219 Düsseldorf ",
+        "Zusatz": "http://www.jacke-wie-hose-duesseldorf.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.765093,
+          51.211489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Vintage Fabrik",
+        "Adresse": "Nordstrasse 4 Düsseldorf ",
+        "Zusatz": "http://vintage-fabrik.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778275,
+          51.235661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Wellness",
+        "* ": "",
+        "Name": "PADMAVATI Ayurveda – Yoga, Wellness & Reiki",
+        "Adresse": "Reichsgasse/Ecke Reichsstrasse 57 40217 Düsseldorf",
+        "Zusatz": "http://www.padmavatiwellness.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774049,
+          51.215369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Wellness",
+        "* ": "",
+        "Name": "Rundum Yoga",
+        "Adresse": "Kronenstraße 4 40217 Düsseldorf",
+        "Zusatz": "http://www.rundumyoga.de/ (Studio Unterbilk)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774079,
+          51.213539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Wellness",
+        "* ": "",
+        "Name": "Rundum Yoga",
+        "Adresse": "Schwerinstraße 21, 40477 Düsseldorf",
+        "Zusatz": "http://www.rundumyoga.de/ (Studio Derendorf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778793,
+          51.239684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Bioladen",
+        "* ": "",
+        "Name": "Naturburschen",
+        "Adresse": "Birkenstraße 149 40233 Düsseldorf ",
+        "Zusatz": "http://www.naturburschen-flingern.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.810927,
+          51.226915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "",
+        "* ": "",
+        "Name": "Repaircafé",
+        "Adresse": "Bilker Allee 217 (in den Räumen des Coworking Space GarageBilk)  40215 Düsseldorf",
+        "Zusatz": "http://garage-lab.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803,
+          51.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "",
+        "* ": "",
+        "Name": "TasteGreece",
+        "Adresse": "Volmerswerther Str. 21 40221 Düsseldorf",
+        "Zusatz": "http://www.tastegreece.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76205,
+          51.21018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "RAD AB ",
+        "Adresse": "Friedrichstraße 112 – 116, 40217 Düsseldorf ",
+        "Zusatz": "http://www.radab.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776965,
+          51.211348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "Magno Fahrräder ",
+        "Adresse": "Bilker Allee 167, 40217 Düsseldorf",
+        "Zusatz": "http://www.magno.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77625,
+          51.210567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "JUNG & VOLKE Zweiradstudio",
+        "Adresse": "Jahnstrasse 22 - 24, 40215 Düsseldorf",
+        "Zusatz": "http://www.jung-volke.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.781016,
+          51.216071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "Radstation Düsseldorf",
+        "Adresse": "Willi-Becker-Allee 8a, 40227 Düsseldorf",
+        "Zusatz": "http://www.radstation-duesseldorf.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79502,
+          51.218146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Fahrrad",
+        "* ": "",
+        "Name": "Bicycle Doctor ",
+        "Adresse": "Derendorfer Straße 10 – 12, 40479 Düsseldorf ",
+        "Zusatz": "http://www.bicycle-doctor.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.789826,
+          51.237228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "SecondHand",
+        "* ": "",
+        "Name": "Oxfam",
+        "Adresse": "Friedrichstraße 25, 40217 Düsseldorf",
+        "Zusatz": "http://www.oxfam.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776629,
+          51.217201
+        ]
+      }
+    }
+  ]
+}
