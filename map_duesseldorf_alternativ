@@ -25,7 +25,8 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Nordstr. 77, 40477 Düsseldorf",
-        "Zusatz": "http://www.ihr-baecker-schueren.de"
+        "Zusatz": "http://www.ihr-baecker-schueren.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +43,8 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Hauptstr. 5, 40597 Düsseldorf",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +61,8 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Luegallee 93, 40545 Düsseldorf    ",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +79,8 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Rethelstr. 144, 40239 Düsseldorf",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +97,8 @@
         "* ": "",
         "Name": "Bäckerei Hinkel",
         "Adresse": "Hohe Str. 31, 40213 Düsseldorf",
-        "Zusatz": "http://www.baeckerei-hinkel.de"
+        "Zusatz": "http://www.baeckerei-hinkel.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +115,8 @@
         "* ": "",
         "Name": "Hercules Bäckerei ",
         "Adresse": "Ulmenstr. 120, 40476 Düsseldorf,",
-        "Zusatz": "http://www.hercules-baeckerei.de"
+        "Zusatz": "http://www.hercules-baeckerei.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +133,8 @@
         "* ": "",
         "Name": "Steinofen Bäcker (im SuperBioMarkt)",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
-        "Zusatz": "www.steinofenbaecker.de"
+        "Zusatz": "www.steinofenbaecker.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +151,8 @@
         "* ": "",
         "Name": "Annes Bioladen",
         "Adresse": "Benrodestr. 39, 40597 Düsseldorf",
-        "Zusatz": "http://www.annesbioladen.de"
+        "Zusatz": "http://www.annesbioladen.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +169,8 @@
         "* ": "",
         "Name": "Das Kleeblatt",
         "Adresse": "Benderstr. 75 40625 Düsseldorf",
-        "Zusatz": ""
+        "Zusatz": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +187,8 @@
         "* ": "",
         "Name": "Frucht & Genuss ",
         "Adresse": "Stresemannstr. 29,  40210 Düsseldorf",
-        "Zusatz": "http://www.fruchtundgenuss.de"
+        "Zusatz": "http://www.fruchtundgenuss.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +205,8 @@
         "* ": "",
         "Name": "Hofladen Südpark",
         "Adresse": "In den Großen Banden 60, 40225 Düsseldorf",
-        "Zusatz": "http://www.wfaa.de"
+        "Zusatz": "http://www.wfaa.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +223,8 @@
         "* ": "",
         "Name": "Naturkost Holthausen",
         "Adresse": "Itter Str. 34, 40589 Düsseldorf",
-        "Zusatz": "http://www.moehre.com"
+        "Zusatz": "http://www.moehre.com",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +241,8 @@
         "* ": "v/vgn",
         "Name": "Natürlich Natürlich",
         "Adresse": "Brunnenstr. 22 40223 Düsseldorf",
-        "Zusatz": ""
+        "Zusatz": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +259,9 @@
         "* ": "omni/v/vgn",
         "Name": "Ökologische Marktwirtschaft",
         "Adresse": "Heerstr. 19 40227 Düsseldorf",
-        "Zusatz": "http://www.oekoma.de"
+        "Zusatz": "http://www.oekoma.de",
+        "marker-size": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -259,11 +274,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "Typ": "Buchhandlung",
         "* ": "",
         "Name": "BiBaBuZe",
         "Adresse": "Aachener Str. 1, 40223 Düsseldorf",
-        "Zusatz": "Die BilkerBasisBuchZentrale ist mehr als nur ein Buchladen http://www.bibabuze.de/"
+        "Zusatz": "Die BilkerBasisBuchZentrale ist mehr als nur ein Buchladen http://www.bibabuze.de/",
+        "marker-symbol": "library"
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +315,8 @@
         "* ": "",
         "Name": "GEWÄCHSHAUS DÜSSELDORF",
         "Adresse": "Mindener Str. 30, 40227 Düsseldorf",
-        "Zusatz": "http://www.gewaechshaus-duesseldorf.de"
+        "Zusatz": "http://www.gewaechshaus-duesseldorf.de",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +333,8 @@
         "* ": "omni/v/vgn",
         "Name": "Café Sternwarte",
         "Adresse": "Volmerswertherstr. 130,  40221 Düsseldorf",
-        "Zusatz": "Cafe, Park und Wasserspielplatz"
+        "Zusatz": "Cafe, Park und Wasserspielplatz",
+        "marker-size": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -973,6 +993,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
         "Typ": "Mode",
         "* ": "",
         "Name": "HanfHaus Düsseldorf",
@@ -1449,6 +1472,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
         "Typ": "SecondHand",
         "* ": "",
         "Name": "Cash & Raus ",
@@ -1483,6 +1509,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
         "Typ": "SecondHand",
         "* ": "",
         "Name": "Cash & Raus ",
