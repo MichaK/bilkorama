@@ -1776,7 +1776,8 @@
       "properties": {
         "Adresse": "Kasernenstraße 67",
         "stadt": "Düsseldorf",
-        "": "Standort der ehemaligen Synagoge"
+        "": "Standort der ehemaligen Synagoge",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1792,8 @@
       "properties": {
         "Adresse": "Anton-Betz-Straße",
         "stadt": "Düsseldorf",
-        "": "An dieser Stelle wurden die Widerstandskämpfer Franz Jürgens, Theodor Andresen, Karl Kleppe, Josef Knab  und Hermann Weill der Aktion Rheinland ermordet."
+        "": "An dieser Stelle wurden die Widerstandskämpfer Franz Jürgens, Theodor Andresen, Karl Kleppe, Josef Knab  und Hermann Weill der Aktion Rheinland ermordet.",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1806,7 +1808,8 @@
       "properties": {
         "Adresse": "Torfbruchstraße 350",
         "stadt": "Düsseldorf",
-        "": "Gedenktafel für politisch Verfolgte in Gerresheim "
+        "": "Gedenktafel für politisch Verfolgte in Gerresheim ",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1824,8 @@
       "properties": {
         "Adresse": "Mühlenstraße 29",
         "stadt": "Düsseldorf",
-        "": "Mahn- und Gedenkstätte der Landeshauptstadt Düsseldorf "
+        "": "Mahn- und Gedenkstätte der Landeshauptstadt Düsseldorf ",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1840,8 @@
       "properties": {
         "Adresse": "Rather Straße",
         "stadt": "Düsseldorf",
-        "": "Sammelort der deportierten Juden - Schlachthofmauer "
+        "": "Sammelort der deportierten Juden - Schlachthofmauer ",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1851,7 +1856,8 @@
       "properties": {
         "Adresse": "Reuterkaserne",
         "stadt": "Düsseldorf",
-        "": "SS-Foltergefängnis (Reuterkaserne)"
+        "": "SS-Foltergefängnis (Reuterkaserne)",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1866,7 +1872,8 @@
       "properties": {
         "Adresse": "Bismarckstraße 44",
         "stadt": "Düsseldorf",
-        "": "„Schlegelkeller“ SA-Folterkeller"
+        "": "„Schlegelkeller“ SA-Folterkeller",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1888,9 @@
       "properties": {
         "Adresse": "Siegburger Straße 15",
         "stadt": "Düsseldorf",
-        "": "KZ Außenlager Sachsenhausen - Stoffeler Kapellenweg"
+        "": "KZ Außenlager Sachsenhausen - Stoffeler Kapellenweg",
+        "marker-color": "",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1896,7 +1905,8 @@
       "properties": {
         "Adresse": "Posenerstr 222",
         "stadt": "Düsseldorf",
-        "": "„Zigeunerlager Höherweg“"
+        "": "„Zigeunerlager Höherweg“",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +1921,8 @@
       "properties": {
         "Adresse": "Ehrenhof 1",
         "stadt": "Düsseldorf",
-        "": "Ort der Bücherverbrennung "
+        "": "Ort der Bücherverbrennung ",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1926,7 +1937,8 @@
       "properties": {
         "Adresse": "Schulstr 2",
         "stadt": "Düsseldorf",
-        "": "Mahnmal „Ehra oder Kind mit Ball – gewidmet den KZ-Überlebenden aus dem Lager Höherweg"
+        "": "Mahnmal „Ehra oder Kind mit Ball – gewidmet den KZ-Überlebenden aus dem Lager Höherweg",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +1953,8 @@
       "properties": {
         "Adresse": "oberbilkermarkt",
         "stadt": "Düsseldorf",
-        "": "Gedenktafel für Moritz Sommer"
+        "": "Gedenktafel für Moritz Sommer",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1956,7 +1969,8 @@
       "properties": {
         "Adresse": "Haroldstraße 26 ",
         "stadt": "Düsseldorf",
-        "": "„Schlageterheim“ - Folterkeller der SA"
+        "": "„Schlageterheim“ - Folterkeller der SA",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +1985,8 @@
       "properties": {
         "Adresse": "Joseph Beuys Ufer 1",
         "stadt": "Düsseldorf",
-        "": "Gedenktafel für Hilarius Gilges "
+        "": "Gedenktafel für Hilarius Gilges ",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1986,7 +2001,8 @@
       "properties": {
         "Adresse": "Oststraße 42",
         "stadt": "Düsseldorf",
-        "": "Gedenktafel für Kaplan Rossaint"
+        "": "Gedenktafel für Kaplan Rossaint",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2017,8 @@
       "properties": {
         "Adresse": "Am Nordfriedhof 1",
         "stadt": "Düsseldorf",
-        "": "Ehrenmal/Ehrengrab für die Widerstandskämpfer vom 16. April 1945"
+        "": "Ehrenmal/Ehrengrab für die Widerstandskämpfer vom 16. April 1945",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2033,8 @@
       "properties": {
         "Adresse": "Golzheimer Friedhof",
         "stadt": "Düsseldorf",
-        "": "Gedenkstein für Karl Schwesig sowie für die verfolgten und ermordeten Düsseldorfer Künstler Franz Monjau, Julo Levin und Peter Ludwigs "
+        "": "Gedenkstein für Karl Schwesig sowie für die verfolgten und ermordeten Düsseldorfer Künstler Franz Monjau, Julo Levin und Peter Ludwigs ",
+        "marker-symbol": "square"
       },
       "geometry": {
         "type": "Point",
