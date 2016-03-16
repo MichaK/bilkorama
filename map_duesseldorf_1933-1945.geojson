@@ -2136,7 +2136,9 @@
       "properties": {
         "Adresse": "Grafental",
         "stadt": "Düsseldorf",
-        "": "KZ Außenlager Buchenwald Lager: 'Berta'  - Hohenzollern-Gelände (Lokomotivfabrik), Rheinmetall-Borsig"
+        "": "KZ Außenlager Buchenwald Lager: 'Berta'  - Hohenzollern-Gelände (Lokomotivfabrik), Rheinmetall-Borsig",
+        "marker-symbol": "square",
+        "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
@@ -2149,9 +2151,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
         "Adresse": "Arnheimer Str. 115 ",
-        "stadt": "Düsseldorf",
-        "": "KZ Außenlager Buchenwald Lager: Düsseldorf-Friedrichstadt (Kalkum) - III. SS-Baubrigade, Bombenräumung"
+        "stadt": "Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -2166,7 +2170,9 @@
       "properties": {
         "Adresse": "Kirchfeldstraße 74-80",
         "stadt": "Düsseldorf",
-        "": "KZ Außenlager Buchenwald Lager: Düsseldorf-Friedrichstadt (DESt) - Deutsche Erd- und Steinwerke, Trümmerbeseitigung,"
+        "": "KZ Außenlager Buchenwald Lager: Düsseldorf-Friedrichstadt (DESt) - Deutsche Erd- und Steinwerke, Trümmerbeseitigung,",
+        "marker-symbol": "square",
+        "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
@@ -2181,7 +2187,9 @@
       "properties": {
         "Adresse": "Ulmenstraße 136",
         "stadt": "Düsseldorf",
-        "": "KZ Außenlager Buchenwald Lager: Derendorf – Lagername: Rheinmetall Borsig / Berta II/Borsig"
+        "": "KZ Außenlager Buchenwald Lager: Derendorf – Lagername: Rheinmetall Borsig / Berta II/Borsig",
+        "marker-symbol": "square",
+        "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2204,9 @@
       "properties": {
         "Adresse": "Leuchtenberger Kirchweg 87-93",
         "stadt": "Düsseldorf",
-        "": "KZ Außenlager Buchenwald Lager-Nummer: 246 / Sprengkommando Düsseldorf-Lohausen"
+        "": "KZ Außenlager Buchenwald Lager-Nummer: 246 / Sprengkommando Düsseldorf-Lohausen",
+        "marker-symbol": "square",
+        "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
