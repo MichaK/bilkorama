@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#40a134",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Typ": "Anbau",
         "* ": "",
         "Name": "Meine Ernte – Gemüsebau Andree",
@@ -25,7 +28,9 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Nordstr. 77, 40477 Düsseldorf",
-        "Zusatz": "http://www.ihr-baecker-schueren.de"
+        "Zusatz": "http://www.ihr-baecker-schueren.de",
+        "marker-color": "",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +47,8 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Hauptstr. 5, 40597 Düsseldorf",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +65,8 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Luegallee 93, 40545 Düsseldorf    ",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +83,8 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Rethelstr. 144, 40239 Düsseldorf",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de"
+        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +101,8 @@
         "* ": "",
         "Name": "Bäckerei Hinkel",
         "Adresse": "Hohe Str. 31, 40213 Düsseldorf",
-        "Zusatz": "http://www.baeckerei-hinkel.de"
+        "Zusatz": "http://www.baeckerei-hinkel.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +119,8 @@
         "* ": "",
         "Name": "Hercules Bäckerei ",
         "Adresse": "Ulmenstr. 120, 40476 Düsseldorf,",
-        "Zusatz": "http://www.hercules-baeckerei.de"
+        "Zusatz": "http://www.hercules-baeckerei.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +137,8 @@
         "* ": "",
         "Name": "Steinofen Bäcker (im SuperBioMarkt)",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
-        "Zusatz": "www.steinofenbaecker.de"
+        "Zusatz": "www.steinofenbaecker.de",
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
@@ -259,6 +270,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff7f00",
+        "marker-size": "medium",
+        "marker-symbol": "library",
         "Typ": "Buchhandlung",
         "* ": "",
         "Name": "BiBaBuZe",
@@ -310,6 +324,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
         "Typ": "Cafe",
         "* ": "omni/v/vgn",
         "Name": "Café Sternwarte",
@@ -331,7 +348,9 @@
         "* ": "v/vgn",
         "Name": "Carrot/Cake",
         "Adresse": "Moltkestr. 75, 40479 Düsseldorf",
-        "Zusatz": "http://www.carrotcake.de"
+        "Zusatz": "http://www.carrotcake.de",
+        "marker-symbol": "cafe",
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -344,6 +363,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
         "Typ": "Cafe",
         "* ": "omni/v/vgn",
         "Name": "Florabar",
@@ -365,7 +387,9 @@
         "* ": "v/vgn",
         "Name": "Greenies",
         "Adresse": "Collenbachstr. 41, 40476 Düsseldorf",
-        "Zusatz": "Cafe mit vegetarisch/veganer Küche https://www.facebook.com/greeniessalat"
+        "Zusatz": "Cafe mit vegetarisch/veganer Küche https://www.facebook.com/greeniessalat",
+        "marker-color": "#0000ff",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -378,11 +402,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Typ": "Cafe",
         "* ": "omni/v/vgn",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Am Carlsplatz 6B, 40213 Düsseldorf ",
-        "Zusatz": "info@yomaro.de"
+        "Zusatz": "info@yomaro.de",
+        "marker-color": "#0000ff",
+        "marker-symbol": "ice-cream"
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +426,9 @@
         "* ": "omni/v",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Immermannstr. 18, 40210 Düsseldorf ",
-        "Zusatz": "info@yomaro.de"
+        "Zusatz": "info@yomaro.de",
+        "marker-color": "#0000ff",
+        "marker-symbol": "ice-cream"
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +445,9 @@
         "* ": "omni/v",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Hauptstr. 18, 40597 Düsseldorf",
-        "Zusatz": "info@yomaro.de"
+        "Zusatz": "info@yomaro.de",
+        "marker-color": "#0000ff",
+        "marker-symbol": "ice-cream"
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +464,9 @@
         "* ": "omni/v",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Lorettostr. 17, 40219 Düsseldorf",
-        "Zusatz": "info@yomaro.de"
+        "Zusatz": "info@yomaro.de",
+        "marker-color": "#0000ff",
+        "marker-symbol": "ice-cream"
       },
       "geometry": {
         "type": "Point",
@@ -450,7 +483,9 @@
         "* ": "v/vgn",
         "Name": "Eiscafe",
         "Adresse": "Friedrichstr. 8 40217 Düsseldorf",
-        "Zusatz": "http://www.eisbar-eis.de"
+        "Zusatz": "http://www.eisbar-eis.de",
+        "marker-color": "#0000ff",
+        "marker-symbol": "ice-cream"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +1202,8 @@
         "* ": "omni/v/vgn",
         "Name": " Kirti's Dhaba",
         "Adresse": "Düsselthaler Str. 1a, 40211 Düsseldorf",
-        "Zusatz": "http://www.kirtisdhaba.de/"
+        "Zusatz": "http://www.kirtisdhaba.de/",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1180,6 +1216,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
         "Typ": "Restaurant",
         "* ": "v/vgn",
         "Name": "Amano Verde",
@@ -1201,7 +1240,8 @@
         "* ": "omni/v/vgn",
         "Name": "Kirti's Restaurant",
         "Adresse": "Brückenstr. 19, 40221 Düsseldorf",
-        "Zusatz": "http://www.kirtis.de"
+        "Zusatz": "http://www.kirtis.de",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1218,7 +1258,8 @@
         "* ": "omni/v/vgn",
         "Name": "Richie'n Rose",
         "Adresse": "Konkordiastr. 89, 40219 Düsseldorf",
-        "Zusatz": "(also vegan & vegetarisch ist eher strittig!) http://www.richie-n-rose.de/"
+        "Zusatz": "(also vegan & vegetarisch ist eher strittig!) http://www.richie-n-rose.de/",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1235,7 +1276,8 @@
         "* ": "v/vgn",
         "Name": "Sattgrün Flingern",
         "Adresse": "Hoffeldstr. 18, 40233 Düsseldorf",
-        "Zusatz": "http://sattgruen.de/"
+        "Zusatz": "http://sattgruen.de/",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1252,7 +1294,8 @@
         "* ": "v/vgn",
         "Name": "Sattgrün Medienhafen",
         "Adresse": "Brückenstr. 12, 40221 Düsseldorf",
-        "Zusatz": "http://sattgruen.de/"
+        "Zusatz": "http://sattgruen.de/",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1269,7 +1312,8 @@
         "* ": "v/vgn",
         "Name": "Sattgrün Mitte",
         "Adresse": "Graf-Adolf-Platz 6, 40213 Düsseldorf",
-        "Zusatz": "http://sattgruen.de/"
+        "Zusatz": "http://sattgruen.de/",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1286,7 +1330,8 @@
         "* ": "v/vgn",
         "Name": "SchnellVeg",
         "Adresse": "Bagelstr. 130, 40479 Düsseldorf",
-        "Zusatz": "Vegetarian Eatery and Bar http://www.schnellveg.com/"
+        "Zusatz": "Vegetarian Eatery and Bar http://www.schnellveg.com/",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1303,7 +1348,8 @@
         "* ": "omni/v/vgn",
         "Name": "Space Burger",
         "Adresse": "Neustr. 41, 40213 Düsseldorf",
-        "Zusatz": "http://spaceburger.eu"
+        "Zusatz": "http://spaceburger.eu",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1320,7 +1366,8 @@
         "* ": "omni/v/vgn",
         "Name": "Space Burger",
         "Adresse": "Pfalzstr 15, 40477 Düsseldorf",
-        "Zusatz": "http://spaceburger.eu"
+        "Zusatz": "http://spaceburger.eu",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1337,7 +1384,8 @@
         "* ": "",
         "Name": "Der schnelle Joe",
         "Adresse": "Kruppstr. 47, 40227 Düsseldorf",
-        "Zusatz": ""
+        "Zusatz": "",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -1354,7 +1402,8 @@
         "* ": "omni/v/vgn",
         "Name": "Basic – Bio für alle",
         "Adresse": " Friedrichstr. 73, 40217 Düsseldorf",
-        "Zusatz": "http://www.basic-bio-genuss-fuer-alle.de"
+        "Zusatz": "http://www.basic-bio-genuss-fuer-alle.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1420,8 @@
         "* ": "omni/v/vgn",
         "Name": "SuperBioMarkt",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
-        "Zusatz": "http://www.superbiomarkt.de"
+        "Zusatz": "http://www.superbiomarkt.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1388,7 +1438,8 @@
         "* ": "omni/v/vgn",
         "Name": "SuperBioMarkt",
         "Adresse": "Nordstr. 82, 40477 Düsseldorf",
-        "Zusatz": "http://www.superbiomarkt.de"
+        "Zusatz": "http://www.superbiomarkt.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1405,7 +1456,8 @@
         "* ": "vgn",
         "Name": "Vantastisch",
         "Adresse": "Elisabethstr. 54A, Düsseldorf",
-        "Zusatz": "Vantastisch - alles vegan www.vantastisch-alles-vegan.de"
+        "Zusatz": "Vantastisch - alles vegan www.vantastisch-alles-vegan.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1422,7 +1474,8 @@
         "* ": "",
         "Name": "el martin - Das Fachgeschäft für fairen Handel",
         "Adresse": "Nordstr. 94, 40477 Düsseldorf",
-        "Zusatz": "http://www.elmartin.de"
+        "Zusatz": "http://www.elmartin.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1541,7 +1594,8 @@
         "* ": "",
         "Name": "Imkerei Dieter Weinkauf & Karin Wolter",
         "Adresse": "Bachstraße 68 40217 Düsseldorf",
-        "Zusatz": "http://honig-duesseldorf.de"
+        "Zusatz": "http://honig-duesseldorf.de",
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
@@ -1809,6 +1863,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
         "Typ": "",
         "* ": "",
         "Name": "TasteGreece",
@@ -1922,6 +1979,28 @@
         "coordinates": [
           6.776629,
           51.217201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769310832023621,
+          51.209810613072605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769031882286071,
+          51.21067093115061
         ]
       }
     }
