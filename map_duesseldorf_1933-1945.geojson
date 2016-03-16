@@ -1,0 +1,2210 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Achenbachstr. 74",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Anna Steinberg geb. Magnus, Jg. 1882, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80253,
+          51.23511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Achenbachstr. 74",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Helmut Steinberg, Jg. 1914, 1939 Flucht n. Brüssel, deportiert, ermordet in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80253,
+          51.23511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Achenbachstr. 75",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Richard Steinberg, Jg. 1916, ermordet 15.2.1941, Heilanstalt Grafenberg "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80334,
+          51.23518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Adalbertstraße 22",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75461,
+          51.23001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Am Wehrhahn 5",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Otto Schwarz, Jg. 1902, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788176,
+          51.228008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Am Wehrhahn 5",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Frieda Schwarz geb. Rosenberg, Jg. 1908, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788176,
+          51.228008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Am Wehrhahn 6",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Ingeborg Schwarz, Jg. 1931, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788187,
+          51.228111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Am Wehrhahn 6",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Günther Leo Schwarz, Jg. 1936, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788187,
+          51.228111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Am Wehrhahn 7",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Herbert Schwarz, Jg. 1937, deportiert 1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788326,
+          51.228045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Auf der Gemarke 25",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Moritz Ludwig, Jg. 1906, verhaftet 1935, tot 22.10.1936 im Polizeipräsidium "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.839514,
+          51.226085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cecilienallee 11",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Franz Anselm Cohen-Altmann, Jg. 1905, deportiert 1942, aus Heilanstalt Bendorf-Sayn, tot in Izbica "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770663,
+          51.242267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cecilienallee 19",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Albert Schöndorff, Jg. 1870, Flucht 1938 Holland, deportiert, Auschwitz, ermordet 17.9.1942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769969,
+          51.24321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cecilienallee 19",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Marie Schöndorff geb. Gross, Jg. 1871, Flucht 1938 Holland, deportiert, Auschwitz, ermordet 17.9.1942 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769969,
+          51.24321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cheruskerstr. 46",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Heinrich Pfingst, Jg. 1874, deportiert, ermordet in Sobibor "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.752521,
+          51.23016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cheruskerstraße 44",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.752701,
+          51.230054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cheruskerstraße 99",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.749349,
+          51.230903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cheruskerstraße 99",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.749349,
+          51.230903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cranachplatz 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Paul Marcus, Jg. 1882, ermordet 9.11.1938 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8124,
+          51.23161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Dreherstr. 14",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Berta Dirks geb. Wolf, Jg. 1892, deportiert 1942, Theresienstadt, ermordet in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.858273,
+          51.236136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Dreherstr. 14",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Walter Dirks, Jg. 1921, verhaftet, deportiert, ermordet 22.02.1943 in Auschwitz "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.858273,
+          51.236136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Düsseldorfer Straße 88",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.750178,
+          51.228523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Engerstraße 5",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.815593,
+          51.23302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Erkrather Str. 340",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Theodor Wilms, Jg. 1881, deportiert, KZ Dachau, tot 16.3.1941 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.822406,
+          51.214622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Florastr. 4",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Albert Schnook, Jg. 1878, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77311,
+          51.215242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Florastr. 4",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Rosa Schnook geb. Blech, Jg. 1885, deportiert 1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77311,
+          51.215242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Friedenstr. 18",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Siegfried Steineberg, Jg. 1906, verhaftet 1935, erschossen 1941, KZ Mauthausen "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.768909,
+          51.213183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Fürstenwall/Jahnstr.",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Adolf Baumblatt, Jg. 1899, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.781049,
+          51.213733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Fürstenwall/Jahnstr.",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Frieda Baumblatt geb. Turin, Jg. 1897, deportiert 1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.781049,
+          51.213733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Füsilierstr. 14",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Sophie Frank geb. Levy, Jg. 1907, deportiert 1941, Ghetto Lodz, tot 16.7.1942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.779163,
+          51.250093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Füsilierstr. 14",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Hertha Levy, Jg. 1913, deportiert 1941, Minsk, ermordet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.779163,
+          51.250093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Füsilierstr. 14",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Rudi Levy, Jg. 1917, Flucht in den Tod, 1935 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.779163,
+          51.250093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Geibelstr. 39",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Robert Glücksmann, Jg. 1877, deportiert 1942, Theresienstadt, Tot 10.9.1942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82281,
+          51.24287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Geibelstr. 39",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Käthe Glücksmann geb. Stern, Jg. 1886, deportiert 1942, Theresienstadt, ermordet 1944 in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82281,
+          51.24287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Geibelstr. 39",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Brigitte Glücksmann, Jg. 1924, Flucht 1939 London, Tot 1944 bei Luftangriff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82281,
+          51.24287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Geibelstr. 39",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Margarethe Stern geb. Hirschfeld, Jg. 1864, deportiert 1942 Theresienstadt, Tot 1943 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82281,
+          51.24287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gertrudisplatz",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Klara Kerz, Jg. 1918, hingerichtet 6.7.1944, Köln-Klingelpütz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.838741,
+          51.200937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gertrudisplatz",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Robert Raths, Jg. 1915, deportiert, KZ Dachau, tot 23.3.1942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.838741,
+          51.200937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gertrudisplatz",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Paul Maus, Jg. 1900, deportiert, KZ Buchenwald, tot 22.8.1941 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.838741,
+          51.200937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Graf-Adolf-Straße 16",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.780254,
+          51.219014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Graf-Recke-Str. 49",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Arthur Cohen, Jg. 1888, deportiert 1941, Lodz, ermordet 11.9.1942, Chelmno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80689,
+          51.23986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Graf-Recke-Str. 49",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Änne Cohen, Jg. 1898, deportiert 1941, Lodz, ermordet 11.9.1942, Chelmno "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80689,
+          51.23986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Graf-Recke-Str. 53",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Reinhard Semrau, Jg. 1899, drangsaliert von Gestapo, Flucht in den Tod, 3.5.1943 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80715,
+          51.23996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Grafenberger Allee 74",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Hans Wollberg, Jg. 1904, Flucht 1939 Holland, deportiert 20.7.1943, ermordet in Sobibor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80208,
+          51.23088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Grafenberger Allee 74",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Selma Wollberg geb. Eichwald, Jg. 1902, Flucht 1939 Holland, deportiert 20.7.1943 Sobibor, ermordet 23.7.1943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80208,
+          51.23088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Grafenberger Allee 74",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Emma Levisohn, Jg. 1880, deportiert 10.11.1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80208,
+          51.23088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Grafenberger Allee 74",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Sali Eichwald, Jg. 1880, Flucht 1939 Holland, deportiert 20.7.1943, ermordet in Sobibor "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80208,
+          51.23088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Grafenberger Allee 78",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Günther Gottschalk, Jg. 1933, deportiert 1941 Richtung Osten, ??? "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802423,
+          51.230892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gumbertstr. 108",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Johann Crombach, Jg. 1912, verhaftet 1937, ermordet 2.10.1942 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.836596,
+          51.202092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gumbertstr. 91",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Salomon Brasch, Jg. 1884, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.836336,
+          51.202869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gumbertstr. 91",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Hedwig Brasch geb. Bluhm, Jg. 1896, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.836336,
+          51.202869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gumbertstr. 91",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Ludwig Brasch, Jg. 1929, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.836336,
+          51.202869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gumbertstr. 91",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Auguste Leven, Jg. 1878, Flucht in den Tod, 15.6.1942, vor der Deportation "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.836336,
+          51.202869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Hermannstraße 5",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80673,
+          51.2309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Immermannstr. 71",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Eduard Wolff, Jg. 1889, deportiert 1941 Ghetto Lodz, ermordet 3.10.1944 Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.791426,
+          51.221847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Immermannstr. 71",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Hanna Wolff geb. Jacob, Jg. 1906, deportiert 1941 Ghetto Lodz, ermordet Aug. 1944 Auschwitz "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.791426,
+          51.221847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Josephinenstr. 13",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Benjamin Baer, Jg. 1875, deportiert 1943, ermordet in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782043,
+          51.223493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Josephinenstr. 13",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Martha Baer geb. Sonnenberg, Jg. 1878, deportiert 1943, ermordet in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782043,
+          51.223493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Jülicher Str. 5",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Wolf Frank, Jg. 1893, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.783149,
+          51.24227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Jülicher Str. 5",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Ellen Frank, Jg. 1927, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.783149,
+          51.24227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Jülicher Str. 6",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Fanny Frank geb. Kaufmann, Jg. 1897, deportiert 1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.783104,
+          51.242648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Karlstr. 95",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Isidor Eichwald, Jg. 1855, \"Heilanstalt\" Grafenberg, deportiert 1941, ermordet "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.792413,
+          51.222482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Katharinenstr. 20",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Franz Boehm, Jg. 1880, 'Schutzhaft' 5.6.1944, Dachau, tot 13.2.1945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.864111,
+          51.217377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kirchfeldstr. 145",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Henriette Lion geb Adler, Jg. 1872, deportiert 1942, Theresienstadt, ermordet 1942, Treblinka Henriette Lion wurde am 13.12.1872 in Bensheim geboren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785752,
+          51.212215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kirchfeldstr. 87",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Georg Gehring, Jg. 1887, verhaftet 1943, erschossen 11.03.1944 in Düsseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.779046,
+          51.21228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kölner Straße 151",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79925,
+          51.220293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kölner Straße 280",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.807289,
+          51.212289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Königsallee",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.779307,
+          51.222515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Königsallee",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.779307,
+          51.222515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Konrad-Adenauer-Platz 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Otto Baum, Jg. 1871, deportiert 1942, Theresienstadt, tot 25.9.1942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.792441,
+          51.222114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Konrad-Adenauer-Platz 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Frieda Baum geb. Dornberger, Jg. 1879, deportiert 1942, Theresienstadt, ermordet 1944 in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.792441,
+          51.222114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Konrad-Adenauer-Platz 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Julo Levin, Jg. 1901, deportiert 17.5.1943, ermordet 1943 in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.792441,
+          51.222114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Konrad-Adenauer-Platz 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Grete Rothschild geb. Baum, Jg. 1906, Flucht Frankreich, deportiert 1942, ermordet in Auschwitz "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.792441,
+          51.222114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Leopoldstr. 22",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Franz Monjau, Jg. 1903, versteckt 1944, deportiert, KZ Buchenwald, tot 28.2.1945 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.790591,
+          51.226399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Ludenberger Str. 37",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Alma Fuhrmann geb. David, Jg. 1900, deportiert 10.11.1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.833355,
+          51.240374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Luegallee 15",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.758675,
+          51.231294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Moltkestr. 53",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Albert Eckstein, Jg. 1892, Flucht Holland, deportiert 1944, Theresienstadt, ermordet in Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78754,
+          51.23889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Moltkestr. 53",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Margarethe Eckstein geb. Roos, Jg. 1900, deportiert 10.11.1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78754,
+          51.23889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Moltkestraße 100",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79105,
+          51.237476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Moltkestraße 85",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.790559,
+          51.237334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Neusser Straße 37",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.765416,
+          51.217027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Nordstraße 3",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778411,
+          51.235513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Oststraße 52",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788397,
+          51.225187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Oststraße 52",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788397,
+          51.225187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Paulusstr. 15",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Josef Herkenrath, Jg. 1900, in Haft genommen, tot 20.9.1942, KZ Börgermoor "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802919,
+          51.236476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Rathausufer 15",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Alfred Meyerstein, Jg. 1884, deportiert 1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769706,
+          51.223855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Rathausufer 15",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Meta Meyerstein geb. Herz, Jg. 1888, deportiert 1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769706,
+          51.223855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Rathausufer 18",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Reisel Laja Birnbach geb. Weinmann, Jg. 1895, ausgewiesen 28.10.1938, Zbaszyn/Ghetto Tarnow, ermordet Juni 1942 in Treblinka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769512,
+          51.223566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Rathausufer 18",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Pescha Birnbach, Jg. 1927, ausgewiesen 28.10.1938, Zbaszyn/Ghetto Tarnow, ermordet Juni 1942 in Treblinka "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769512,
+          51.223566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Reisholzerstr. 26",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Hans Neubeck, Jg. 1897, Flucht 1935 Belgien, tot im spanischen Bürgerkrieg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.830877,
+          51.207979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Reisholzerstr. 26",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Anna Neubeck geb. Herzstein, Jg. 1900, Flucht 1935 Belgien, deportiert, Ausschwitz, ermordet 10.1.1943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.830877,
+          51.207979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Reisholzerstr. 26",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Marianne Neubeck, Jg. 1924, Flucht 1935 Belgien, deportiert, Ausschwitz ermordet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.830877,
+          51.207979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Reisholzerstr. 26",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Herbert Neubeck, Jg. 1923, Flucht 1936 Belgien, verhaftet, hingerichtet, 21.4.1943 Berlin-Plötzensee "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.830877,
+          51.207979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Reisholzerstr. 28",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Emil Jokisch, Jg. 1881, verhaftet 1935, Tot 19.10.1944 KZ Sachsenhausen "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.831043,
+          51.207824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Rochusstr. 7",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Karlrobert Kreiten, Jg. 1916, hingerichtet 7.9.1943 Berlin-Plötzensee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.784176,
+          51.235234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Scharnhorststraße 4",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785211,
+          51.242066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schillerstr. 65",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Margarethe Fröchtling geb. Stahlberg, Jg. 1896, deportiert 22.4.1942, Izbica, tot "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80332,
+          51.236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schlesische Str. 78",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Heinrich Schweden, Jg. 1896, verhaftet 1935, tot durch Haftfolgen "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.836684,
+          51.208936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schönaustr. 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Jeanette Cohen, Jg. 1899, deportiert 1941 Lodz, ermordet 11.9.1942 in Chelmo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860932,
+          51.234312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schönaustr. 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Karl Cohen, Jg. 1895, deportiert 1941 Lodz, ermordet Aug. 1944, Auschwitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860932,
+          51.234312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schönaustr. 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Hugo Kussel, Jg. 1898, deportiert 1941 Minsk, ermordet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860932,
+          51.234312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schönaustr. 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Albert Kussel, Jg. 1941, deportiert 1941 Minsk, ermordet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860932,
+          51.234312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schönaustr. 1",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Henriette Kussel geb. Wagner, Jg. 1910, deportiert 1941 Minsk, ermordet "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860932,
+          51.234312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schwanenmarkt 3",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772614,
+          51.219477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Sonnbornstraße 59",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.848311,
+          51.235267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Sonnbornstraße 59",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.848311,
+          51.235267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Stresemannstraße 29",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785288,
+          51.220186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Stresemannstraße 30",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785649,
+          51.220344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Stresemannstraße 30",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785649,
+          51.220344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Stresemannstraße 35",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785695,
+          51.220015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Stresemannstraße 35",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785695,
+          51.220015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Uhlandstr. 23",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Hedwig Jung-Danielewicz, Jg. 1880, deportiert 10.11.1941, ermordet in Minsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.800733,
+          51.232062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Unter den Eichen 39",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Theodor Andresen, Jg. 1907, verhaftet 1945, hingerichtet 16.4.1945, Düsseldorf "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.857031,
+          51.233163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Ursulinengasse 7",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Karl Jung, Jg. 1912, interniert 1939, Gurs, tot 20.2.1943 in Dachau "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7728,
+          51.229265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Venloer Str. 11",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Max Back, Jg. 1874, deportiert 1941, Getto Lodz, Tot 12.7.1942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777408,
+          51.237194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Venloer Str. 11",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Berta Back geb. Goldstein, Jg. 1885, Deportiert 1941, Lodz, ermordet 12.7.1944, Chelmno "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777408,
+          51.237194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Wildenbruchstr. 107",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Max Dannenbaum, Jg. 1881, deportiert 1941, ermordet in Minsk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74861,
+          51.22917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Worringer Str. 12",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Felix Klees, Jg. 1920, verhaftet 1943, \"Wehrkraftzersetzung\", erschossen 28.2.1945 im Aaper Wald "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.796697,
+          51.228901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Worringer Str. 58",
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Rudolf Ems, Jg. 1874, tot in Eisenach, 24.10.1941 vor Deportation "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.796798,
+          51.226577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kasernenstraße 67",
+        "stadt": "Düsseldorf",
+        "": "Standort der ehemaligen Synagoge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775233,
+          51.220119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Anton-Betz-Straße",
+        "stadt": "Düsseldorf",
+        "": "An dieser Stelle wurden die Widerstandskämpfer Franz Jürgens, Theodor Andresen, Karl Kleppe, Josef Knab  und Hermann Weill der Aktion Rheinland ermordet."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.786722,
+          51.208581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Torfbruchstraße 350",
+        "stadt": "Düsseldorf",
+        "": "Gedenktafel für politisch Verfolgte in Gerresheim "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.862073,
+          51.223297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Mühlenstraße 29",
+        "stadt": "Düsseldorf",
+        "": "Mahn- und Gedenkstätte der Landeshauptstadt Düsseldorf "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774101,
+          51.227394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Rather Straße",
+        "stadt": "Düsseldorf",
+        "": "Sammelort der deportierten Juden - Schlachthofmauer "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78905,
+          51.250331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Reuterkaserne",
+        "stadt": "Düsseldorf",
+        "": "SS-Foltergefängnis (Reuterkaserne)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772168,
+          51.230024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Bismarckstraße 44",
+        "stadt": "Düsseldorf",
+        "": "„Schlegelkeller“ SA-Folterkeller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785774,
+          51.222203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Siegburger Straße 15",
+        "stadt": "Düsseldorf",
+        "": "KZ Außenlager Sachsenhausen - Stoffeler Kapellenweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808755,
+          51.205988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Posenerstr 222",
+        "stadt": "Düsseldorf",
+        "": "„Zigeunerlager Höherweg“"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83913,
+          51.21962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Ehrenhof 1",
+        "stadt": "Düsseldorf",
+        "": "Ort der Bücherverbrennung "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772128,
+          51.23188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Schulstr 2",
+        "stadt": "Düsseldorf",
+        "": "Mahnmal „Ehra oder Kind mit Ball – gewidmet den KZ-Überlebenden aus dem Lager Höherweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770289,
+          51.224267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "oberbilkermarkt",
+        "stadt": "Düsseldorf",
+        "": "Gedenktafel für Moritz Sommer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.803505,
+          51.216156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Haroldstraße 26 ",
+        "stadt": "Düsseldorf",
+        "": "„Schlageterheim“ - Folterkeller der SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772357,
+          51.219119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Joseph Beuys Ufer 1",
+        "stadt": "Düsseldorf",
+        "": "Gedenktafel für Hilarius Gilges "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.771881,
+          51.236344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Oststraße 42",
+        "stadt": "Düsseldorf",
+        "": "Gedenktafel für Kaplan Rossaint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788523,
+          51.225442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Am Nordfriedhof 1",
+        "stadt": "Düsseldorf",
+        "": "Ehrenmal/Ehrengrab für die Widerstandskämpfer vom 16. April 1945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770758,
+          51.253862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Golzheimer Friedhof",
+        "stadt": "Düsseldorf",
+        "": "Gedenkstein für Karl Schwesig sowie für die verfolgten und ermordeten Düsseldorfer Künstler Franz Monjau, Julo Levin und Peter Ludwigs "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.773599,
+          51.239823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Suitbertusstrasse 34",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.768054,
+          51.205463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Karolingerstraße 55 ",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.771392,
+          51.205556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Karolingerstraße 55 ",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.771392,
+          51.205556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Merowingerstr. 29",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776747,
+          51.205942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kronprinzenstr. 48",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770667,
+          51.214021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "LeoStatzPlatz",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770322,
+          51.214447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kronprinzenstr. ",
+        "stadt": "Düsseldorf",
+        "": "…"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76959,
+          51.21172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Grafental",
+        "stadt": "Düsseldorf",
+        "": "KZ Außenlager Buchenwald Lager: 'Berta'  - Hohenzollern-Gelände (Lokomotivfabrik), Rheinmetall-Borsig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.828109,
+          51.234497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Arnheimer Str. 115 ",
+        "stadt": "Düsseldorf",
+        "": "KZ Außenlager Buchenwald Lager: Düsseldorf-Friedrichstadt (Kalkum) - III. SS-Baubrigade, Bombenräumung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74408,
+          51.30891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Kirchfeldstraße 74-80",
+        "stadt": "Düsseldorf",
+        "": "KZ Außenlager Buchenwald Lager: Düsseldorf-Friedrichstadt (DESt) - Deutsche Erd- und Steinwerke, Trümmerbeseitigung,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77937,
+          51.21261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Ulmenstraße 136",
+        "stadt": "Düsseldorf",
+        "": "KZ Außenlager Buchenwald Lager: Derendorf – Lagername: Rheinmetall Borsig / Berta II/Borsig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.781031,
+          51.252267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Leuchtenberger Kirchweg 87-93",
+        "stadt": "Düsseldorf",
+        "": "KZ Außenlager Buchenwald Lager-Nummer: 246 / Sprengkommando Düsseldorf-Lohausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.724816,
+          51.282302
+        ]
+      }
+    }
+  ]
+}
