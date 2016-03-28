@@ -139,7 +139,7 @@
         "* ": "",
         "Name": "Steinofen Bäcker (im SuperBioMarkt)",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
-        "Zusatz": "www.steinofenbaecker.de",
+        "Zusatz": "http://www.steinofenbaecker.de",
         "marker-symbol": "bakery"
       },
       "geometry": {
