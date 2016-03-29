@@ -2272,7 +2272,8 @@
         "marker-size": "medium",
         "marker-symbol": "campsite",
         "Adresse": "Posenerstr 222",
-        "stadt": "Düsseldorf"
+        "stadt": "Düsseldorf",
+        "": "„Zigeunerlager Höherweg“"
       },
       "geometry": {
         "type": "Point",
@@ -2289,7 +2290,8 @@
         "marker-size": "medium",
         "Adresse": "Ehrenhof 1",
         "stadt": "Düsseldorf",
-        "marker-symbol": "library"
+        "marker-symbol": "library",
+        "": "Ort der Bücherverbrennung"
       },
       "geometry": {
         "type": "Point",
