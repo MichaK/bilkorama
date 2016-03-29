@@ -8,8 +8,8 @@ Wer diese Daten einbinden möchte - dies geht zum Beispiel mit dieser simplen Ze
 oder sich die Beispieldatei genauer anschauen - it works, but it's quite ugly ;-) 
 
 ## Wie kann ich beitragen:
-'''Erstellt ein Fork der Daten (oder hinterlasst einfach einen Kommentar / Hinweis)
-'''Ihr könnt aber auch die .geojson Files ganz einfach mit [geojson.io](http://geojson.io) editieren und POIs hinzufügen oder entfernen und auf github zurückspeichern
+```Erstellt ein Fork der Daten (oder hinterlasst einfach einen Kommentar / Hinweis)
+```Ihr könnt aber auch die .geojson Files ganz einfach mit [geojson.io](http://geojson.io) editieren und POIs hinzufügen oder entfernen und auf github zurückspeichern
 
 ## Lizenz
 CC-BY-SA
