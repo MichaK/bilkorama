@@ -458,7 +458,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Nicht bestätigt ",
-        "Straße:": "Buchenstraße 12 â 14",
+        "Straße:": "Buchenstraße 12 - 14",
         "Zusatz:": "unsichere Quellenlage"
       },
       "geometry": {
@@ -584,7 +584,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "AWN-Wohnhaus",
-        "Straße:": "Buchenstraße 12 â 14",
+        "Straße:": "Buchenstraße 12 - 14",
         "Zusatz:": ""
       },
       "geometry": {
@@ -620,7 +620,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "AWN-Wohnhaus",
-        "Straße:": "KÃ¶lner Tor 40 ",
+        "Straße:": "Kölner Tor 40 ",
         "Zusatz:": ""
       },
       "geometry": {
@@ -637,7 +637,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "Info:": "BiBaBuZe â BilkerBasisBuchZentrale",
+        "Info:": "BiBaBuZe BilkerBasisBuchZentrale",
         "Straße:": "Buch- und Infoladen ",
         "Zusatz:": ""
       },
@@ -692,7 +692,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Nicht bestätigt ",
-        "Straße:": "MÃ¶rsenbroicher Weg",
+        "Straße:": "Mörsenbroicher Weg",
         "Zusatz:": "Besetzung : 1971"
       },
       "geometry": {
@@ -764,7 +764,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "AWN-Wohnhaus",
-        "Straße:": "BÃ¶hmestr. 16",
+        "Straße:": "Böhmestr. 16",
         "Zusatz:": ""
       },
       "geometry": {
@@ -800,7 +800,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "AWN-Wohnhaus",
-        "Straße:": "KÃ¶lner Tor 38",
+        "Straße:": "Kölner Tor 38",
         "Zusatz:": "September 1974"
       },
       "geometry": {
@@ -854,7 +854,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "AWN-Wohnhaus",
-        "Straße:": "KÃ¶lner Tor 40",
+        "Straße:": "Kölner Tor 40",
         "Zusatz:": "September 1974"
       },
       "geometry": {
@@ -872,7 +872,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "AWN-Wohnhaus",
-        "Straße:": "KÃ¶lner Tor 42 ",
+        "Straße:": "Kölner Tor 42 ",
         "Zusatz:": "September 1974"
       },
       "geometry": {
@@ -890,7 +890,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "AWN-Wohnhaus",
-        "Straße:": "KÃ¶lner Tor 44",
+        "Straße:": "Kölner Tor 44",
         "Zusatz:": "September 1974"
       },
       "geometry": {
