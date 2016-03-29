@@ -2077,7 +2077,8 @@
         "marker-size": "small",
         "marker-symbol": "square",
         "Adresse": "Wildenbruchstr. 107",
-        "stadt": "Düsseldorf"
+        "stadt": "Düsseldorf",
+        "": "Stolperstein für Max Dannenbaum, Jg. 1881, deportiert 1941, ermordet in Minsk"
       },
       "geometry": {
         "type": "Point",
@@ -2130,7 +2131,8 @@
         "marker-size": "medium",
         "Adresse": "Kasernenstraße 67",
         "stadt": "Düsseldorf",
-        "marker-symbol": "religious-jewish"
+        "marker-symbol": "religious-jewish",
+        "": "Standort der ehemaligen Synagoge"
       },
       "geometry": {
         "type": "Point",
@@ -2147,7 +2149,8 @@
         "marker-size": "medium",
         "Adresse": "Anton-Betz-Straße",
         "stadt": "Düsseldorf",
-        "marker-symbol": "monument"
+        "marker-symbol": "monument",
+        "": "An dieser Stelle wurden die Widerstandskämpfer Franz Jürgens, Theodor Andresen, Karl Kleppe, Josef Knab und Hermann Weill der Aktion Rheinland ermordet."
       },
       "geometry": {
         "type": "Point",
