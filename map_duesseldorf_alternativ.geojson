@@ -9,7 +9,7 @@
         "marker-symbol": "farm",
         "Typ": "Anbau",
         "* ": "",
-        "Name": "Meine Ernte â Gemüsebau Andree",
+        "Name": "Meine Ernte - Gemüsebau Andree",
         "Adresse": "Volmerswerther Deich, 40221 Düsseldorf",
         "Web:": "http://www.meine-ernte.de"
       },
@@ -84,7 +84,8 @@
         "Name": "Bäcker Schüren",
         "Adresse": "Rethelstr. 144, 40239 Düsseldorf",
         "Web:": "http://www.ihr-bäcker-schüren.de",
-        "marker-symbol": "bakery"
+        "marker-symbol": "bakery",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
@@ -529,7 +530,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff8000",
+        "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "bicycle",
         "Typ": "Fahrrad",
@@ -555,7 +556,7 @@
         "Adresse": " Herderstr. 26-28, 40237 Düsseldorf ",
         "Web:": "http://www.re-cycler.de/",
         "marker-symbol": "bicycle",
-        "marker-color": "#ff8000"
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -574,7 +575,7 @@
         "Adresse": "Talstr. 22-24 (Hinterhaus), 40217 Düsseldorf",
         "Web:": "Cafe, Laden, Schrauberei. http://schickemuetze.de/",
         "marker-symbol": "bicycle",
-        "marker-color": "#ff8000"
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -912,7 +913,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#9bfc9b",
+        "marker-color": "#66ccff",
         "marker-size": "medium",
         "Typ": "Imbiss",
         "* ": "omni/v/vgn",
@@ -953,7 +954,8 @@
         "* ": "vgn",
         "Name": "Salon für Naturkosmetik",
         "Adresse": "Flurstr. 77 (Hinterhof), 40235 Düsseldorf",
-        "Web:": "Naturkosmetik - Studio "
+        "Web:": "Naturkosmetik - Studio ",
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
@@ -983,7 +985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffcc66",
+        "marker-color": "#66ccff",
         "marker-size": "medium",
         "marker-symbol": "fast-food",
         "Typ": "Lieferservice",
@@ -1054,7 +1056,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008080",
+        "marker-color": "#ccff66",
         "marker-size": "medium",
         "marker-symbol": "clothing-store",
         "Typ": "Mode",
@@ -1080,7 +1082,7 @@
         "Adresse": "Münsterstr. 336, 40470 Düsseldorf",
         "Web:": "OutletStore nur Freitags und Samstags geÃ¶ffnet. https://www.hanfhaus.de/",
         "marker-symbol": "clothing-store",
-        "marker-color": "#008080"
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1099,7 +1101,7 @@
         "Adresse": "Nordstr. 6, 40477 Düsseldorf",
         "Web:": "www.soulgoods-duesseldorf.de\n",
         "marker-symbol": "clothing-store",
-        "marker-color": "#008080"
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1112,13 +1114,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Typ": "Mode",
         "* ": "",
         "Name": "SUBURBIA Store",
         "Adresse": "Birkenstr. 40, 40233 Düsseldorf",
         "Web:": "http://www.suburbia-store.de",
         "marker-symbol": "clothing-store",
-        "marker-color": "#008080"
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1137,7 +1140,7 @@
         "Adresse": "Brunnenstr. 32, 40223 Düsseldorf",
         "Web:": "http://www.yavana.de ",
         "marker-symbol": "clothing-store",
-        "marker-color": "#008080"
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1589,8 +1592,8 @@
         "Name": "Cash & Raus ",
         "Adresse": "Herzogstr. 28, 40217 Düsseldorf",
         "Web:": "http://cash-und-raus.skmd.de/",
-        "marker-symbol": "shop",
-        "marker-color": "#808000"
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1608,8 +1611,8 @@
         "Name": "Cash & Raus ",
         "Adresse": " Schloßstr. 58, 40477 Düsseldorf",
         "Web:": "http://cash-und-raus.skmd.de/",
-        "marker-symbol": "shop",
-        "marker-color": "#808000"
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1627,8 +1630,8 @@
         "Name": "Cash & Raus ",
         "Adresse": " Kaiserswerther Str. 33, 40477 Düsseldorf",
         "Web:": "http://cash-und-raus.skmd.de/",
-        "marker-symbol": "shop",
-        "marker-color": "#808000"
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1641,14 +1644,14 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808000",
+        "marker-color": "#ccff66",
         "marker-size": "medium",
         "Typ": "SecondHand",
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": " Katzbachstr. 2, 40231 Düsseldorf",
         "Web:": "Küchenstudio  http://cash-und-raus.skmd.de/",
-        "marker-symbol": "shop"
+        "marker-symbol": "clothing-store"
       },
       "geometry": {
         "type": "Point",
@@ -1685,7 +1688,9 @@
         "* ": "",
         "Name": "PLUP - Planet Upcycling",
         "Adresse": "Ackerstr. 168b, 40233 Düsseldorf",
-        "Web:": "https://www.planet-upcycling.de/"
+        "Web:": "https://www.planet-upcycling.de/",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1698,6 +1703,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
         "Typ": "Imker",
         "* ": "",
         "Name": "Imkerei Dieter Weinkauf & Karin Wolter",
@@ -1737,7 +1744,9 @@
         "* ": "",
         "Name": "Elementarteilchen",
         "Adresse": "Ackerstraße 125, 40233 Düsseldorf",
-        "Web:": "http://www.elementarteilchen-secondhand.de"
+        "Web:": "http://www.elementarteilchen-secondhand.de",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1754,7 +1763,9 @@
         "* ": "",
         "Name": "Noblesse  Second-Hand",
         "Adresse": "Oststraße 89, 40210 Düsseldorf",
-        "Web:": "http://www.noblesse-secondhand.de/"
+        "Web:": "http://www.noblesse-secondhand.de/",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1771,7 +1782,9 @@
         "* ": "",
         "Name": "Feen und Kobolde",
         "Adresse": "Nordstraße 80 Düsseldorf",
-        "Web:": "http://www.feenundkobolde.com"
+        "Web:": "http://www.feenundkobolde.com",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1788,7 +1801,9 @@
         "* ": "",
         "Name": "LIEBLINGSSTÜCKE",
         "Adresse": "Bruchstraße 1, 40235 Düsseldorf ",
-        "Web:": "http://www.lieblings-stuecke.de"
+        "Web:": "http://www.lieblings-stuecke.de",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1825,7 +1840,9 @@
         "* ": "",
         "Name": "Anziehend Secondhand ",
         "Adresse": "Wissmannstr. 25, Düsseldorf",
-        "Web:": "https://www.facebook.com/anziehendduesseldorf"
+        "Web:": "https://www.facebook.com/anziehendduesseldorf",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1842,7 +1859,9 @@
         "* ": "",
         "Name": "Oxfam",
         "Adresse": "Nordstr. 9, 40477 Düsseldorf",
-        "Web:": "http://www.oxfam.de"
+        "Web:": "http://www.oxfam.de",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1859,7 +1878,9 @@
         "* ": "",
         "Name": "Jacke wie Hose",
         "Adresse": "Bilker Allee 24, 40219 Düsseldorf ",
-        "Web:": "http://www.jacke-wie-hose-duesseldorf.de/"
+        "Web:": "http://www.jacke-wie-hose-duesseldorf.de/",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1876,7 +1897,9 @@
         "* ": "",
         "Name": "Vintage Fabrik",
         "Adresse": "Nordstrasse 4 Düsseldorf ",
-        "Web:": "http://vintage-fabrik.de/"
+        "Web:": "http://vintage-fabrik.de/",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
@@ -1944,7 +1967,9 @@
         "* ": "",
         "Name": "Naturburschen",
         "Adresse": "Birkenstraße 149 40233 Düsseldorf ",
-        "Web:": "http://www.naturburschen-flingern.de/"
+        "Web:": "http://www.naturburschen-flingern.de/",
+        "marker-color": "#ccff66",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1961,7 +1986,8 @@
         "* ": "",
         "Name": "Repaircafe",
         "Adresse": "Bilker Allee 217 (in den Räumen des Coworking Space GarageBilk)  40215 Düsseldorf",
-        "Web:": "http://garage-lab.de"
+        "Web:": "http://garage-lab.de",
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
@@ -1974,10 +2000,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ccff66",
         "marker-size": "medium",
         "marker-symbol": "shop",
-        "Typ": "",
+        "Typ": "Supermarkt",
         "* ": "",
         "Name": "TasteGreece",
         "Adresse": "Volmerswerther Str. 21 40221 Düsseldorf",
@@ -1998,7 +2024,9 @@
         "* ": "",
         "Name": "RAD AB ",
         "Adresse": "Friedrichstraße 112 â 116, 40217Â Düsseldorf ",
-        "Web:": "http://www.radab.de"
+        "Web:": "http://www.radab.de",
+        "marker-symbol": "bicycle",
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -2015,7 +2043,9 @@
         "* ": "",
         "Name": "Magno Fahrräder ",
         "Adresse": "Bilker Allee 167, 40217 Düsseldorf",
-        "Web:": "http://www.magno.de"
+        "Web:": "http://www.magno.de",
+        "marker-symbol": "bicycle",
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -2032,7 +2062,9 @@
         "* ": "",
         "Name": "JUNG & VOLKE Zweiradstudio",
         "Adresse": "Jahnstrasse 22 - 24, 40215 Düsseldorf",
-        "Web:": "http://www.jung-volke.de/"
+        "Web:": "http://www.jung-volke.de/",
+        "marker-symbol": "bicycle",
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -2049,7 +2081,9 @@
         "* ": "",
         "Name": "Radstation Düsseldorf",
         "Adresse": "Willi-Becker-Allee 8a, 40227 Düsseldorf",
-        "Web:": "http://www.radstation-duesseldorf.de"
+        "Web:": "http://www.radstation-duesseldorf.de",
+        "marker-symbol": "bicycle",
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -2066,7 +2100,9 @@
         "* ": "",
         "Name": "Bicycle Doctor ",
         "Adresse": "Derendorfer Straße 10 â 12, 40479 Düsseldorf ",
-        "Web:": "http://www.bicycle-doctor.de/"
+        "Web:": "http://www.bicycle-doctor.de/",
+        "marker-symbol": "bicycle",
+        "marker-color": "#0000ff"
       },
       "geometry": {
         "type": "Point",
@@ -2083,7 +2119,9 @@
         "* ": "",
         "Name": "Oxfam",
         "Adresse": "Friedrichstraße 25, 40217 Düsseldorf",
-        "Web:": "http://www.oxfam.de"
+        "Web:": "http://www.oxfam.de",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#ccff66"
       },
       "geometry": {
         "type": "Point",
