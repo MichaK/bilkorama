@@ -1,10 +1,12 @@
-
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff7f00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
         "Küche": "Bistro",
         "Restaurantname": "Bistro Zicke",
         "Adresse": "Bäckerstraße 5a, 40123 Düsseldorf",
@@ -28,9 +30,10 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Küche": "Burger",
         "Restaurantname": "HANS IM GLÜCK",
-        "Adresse": "Hammer Str. 38, 40219 Düsseldorf",
+        "Adresse": "Hammer Str. 38, 40219 Düsseldorf",
         "Website": "http://medienhafen.hansimglueck-burgergrill.de/",
         "Telefonnummer": "0211 99457707",
         "Öffnungszeiten": "Mo-Sa von 12-Ende offen, So/Feiertage ab 13 Uhr",
@@ -38,7 +41,9 @@
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "x",
-        "ViD-Tipp:": "Natürlich der Veganburger mit Fritten"
+        "ViD-Tipp:": "Natürlich der Veganburger mit Fritten",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -52,16 +57,18 @@
       "type": "Feature",
       "properties": {
         "Küche": "Asiatisch/ Thai",
-        "Restaurantname": "cha chã ",
+        "Restaurantname": "cha chi ",
         "Adresse": "Benrather Karree, Kasernenstraße 18, 40213 Düsseldorf",
         "Website": "http://www.eatchacha.com/",
         "Telefonnummer": "0211 86329611",
-        "Öffnungszeiten": "Mo – Fr von 12-22 Uhr, Sa von 12-23 Uhr",
+        "Öffnungszeiten": "Mo - Fr von 12-22 Uhr, Sa von 12-23 Uhr",
         "Lieferservice": "",
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "x",
-        "ViD-Tipp:": "Gelbes Curry mit oder ohne Tofu"
+        "ViD-Tipp:": "Gelbes Curry mit oder ohne Tofu",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -74,17 +81,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Küche": "Café ",
+        "Küche": "Cafe ",
         "Restaurantname": "Carrot/Cake",
         "Adresse": "Moltkestraße 75, 40479 Düsseldorf",
         "Website": "http://carrot-cake.de/",
         "Telefonnummer": "",
-        "Öffnungszeiten": "Di – Fr von 12-18 Uhr und Sa/So/Feiertag 10-18 Uhr",
+        "Öffnungszeiten": "Di - Fr von 12-18 Uhr und Sa/So/Feiertag 10-18 Uhr",
         "Lieferservice": "",
         "vegan": "x",
         "vegetarisch": "",
         "omni": "",
-        "ViD-Tipp:": "Milchkaffee mit Mandelmilch und dazu ein Stück veganen Russischen Zupfkuchen."
+        "ViD-Tipp:": "Milchkaffee mit Mandelmilch und dazu ein Stück veganen Russischen Zupfkuchen.",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -102,12 +111,14 @@
         "Adresse": "Düsselthaler Str. 1a, 40211 Düsseldorf",
         "Website": "http://www.kirtisdhaba.de/",
         "Telefonnummer": "0211 8604202",
-        "Öffnungszeiten": "Di – So von 12-15 Uhr und von 18-23 Uhr",
+        "Öffnungszeiten": "Di - So von 12-15 Uhr und von 18-23 Uhr",
         "Lieferservice": "",
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "x",
-        "ViD-Tipp:": "Eggplant Bharta - zum Verlieben!"
+        "ViD-Tipp:": "Eggplant Bharta - zum Verlieben!",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -125,12 +136,14 @@
         "Adresse": "Brückenstraße 19, 40221 Düsseldorf",
         "Website": "http://www.kirtis.de/",
         "Telefonnummer": "0211 99 456 384",
-        "Öffnungszeiten": "Mo – Sa von 12-15 Uhr und von 18-23.30 Uhr, So von 18-23 Uhr",
+        "Öffnungszeiten": "Mo - Sa von 12-15 Uhr und von 18-23.30 Uhr, So von 18-23 Uhr",
         "Lieferservice": "",
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "x",
-        "ViD-Tipp:": "Gehört zum allseits beliebten Kirtis Dhaba - "
+        "ViD-Tipp:": "Gehört zum allseits beliebten Kirtis Dhaba - ",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -148,12 +161,14 @@
         "Adresse": "Graf-Adolf-Platz 6, 40213 Düsseldorf",
         "Website": "http://sattgruen.de/",
         "Telefonnummer": "0211 876 33 90",
-        "Öffnungszeiten": "Mo – Sa von 12-17 Uhr",
+        "Öffnungszeiten": "Mo - Sa von 12-17 Uhr",
         "Lieferservice": "",
         "vegan": "x",
         "vegetarisch": "",
         "omni": "",
-        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!"
+        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -171,12 +186,14 @@
         "Adresse": "Hoffeldstr. 18, 40235 Düsseldorf",
         "Website": "http://sattgruen.de/",
         "Telefonnummer": " 0211 68 87 40 80",
-        "Öffnungszeiten": "Mo – Sa von 12-23 Uhr (Küche bis 22 Uhr)",
+        "Öffnungszeiten": "Mo - Sa von 12-23 Uhr (Küche bis 22 Uhr)",
         "Lieferservice": "",
         "vegan": "x",
         "vegetarisch": "",
         "omni": "",
-        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!"
+        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -194,12 +211,14 @@
         "Adresse": "Brückenstr. 12, 40221 Düsseldorf",
         "Website": "http://sattgruen.de/",
         "Telefonnummer": "0211 159 23 290",
-        "Öffnungszeiten": "Mo – So von 12-23 Uhr (Küche bis 22 Uhr)",
+        "Öffnungszeiten": "Mo - So von 12-23 Uhr (Küche bis 22 Uhr)",
         "Lieferservice": "",
         "vegan": "x",
         "vegetarisch": "",
         "omni": "",
-        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!"
+        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -212,6 +231,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Küche": "Türkisch",
         "Restaurantname": "My Gemüsedöner",
         "Adresse": "Bachstraße 126, 40217 Düsseldorf-Bilk (Stand gegenüber des Parkhauseingangs der Bilker Arcaden)",
@@ -222,20 +242,22 @@
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "x",
-        "ViD-Tipp:": "Natürlich den Vegandöner mit gegrilltem Gemüse!"
+        "ViD-Tipp:": "Natürlich den Vegandöner mit gegrilltem Gemüse!",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "fast-food"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.774549,
-          51.209385
+          6.777534484863281,
+          51.20873855360014
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Küche": "Café",
+        "Küche": "Cafe",
         "Restaurantname": "Homemade We Eat Fine",
         "Adresse": "Bilker Allee 209, 40215 Düsseldorf",
         "Website": "http://homemade-we-eat-fine.com/",
@@ -245,7 +267,9 @@
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "x",
-        "ViD-Tipp:": "Einen süßen Cupcake auf die Hand!"
+        "ViD-Tipp:": "Einen süßen Cupcake auf die Hand!",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +292,9 @@
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "",
-        "ViD-Tipp:": "Gerichte wechseln hier aber sind garantiert lecker! :)"
+        "ViD-Tipp:": "Gerichte wechseln hier aber sind garantiert lecker! :)",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +317,9 @@
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "",
-        "ViD-Tipp:": "Seitan-Burger mit Fritten oder Kreationen von der Tageskarte"
+        "ViD-Tipp:": "Seitan-Burger mit Fritten oder Kreationen von der Tageskarte",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -304,7 +332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Küche": "Eiscafé",
+        "Küche": "Eiscafe",
         "Restaurantname": "EisBar",
         "Adresse": "Friedrichstraße 6, 40217 Düsseldorf",
         "Website": "https://www.facebook.com/eisbar.dus",
@@ -314,7 +342,9 @@
         "vegan": "x",
         "vegetarisch": "",
         "omni": "",
-        "ViD-Tipp:": "Alle Eissorten einmal durchprobieren und mit Anne einen Kaffee trinken. "
+        "ViD-Tipp:": "Alle Eissorten einmal durchprobieren und mit Anne einen Kaffee trinken. ",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "ice-cream"
       },
       "geometry": {
         "type": "Point",
@@ -327,6 +357,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Küche": "Asiatisch ",
         "Restaurantname": "Jade Imbiss",
         "Adresse": "Dürener Straße 42, 40223 Düsseldorf",
@@ -337,7 +368,9 @@
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "",
-        "ViD-Tipp:": ""
+        "ViD-Tipp:": "",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "fast-food"
       },
       "geometry": {
         "type": "Point",
@@ -350,6 +383,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Küche": "Frozen Yoghurt",
         "Restaurantname": "Yomaro",
         "Adresse": "Carlsplatz 6b, 40213 Düsseldorf",
@@ -360,7 +394,9 @@
         "vegan": "x",
         "vegetarisch": "x",
         "omni": "x",
-        "ViD-Tipp:": "Frozen Yoghurt aus Sojamilch mit drölf Toppings!"
+        "ViD-Tipp:": "Frozen Yoghurt aus Sojamilch mit drölf Toppings!",
+        "marker-color": "#ff7f00",
+        "marker-symbol": "ice-cream"
       },
       "geometry": {
         "type": "Point",
