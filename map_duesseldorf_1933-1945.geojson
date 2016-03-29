@@ -2439,7 +2439,7 @@
         "marker-symbol": "square",
         "Adresse": "Suitbertusstrasse 34",
         "stadt": "Düsseldorf",
-        "": "..."
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2457,7 +2457,7 @@
         "marker-symbol": "square",
         "Adresse": "Karolingerstraße 55 ",
         "stadt": "Düsseldorf",
-        "": "..."
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2475,7 +2475,7 @@
         "marker-symbol": "square",
         "Adresse": "Karolingerstraße 55 ",
         "stadt": "Düsseldorf",
-        "": "..."
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2492,7 +2492,8 @@
         "marker-size": "small",
         "marker-symbol": "square",
         "Adresse": "Merowingerstr. 29",
-        "stadt": "Düsseldorf"
+        "stadt": "Düsseldorf",
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2510,7 +2511,7 @@
         "marker-symbol": "square",
         "Adresse": "Kronprinzenstr. 48",
         "stadt": "Düsseldorf",
-        "": "..."
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2528,7 +2529,7 @@
         "marker-symbol": "square",
         "Adresse": "LeoStatzPlatz",
         "stadt": "Düsseldorf",
-        "": "..."
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2546,7 +2547,7 @@
         "marker-symbol": "square",
         "Adresse": "Kronprinzenstr. ",
         "stadt": "Düsseldorf",
-        "": "..."
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
