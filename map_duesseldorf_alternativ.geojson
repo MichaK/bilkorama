@@ -29,7 +29,7 @@
         "Name": "Bäcker Schüren",
         "Adresse": "Nordstr. 77, 40477 Düsseldorf",
         "Web:": "http://www.ihr-baecker-schueren.de",
-        "marker-color": "",
+        "marker-color": "#804000",
         "marker-symbol": "bakery"
       },
       "geometry": {
@@ -48,7 +48,8 @@
         "Name": "Bäcker Schüren",
         "Adresse": "Hauptstr. 5, 40597 Düsseldorf",
         "Web:": "http://www.ihr-bäcker-schüren.de",
-        "marker-symbol": "bakery"
+        "marker-symbol": "bakery",
+        "marker-color": "#804000"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +67,8 @@
         "Name": "Bäcker Schüren",
         "Adresse": "Luegallee 93, 40545 DüsseldorfÂ Â Â  ",
         "Web:": "http://www.ihr-bäcker-schüren.de",
-        "marker-symbol": "bakery"
+        "marker-symbol": "bakery",
+        "marker-color": "#804000"
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +87,8 @@
         "Adresse": "Rethelstr. 144, 40239 Düsseldorf",
         "Web:": "http://www.ihr-bäcker-schüren.de",
         "marker-symbol": "bakery",
-        "marker-size": ""
+        "marker-size": "",
+        "marker-color": "#804000"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +106,8 @@
         "Name": "Bäckerei Hinkel",
         "Adresse": "Hohe Str. 31, 40213 Düsseldorf",
         "Web:": "http://www.baeckerei-hinkel.de",
-        "marker-symbol": "bakery"
+        "marker-symbol": "bakery",
+        "marker-color": "#804000"
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +120,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#804000",
         "marker-size": "medium",
         "Typ": "Bäcker",
         "* ": "",
@@ -141,7 +145,8 @@
         "Name": "Steinofen Bäcker (im SuperBioMarkt)",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
         "Web:": "http://www.steinofenbaecker.de",
-        "marker-symbol": "bakery"
+        "marker-symbol": "bakery",
+        "marker-color": "#804000"
       },
       "geometry": {
         "type": "Point",
@@ -154,7 +159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#808000",
         "marker-size": "medium",
         "marker-symbol": "shop",
         "Typ": "Bioladen",
@@ -179,7 +184,8 @@
         "Name": "Das Kleeblatt",
         "Adresse": "Benderstr. 75 40625 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -197,7 +203,8 @@
         "Name": "FruchtÂ &Â Genuss ",
         "Adresse": "Stresemannstr.Â 29,  40210Â Düsseldorf",
         "Web:": "http://www.fruchtundgenuss.de",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -235,7 +242,8 @@
         "Name": "Naturkost Holthausen",
         "Adresse": "Itter Str. 34, 40589 Düsseldorf",
         "Web:": "http://www.moehre.com",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -253,7 +261,8 @@
         "Name": "Natürlich Natürlich",
         "Adresse": "Brunnenstr. 22 40223 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +280,8 @@
         "Name": "Ökologische Marktwirtschaft",
         "Adresse": "Heerstr. 19 40227 Düsseldorf",
         "Web:": "http://www.oekoma.de",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -309,7 +319,8 @@
         "Name": "GarageBilk | Coworking Space",
         "Adresse": "Bilker Allee 217, 40215 Düsseldorf",
         "Web:": "https://garagebilk.de",
-        "marker-symbol": ""
+        "marker-symbol": "rocket",
+        "marker-color": "#cccccc"
       },
       "geometry": {
         "type": "Point",
@@ -326,7 +337,10 @@
         "* ": "",
         "Name": "GEWÃCHSHAUS DÜSSELDORF",
         "Adresse": "Mindener Str. 30, 40227 Düsseldorf",
-        "Web:": "http://www.gewaechshaus-duesseldorf.de"
+        "Web:": "http://www.gewaechshaus-duesseldorf.de",
+        "marker-symbol": "rocket",
+        "marker-color": "#cccccc",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
@@ -513,6 +527,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "Typ": "Energie",
         "* ": "",
         "Name": "NATURSTROM AG",
@@ -933,6 +950,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7f007f",
+        "marker-size": "medium",
+        "marker-symbol": "clothing-store",
         "Typ": "Kids",
         "* ": "",
         "Name": "Purzel-Baum - Naturtextil & Spiel",
@@ -950,12 +970,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7f007f",
+        "marker-size": "medium",
         "Typ": "Kosmetik",
         "* ": "vgn",
         "Name": "Salon für Naturkosmetik",
         "Adresse": "Flurstr. 77 (Hinterhof), 40235 Düsseldorf",
         "Web:": "Naturkosmetik - Studio ",
-        "marker-symbol": ""
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -1005,11 +1027,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#008040",
+        "marker-size": "medium",
         "Typ": "Markt",
         "* ": "omni/v/vgn",
         "Name": "Bauernmarkt Friedensplätzchen",
         "Adresse": "Friedensplätzchen",
-        "Web:": "jeden Dienstag von 08:00 Uhr bis 13:00 Uhr / jeden Freitag von 10:00 Uhr bis 18:00 Uhr"
+        "Web:": "jeden Dienstag von 08:00 Uhr bis 13:00 Uhr / jeden Freitag von 10:00 Uhr bis 18:00 Uhr",
+        "marker-symbol": "marker-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1051,9 @@
         "* ": "omni/v/vgn",
         "Name": "Bauernmarkt Kolpingplatz",
         "Adresse": "Kolpingplatz",
-        "Web:": "jeden Mittwoch von 9.00 bis 13.00 Uhr / jeden Samstag von 08:30 Uhr bis 13:30 Uhr "
+        "Web:": "jeden Mittwoch von 9.00 bis 13.00 Uhr / jeden Samstag von 08:30 Uhr bis 13:30 Uhr ",
+        "marker-symbol": "marker-stroked",
+        "marker-color": "#008040"
       },
       "geometry": {
         "type": "Point",
@@ -1043,7 +1070,9 @@
         "* ": "omni/v/vgn",
         "Name": "Bauernmarkt Lessingplatz",
         "Adresse": "Lessingplatz",
-        "Web:": "jeden Donnerstag von 08:00 Uhr bis 13:30 Uhr"
+        "Web:": "jeden Donnerstag von 08:00 Uhr bis 13:30 Uhr",
+        "marker-symbol": "marker-stroked",
+        "marker-color": "#008040"
       },
       "geometry": {
         "type": "Point",
@@ -1360,7 +1389,7 @@
       "properties": {
         "Typ": "Restaurant",
         "* ": "v/vgn",
-        "Name": "Sattgrün Flingern",
+        "Name": "Sattgrün - Flingern",
         "Adresse": "Hoffeldstr. 18, 40233 Düsseldorf",
         "Web:": "http://sattgruen.de/",
         "marker-symbol": "restaurant",
@@ -1379,7 +1408,7 @@
       "properties": {
         "Typ": "Restaurant",
         "* ": "v/vgn",
-        "Name": "Sattgrün Medienhafen",
+        "Name": "Sattgrün - Medienhafen",
         "Adresse": "Brückenstr. 12, 40221 Düsseldorf",
         "Web:": "http://sattgruen.de/",
         "marker-symbol": "restaurant",
@@ -1400,7 +1429,7 @@
         "marker-size": "medium",
         "Typ": "Restaurant",
         "* ": "v/vgn",
-        "Name": "Sattgrün Mitte",
+        "Name": "Sattgrün - Mitte",
         "Adresse": "Graf-Adolf-Platz 6, 40213 Düsseldorf",
         "Web:": "http://sattgruen.de/",
         "marker-symbol": "restaurant"
@@ -1478,7 +1507,7 @@
         "Name": "Der schnelle Joe",
         "Adresse": "Kruppstr. 47, 40227 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "restaurant",
+        "marker-symbol": "",
         "marker-color": "#0080ff"
       },
       "geometry": {
@@ -1494,7 +1523,7 @@
       "properties": {
         "Typ": "Supermarkt",
         "* ": "omni/v/vgn",
-        "Name": "Basic â Bio für alle",
+        "Name": "Basic - Bio für alle",
         "Adresse": " Friedrichstr. 73, 40217 Düsseldorf",
         "Web:": "http://www.basic-bio-genuss-fuer-alle.de",
         "marker-symbol": "shop",
@@ -1511,6 +1540,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Typ": "Supermarkt",
         "* ": "omni/v/vgn",
         "Name": "SuperBioMarkt",
@@ -1982,12 +2012,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#cccccc",
+        "marker-size": "medium",
         "Typ": "",
         "* ": "",
         "Name": "Repaircafe",
         "Adresse": "Bilker Allee 217 (in den Räumen des Coworking Space GarageBilk)  40215 Düsseldorf",
         "Web:": "http://garage-lab.de",
-        "marker-symbol": ""
+        "marker-symbol": "rocket"
       },
       "geometry": {
         "type": "Point",
@@ -2096,6 +2128,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Typ": "Fahrrad",
         "* ": "",
         "Name": "Bicycle Doctor ",
@@ -2133,7 +2166,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Cafe Grenzenlos"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
