@@ -14,7 +14,7 @@
   <body>
     <div id="map"></div>
     <script>
-    var map = L.map('map', {center: [40.99, 15.529], zoom: 3,});
+    var map = L.map('map', {center: [51.20, 6.76], zoom: 12,});
     map.attributionControl
     .setPrefix('');
     var controlLayers = L.control.layers( null, null, {
@@ -24,7 +24,7 @@
     var lightAll = new L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
         attribution: ''
     }).addTo(map); 
-    $.getJSON("map1.geojson", function (data){
+    $.getJSON("https://raw.githubusercontent.com/MichaK/bilkorama/master/map_duesseldorf_alternativ.geojson", function (data){
       var geoJsonLayer = L.geoJson(data, {
         pointToLayer: function( feature, latlng) {
           var marker = L.marker(latlng);
@@ -32,9 +32,9 @@
           return marker;
         }
       }).addTo(map); 
-      controlLayers.addOverlay(geoJsonLayer, 'layer 1');
+      controlLayers.addOverlay(geoJsonLayer, 'Düsseldorf kann´s auch nachhaltig');
     });
-    $.getJSON("map2.geojson", function (data){
+    $.getJSON("https://raw.githubusercontent.com/MichaK/bilkorama/master/map_duesseldorf_1933-1945.geojson", function (data){
       var geoJsonLayer = L.geoJson(data, {
         pointToLayer: function( feature, latlng) {
           var marker = L.marker(latlng);
@@ -42,7 +42,7 @@
           return marker;
         }
       }).addTo(map); 
-      controlLayers.addOverlay(geoJsonLayer, 'layer 2');
+      controlLayers.addOverlay(geoJsonLayer, 'Düsseldorf in der NS-Zeit (1933-1945)');
     });
     </script>
   </body>
