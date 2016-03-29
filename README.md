@@ -3,7 +3,9 @@ Ich habe folgende Idee - die Kartendaten, die man in meinem Blog auf http://www.
 
 Wer diese Daten einbinden möchte - dies geht zum Beispiel mit dieser simplen Zeile: 
 
-'''<script src="https://embed.github.com/view/geojson/MichaK/bilkorama/master/map_duesseldorf_alternativ.geojson"></script>'''
+```
+<script src="https://embed.github.com/view/geojson/MichaK/bilkorama/master/map_duesseldorf_alternativ.geojson"></script>
+```
 
 
 ## (Karte 1) Düsseldorf kann’s auch nachhaltig 
