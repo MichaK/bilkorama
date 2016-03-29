@@ -405,6 +405,30 @@
           51.223208
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Lieferservice",
+        "Adresse": "Oberbilker Allee 256, 40227 Düsseldorf",
+        "marker-symbol": "fast-food",
+        "marker-color": "#ff7f00",
+        "Restaurantname": "Fleischfrei   ",
+        "Telefonnummer": "0211 9847090",
+        "Website": "http://www.fleischfrei-duesseldorf.de/",
+        "Öffnungszeiten": "Di Ruhetag",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "Lieferservice": "x",
+        "ViD-Tipp:": "Pizza und Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.803943514823914,
+          51.209978645210256
+        ]
+      }
     }
   ]
 }
