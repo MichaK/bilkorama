@@ -15,9 +15,9 @@ CC-BY-SA
 ## Kartendaten
 Dies sind bereits "vollständige" Karten Layer :
 - [x] Düsseldorf kann’s auch nachhaltig
-- [x] Gegen das Vergessen - Stolpersteine und weitere Orte des Gedenkens in Düsseldorf (1933 - 1945)
+- [ ] Gegen das Vergessen - Stolpersteine und weitere Orte des Gedenkens in Düsseldorf (1933 - 1945)
 - [ ] Hausbesetzungen in Düsseldorf (1972 bis heute)
-- [ ] Vegetarische und vegane Restaurants in Düsseldorf
+- [x] Vegetarische und vegane Restaurants in Düsseldorf
 
 
 ## (Karte 1) Düsseldorf kann’s auch nachhaltig
@@ -31,4 +31,7 @@ Die Erinnerung und das Gedenken an die Opfer der Schoah ist untrennbar mit der d
 
 ## (Karte 3) "Besetzt lieber leere Häuser, statt andere Länder"
 Inspiriert durch den Online-Stadtplan zur Geschichte von Hausbesetzungen in Berlin: “Berlin besetzt” habe ich einfach mal die Standorte aus der Diplomarbeit von Volker Rekitte und Klaus Martin Becker: „Politische Aktionen gegen Wohnungsnot und Umstrukturierung und die HausbesetzerInnenbewegung in Düsseldorf von 1972 bis heute.“ (Düsseldorf, 1995) auf eine Karte gebracht – denn wer weiss denn schon welche Häuser mal besetzt waren ;-) Die Instandbesetzer-Bewegung hat in zwei großen Wellen vor 30 Jahren Düsseldorf in Atem gehalten – seit 1972 sind min­des­tens 50 Häu­sern in Düsseldorfer Stadtgebiet besetzt und „umgenutzt“ worden… Blogpost: http://www.bilkorama.de/stadtplan-mal-anders/
+
+## (Karte 4) Vegetarische und vegane Restaurants in Düsseldorf
+Gemeinsam mit veganinduesseldorf.de haben wir eine kleine Karte erstellt – ganz nach dem Motto: “Lecker vegetarisch und vegan in Düsseldorf essen gehen”. Schön zu sehen das es mittlerweile eine wirklich vielseitige Auswahl an Restaurants, Bistros und Cafes gibt, die einem den leckeren Genuß ohne Fleisch oder Fisch auf dem Teller (und auch ohne Eiern, Milchprodukten oder Honig) ermöglicht. Blogpost: http://www.bilkorama.de/stadtplan-mal-anders/
 
