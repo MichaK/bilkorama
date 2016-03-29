@@ -161,7 +161,7 @@
       "properties": {
         "marker-color": "#808000",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "Typ": "Bioladen",
         "* ": "",
         "Name": "Annes Bioladen",
@@ -184,7 +184,7 @@
         "Name": "Das Kleeblatt",
         "Adresse": "Benderstr. 75 40625 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -203,7 +203,7 @@
         "Name": "Frucht & Genuss ",
         "Adresse": "Stresemannstr.Â 29,  40210Â Düsseldorf",
         "Web:": "http://www.fruchtundgenuss.de",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -224,7 +224,7 @@
         "Name": "Hofladen Südpark",
         "Adresse": "In den Großen Banden 60, 40225 Düsseldorf",
         "Web:": "http://www.wfaa.de",
-        "marker-symbol": "shop"
+        "marker-symbol": "grocery"
       },
       "geometry": {
         "type": "Point",
@@ -242,7 +242,7 @@
         "Name": "Naturkost Holthausen",
         "Adresse": "Itter Str. 34, 40589 Düsseldorf",
         "Web:": "http://www.moehre.com",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -261,7 +261,7 @@
         "Name": "Natürlich Natürlich",
         "Adresse": "Brunnenstr. 22 40223 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -280,7 +280,7 @@
         "Name": "Ökologische Marktwirtschaft",
         "Adresse": "Heerstr. 19 40227 Düsseldorf",
         "Web:": "http://www.oekoma.de",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -1187,7 +1187,8 @@
         "Name": "Reformhaus Bacher",
         "Adresse": "Rehtelstr. 166, 40237 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1205,7 +1206,8 @@
         "Name": "Reformhaus Goll",
         "Adresse": "Friedrichstr. 6, 40217 Düsseldorf",
         "Web:": "http://www.reformhaus-goll.de",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1225,8 @@
         "Name": "Reformhaus Goll",
         "Adresse": "Luegallee 108a, 40545 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1236,6 +1239,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
         "Typ": "Reformhaus",
         "* ": "",
         "Name": "Reformhaus Kaubisch,",
@@ -1259,7 +1264,8 @@
         "Name": "Reformhaus Ulrike Hilger",
         "Adresse": "Nordstr. 100, 40477 Düsseldorf",
         "Web:": "http://www.reformhaus-ulrikehilger.de",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1277,7 +1283,8 @@
         "Name": "Reformhaus van der Zande",
         "Adresse": "Neustr. 13, 40213 Düsseldorf",
         "Web:": "",
-        "marker-symbol": "shop"
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1292,7 +1299,7 @@
       "properties": {
         "marker-color": "#808000",
         "marker-size": "medium",
-        "marker-symbol": "warehouse",
+        "marker-symbol": "shop",
         "Typ": "Reformhaus",
         "* ": "",
         "Name": "Reformhaus Wersten",
@@ -1526,7 +1533,7 @@
         "Name": "Basic - Bio für alle",
         "Adresse": " Friedrichstr. 73, 40217 Düsseldorf",
         "Web:": "http://www.basic-bio-genuss-fuer-alle.de",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -1546,7 +1553,7 @@
         "Name": "SuperBioMarkt",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
         "Web:": "http://www.superbiomarkt.de",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -1565,7 +1572,7 @@
         "Name": "SuperBioMarkt",
         "Adresse": "Nordstr. 82, 40477 Düsseldorf",
         "Web:": "http://www.superbiomarkt.de",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -1584,7 +1591,7 @@
         "Name": "Vantastisch",
         "Adresse": "Elisabethstr. 54A, Düsseldorf",
         "Web:": "Vantastisch - alles vegan www.vantastisch-alles-vegan.de",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "marker-color": "#808000"
       },
       "geometry": {
@@ -1753,23 +1760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Typ": "Imker",
-        "* ": "",
-        "Name": "Imkerei Strauch",
-        "Adresse": "Eiskellersstr. 15, 40213 Düsseldorf",
-        "Web:": "http://www.duesseldorferhonig.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.77307,
-          51.23053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Typ": "SecondHand",
         "* ": "",
         "Name": "Elementarteilchen",
@@ -1848,7 +1838,7 @@
       "properties": {
         "marker-color": "#7f007f",
         "marker-size": "medium",
-        "marker-symbol": "warehouse",
+        "marker-symbol": "clothing-store",
         "Typ": "SecondHand",
         "* ": "",
         "Name": "Hosenmatz",
@@ -2007,7 +1997,7 @@
         "Adresse": "Birkenstraße 149 40233 Düsseldorf ",
         "Web:": "http://www.naturburschen-flingern.de/",
         "marker-color": "#ccff66",
-        "marker-symbol": "shop"
+        "marker-symbol": "grocery"
       },
       "geometry": {
         "type": "Point",
@@ -2042,7 +2032,7 @@
       "properties": {
         "marker-color": "#ccff66",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "grocery",
         "Typ": "Supermarkt",
         "* ": "",
         "Name": "TasteGreece",
