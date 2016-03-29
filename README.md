@@ -3,7 +3,7 @@
 ```
 <script src="https://embed.github.com/view/geojson/MichaK/bilkorama/master/map_duesseldorf_alternativ.geojson"></script>
 ```
-oder man kann sich auch die Beispieldatei (https://github.com/MichaK/bilkorama/blob/master/index.html) genauer anschauen und dann GeoJson mit Leaflet verwenden - it works, but it's quite ugly ;-) 
+oder man kann auch GeoJson-Files mit Leaflet nutzen - eine Beispieldatei habe ich [hier auf github]  (https://github.com/MichaK/bilkorama/blob/master/index.html) hinterlegt... ja der Beispielsourcedoe lässt sich mit einem " it's quite ugly but it works" umschreiben ;-) 
 
 ## Wie kann ich beitragen:
 - Hinterlasst einfach einen Kommentar / Hinweis welche POIs noch fehlen oder nicht mehr aktuell sind
