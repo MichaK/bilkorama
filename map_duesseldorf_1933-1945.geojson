@@ -1731,9 +1731,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "square",
         "Adresse": "Wildenbruchstr. 107",
-        "stadt": "Düsseldorf",
-        "": "Stolperstein für Max Dannenbaum, Jg. 1881, deportiert 1941, ermordet in Minsk "
+        "stadt": "Düsseldorf"
       },
       "geometry": {
         "type": "Point",
