@@ -200,7 +200,7 @@
       "properties": {
         "Typ": "Bioladen",
         "* ": "",
-        "Name": "FruchtÂ &Â Genuss ",
+        "Name": "Frucht & Genuss ",
         "Adresse": "Stresemannstr.Â 29,  40210Â Düsseldorf",
         "Web:": "http://www.fruchtundgenuss.de",
         "marker-symbol": "shop",
@@ -335,7 +335,7 @@
       "properties": {
         "Typ": "Büro",
         "* ": "",
-        "Name": "GEWÃCHSHAUS DÜSSELDORF",
+        "Name": "GEWÄCHSHAUS DÜSSELDORF",
         "Adresse": "Mindener Str. 30, 40227 Düsseldorf",
         "Web:": "http://www.gewaechshaus-duesseldorf.de",
         "marker-symbol": "rocket",
@@ -934,7 +934,7 @@
         "marker-size": "medium",
         "Typ": "Imbiss",
         "* ": "omni/v/vgn",
-        "Name": "MY Gemüse DÃ¶ner",
+        "Name": "MY Gemüse Döner",
         "Adresse": "",
         "Web:": "",
         "marker-symbol": "fast-food"
@@ -1942,6 +1942,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7f007f",
+        "marker-size": "medium",
+        "marker-symbol": "star",
         "Typ": "Wellness",
         "* ": "",
         "Name": "PADMAVATI Ayurveda â Yoga, Wellness & Reiki",
@@ -1959,6 +1962,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7f007f",
+        "marker-size": "medium",
+        "marker-symbol": "star",
         "Typ": "Wellness",
         "* ": "",
         "Name": "Rundum Yoga",
@@ -1980,7 +1986,9 @@
         "* ": "",
         "Name": "Rundum Yoga",
         "Adresse": "Schwerinstraße 21, 40477 Düsseldorf",
-        "Web:": "http://www.rundumyoga.de/ (Studio Derendorf)"
+        "Web:": "http://www.rundumyoga.de/ (Studio Derendorf)",
+        "marker-symbol": "star",
+        "marker-color": "#7f007f"
       },
       "geometry": {
         "type": "Point",
@@ -2182,7 +2190,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "bakery"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
