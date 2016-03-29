@@ -63,7 +63,7 @@
         "marker-symbol": "square",
         "Adresse": "Adalbertstraße 22",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
         "marker-symbol": "square",
         "Adresse": "Cheruskerstraße 44",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +279,7 @@
         "marker-symbol": "square",
         "Adresse": "Cheruskerstraße 99",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +297,7 @@
         "marker-symbol": "square",
         "Adresse": "Cheruskerstraße 99",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +369,7 @@
         "marker-symbol": "square",
         "Adresse": "Düsseldorfer Straße 88",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +387,7 @@
         "marker-symbol": "square",
         "Adresse": "Engerstraße 5",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -693,7 +693,7 @@
         "marker-symbol": "square",
         "Adresse": "Graf-Adolf-Straße 16",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -945,7 +945,7 @@
         "marker-symbol": "square",
         "Adresse": "Hermannstraße 5",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1159,9 +1159,9 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Kö¶lner Straße 151",
+        "Adresse": "Kölner Straße 151",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1177,9 +1177,9 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Kö¶lner Straße 280",
+        "Adresse": "Kölner Straße 280",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1195,9 +1195,9 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Kö¶nigsallee",
+        "Adresse": "Königsallee",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1213,9 +1213,9 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Kö¶nigsallee",
+        "Adresse": "Königsallee",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1341,7 @@
         "marker-symbol": "square",
         "Adresse": "Luegallee 15",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1395,7 +1395,7 @@
         "marker-symbol": "square",
         "Adresse": "Moltkestraße 100",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1413,7 +1413,7 @@
         "marker-symbol": "square",
         "Adresse": "Moltkestraße 85",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@
         "marker-symbol": "square",
         "Adresse": "Neusser Straße 37",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1449,7 +1449,7 @@
         "marker-symbol": "square",
         "Adresse": "Nordstraße 3",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1467,7 +1467,7 @@
         "marker-symbol": "square",
         "Adresse": "Oststraße 52",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1485,7 +1485,7 @@
         "marker-symbol": "square",
         "Adresse": "Oststraße 52",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1701,7 @@
         "marker-symbol": "square",
         "Adresse": "Scharnhorststraße 4",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1771,7 +1771,7 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Schö¶naustr. 1",
+        "Adresse": "Schönaustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Karl Cohen, Jg. 1895, deportiert 1941 Lodz, ermordet Aug. 1944, Auschwitz"
       },
@@ -1789,7 +1789,7 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Schö¶naustr. 1",
+        "Adresse": "Schönaustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Hugo Kussel, Jg. 1898, deportiert 1941 Minsk, ermordet"
       },
@@ -1807,7 +1807,7 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Schö¶naustr. 1",
+        "Adresse": "Schönaustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Albert Kussel, Jg. 1941, deportiert 1941 Minsk, ermordet"
       },
@@ -1825,7 +1825,7 @@
         "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "square",
-        "Adresse": "Schö¶naustr. 1",
+        "Adresse": "Schönaustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Henriette Kussel geb. Wagner, Jg. 1910, deportiert 1941 Minsk, ermordet "
       },
@@ -1845,7 +1845,7 @@
         "marker-symbol": "square",
         "Adresse": "Schwanenmarkt 3",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1863,7 +1863,7 @@
         "marker-symbol": "square",
         "Adresse": "Sonnbornstraße 59",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1881,7 @@
         "marker-symbol": "square",
         "Adresse": "Sonnbornstraße 59",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1899,7 +1899,7 @@
         "marker-symbol": "square",
         "Adresse": "Stresemannstraße 29",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1917,7 +1917,7 @@
         "marker-symbol": "square",
         "Adresse": "Stresemannstraße 30",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1935,7 +1935,7 @@
         "marker-symbol": "square",
         "Adresse": "Stresemannstraße 30",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1953,7 +1953,7 @@
         "marker-symbol": "square",
         "Adresse": "Stresemannstraße 35",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +1971,7 @@
         "marker-symbol": "square",
         "Adresse": "Stresemannstraße 35",
         "stadt": "Düsseldorf",
-        "": "â¦"
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2021,10 +2021,11 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "police",
+        "marker-size": "small",
+        "marker-symbol": "square",
         "Adresse": "Ursulinengasse 7",
-        "stadt": "Düsseldorf"
+        "stadt": "Düsseldorf",
+        "": "Stolperstein"
       },
       "geometry": {
         "type": "Point",
@@ -2218,8 +2219,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#000000",
-        "marker-size": "small",
-        "marker-symbol": "",
+        "marker-size": "medium",
+        "marker-symbol": "police",
         "Adresse": "Reuterkaserne",
         "stadt": "Düsseldorf",
         "": "SS-Foltergefängnis (Reuterkaserne)"
@@ -2237,7 +2238,7 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "small",
-        "marker-symbol": "monument",
+        "marker-symbol": "police",
         "Adresse": "Bismarckstraße 44",
         "stadt": "Düsseldorf",
         "": "'Schlegelkeller' SA-Folterkeller"
@@ -2345,7 +2346,7 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "small",
-        "marker-symbol": "monument",
+        "marker-symbol": "police",
         "Adresse": "Haroldstraße 26 ",
         "stadt": "Düsseldorf",
         "": "'Schlageterheim' - Folterkeller der SA"
