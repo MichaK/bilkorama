@@ -17,6 +17,7 @@ Dies sind bereits "vollständige" Karten Layer :
 - [x] Düsseldorf kann’s auch nachhaltig
 - [x] Gegen das Vergessen - Stolpersteine und weitere Orte des Gedenkens in Düsseldorf (1933 - 1945)
 - [ ] Hausbesetzungen in Düsseldorf (1972 bis heute)
+- [ ] Vegetarische und vegane Restaurants in Düsseldorf
 
 
 ## (Karte 1) Düsseldorf kann’s auch nachhaltig
