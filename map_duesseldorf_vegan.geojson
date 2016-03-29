@@ -1,1 +1,374 @@
 
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Bistro",
+        "Restaurantname": "Bistro Zicke",
+        "Adresse": "Bäckerstraße 5a, 40123 Düsseldorf",
+        "Website": "http://www.bistro-zicke.de/",
+        "Telefonnummer": "0211 32 78 00",
+        "Öffnungszeiten": "Mo-So von 9-1 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Gegrilltes Gemüse mit Hummus und Landbrot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769466,
+          51.222439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Burger",
+        "Restaurantname": "HANS IM GLÜCK",
+        "Adresse": "Hammer Str. 38, 40219 Düsseldorf",
+        "Website": "http://medienhafen.hansimglueck-burgergrill.de/",
+        "Telefonnummer": "0211 99457707",
+        "Öffnungszeiten": "Mo-Sa von 12-Ende offen, So/Feiertage ab 13 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Natürlich der Veganburger mit Fritten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.756187,
+          51.214377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Asiatisch/ Thai",
+        "Restaurantname": "cha chã ",
+        "Adresse": "Benrather Karree, Kasernenstraße 18, 40213 Düsseldorf",
+        "Website": "http://www.eatchacha.com/",
+        "Telefonnummer": "0211 86329611",
+        "Öffnungszeiten": "Mo – Fr von 12-22 Uhr, Sa von 12-23 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Gelbes Curry mit oder ohne Tofu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775647,
+          51.223887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Café ",
+        "Restaurantname": "Carrot/Cake",
+        "Adresse": "Moltkestraße 75, 40479 Düsseldorf",
+        "Website": "http://carrot-cake.de/",
+        "Telefonnummer": "",
+        "Öffnungszeiten": "Di – Fr von 12-18 Uhr und Sa/So/Feiertag 10-18 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "",
+        "omni": "",
+        "ViD-Tipp:": "Milchkaffee mit Mandelmilch und dazu ein Stück veganen Russischen Zupfkuchen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.789848,
+          51.23762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Indisch",
+        "Restaurantname": "Kirtis Dhaba",
+        "Adresse": "Düsselthaler Str. 1a, 40211 Düsseldorf",
+        "Website": "http://www.kirtisdhaba.de/",
+        "Telefonnummer": "0211 8604202",
+        "Öffnungszeiten": "Di – So von 12-15 Uhr und von 18-23 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Eggplant Bharta - zum Verlieben!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.790046,
+          51.232201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Indisch",
+        "Restaurantname": "Kirtis Restaurant",
+        "Adresse": "Brückenstraße 19, 40221 Düsseldorf",
+        "Website": "http://www.kirtis.de/",
+        "Telefonnummer": "0211 99 456 384",
+        "Öffnungszeiten": "Mo – Sa von 12-15 Uhr und von 18-23.30 Uhr, So von 18-23 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Gehört zum allseits beliebten Kirtis Dhaba - "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.759679,
+          51.215849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Buffet ",
+        "Restaurantname": "Sattgrün (Mitte)",
+        "Adresse": "Graf-Adolf-Platz 6, 40213 Düsseldorf",
+        "Website": "http://sattgruen.de/",
+        "Telefonnummer": "0211 876 33 90",
+        "Öffnungszeiten": "Mo – Sa von 12-17 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "",
+        "omni": "",
+        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77651,
+          51.218441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Buffet ",
+        "Restaurantname": "Sattgrün (Flingern)",
+        "Adresse": "Hoffeldstr. 18, 40235 Düsseldorf",
+        "Website": "http://sattgruen.de/",
+        "Telefonnummer": " 0211 68 87 40 80",
+        "Öffnungszeiten": "Mo – Sa von 12-23 Uhr (Küche bis 22 Uhr)",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "",
+        "omni": "",
+        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81315,
+          51.23052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Buffet ",
+        "Restaurantname": "Sattgrün (Hafen)",
+        "Adresse": "Brückenstr. 12, 40221 Düsseldorf",
+        "Website": "http://sattgruen.de/",
+        "Telefonnummer": "0211 159 23 290",
+        "Öffnungszeiten": "Mo – So von 12-23 Uhr (Küche bis 22 Uhr)",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "",
+        "omni": "",
+        "ViD-Tipp:": "Einmal alles vom Buffet, bitte!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.759028,
+          51.216035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Türkisch",
+        "Restaurantname": "My Gemüsedöner",
+        "Adresse": "Bachstraße 126, 40217 Düsseldorf-Bilk (Stand gegenüber des Parkhauseingangs der Bilker Arcaden)",
+        "Website": "",
+        "Telefonnummer": "",
+        "Öffnungszeiten": "Mo - Sa von 11-21 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Natürlich den Vegandöner mit gegrilltem Gemüse!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774549,
+          51.209385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Café",
+        "Restaurantname": "Homemade We Eat Fine",
+        "Adresse": "Bilker Allee 209, 40215 Düsseldorf",
+        "Website": "http://homemade-we-eat-fine.com/",
+        "Telefonnummer": "0157 855 34 164",
+        "Öffnungszeiten": "Di-So von 10-19 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Einen süßen Cupcake auf die Hand!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.779642,
+          51.210339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Bistro ",
+        "Restaurantname": "Greenies",
+        "Adresse": "Collenbachstr. 41, 40476 Düsseldorf",
+        "Website": "https://www.facebook.com/greeniessalat",
+        "Telefonnummer": "0211 97178879",
+        "Öffnungszeiten": "Di-So 11-20Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "",
+        "ViD-Tipp:": "Gerichte wechseln hier aber sind garantiert lecker! :)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782844,
+          51.243501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Bistro und Bar",
+        "Restaurantname": "Schnell Veg",
+        "Adresse": "Bagelstraße 130, 40479 Düsseldorf",
+        "Website": "http://www.schnellveg.com/",
+        "Telefonnummer": "0211 91184728",
+        "Öffnungszeiten": "Di-Do von 17-24 Uhr, Fr-Sa von 10-01 Uhr, So von 10-22 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "",
+        "ViD-Tipp:": "Seitan-Burger mit Fritten oder Kreationen von der Tageskarte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79278,
+          51.23549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Eiscafé",
+        "Restaurantname": "EisBar",
+        "Adresse": "Friedrichstraße 6, 40217 Düsseldorf",
+        "Website": "https://www.facebook.com/eisbar.dus",
+        "Telefonnummer": "01512 4291018",
+        "Öffnungszeiten": "Momentan Winterpause, sonst Mo-Sa von 12-18 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "",
+        "omni": "",
+        "ViD-Tipp:": "Alle Eissorten einmal durchprobieren und mit Anne einen Kaffee trinken. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7771,
+          51.217549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Asiatisch ",
+        "Restaurantname": "Jade Imbiss",
+        "Adresse": "Dürener Straße 42, 40223 Düsseldorf",
+        "Website": "http://www.jade-imbiss.de/",
+        "Telefonnummer": "0211 156788",
+        "Öffnungszeiten": "Di-Fr von  11.30-15.30 und von 17-22.30 Uhr, Sa/So/Feiertag von 12-22 Uhr",
+        "Lieferservice": "x",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "",
+        "ViD-Tipp:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.770017,
+          51.197939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Küche": "Frozen Yoghurt",
+        "Restaurantname": "Yomaro",
+        "Adresse": "Carlsplatz 6b, 40213 Düsseldorf",
+        "Website": "http://www.yomaro.de",
+        "Telefonnummer": "0178 4472506",
+        "Öffnungszeiten": "Mo-So von 12-20 Uhr",
+        "Lieferservice": "",
+        "vegan": "x",
+        "vegetarisch": "x",
+        "omni": "x",
+        "ViD-Tipp:": "Frozen Yoghurt aus Sojamilch mit drölf Toppings!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772675,
+          51.223208
+        ]
+      }
+    }
+  ]
+}
