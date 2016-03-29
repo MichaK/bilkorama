@@ -9,9 +9,9 @@
         "marker-symbol": "farm",
         "Typ": "Anbau",
         "* ": "",
-        "Name": "Meine Ernte – Gemüsebau Andree",
+        "Name": "Meine Ernte â Gemüsebau Andree",
         "Adresse": "Volmerswerther Deich, 40221 Düsseldorf",
-        "Zusatz": "http://www.meine-ernte.de"
+        "Web:": "http://www.meine-ernte.de"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +28,7 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Nordstr. 77, 40477 Düsseldorf",
-        "Zusatz": "http://www.ihr-baecker-schueren.de",
+        "Web:": "http://www.ihr-baecker-schueren.de",
         "marker-color": "",
         "marker-symbol": "bakery"
       },
@@ -47,7 +47,7 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Hauptstr. 5, 40597 Düsseldorf",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "Web:": "http://www.ihr-bäcker-schüren.de",
         "marker-symbol": "bakery"
       },
       "geometry": {
@@ -64,8 +64,8 @@
         "Typ": "Bäcker",
         "* ": "",
         "Name": "Bäcker Schüren",
-        "Adresse": "Luegallee 93, 40545 Düsseldorf    ",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "Adresse": "Luegallee 93, 40545 DüsseldorfÂ Â Â  ",
+        "Web:": "http://www.ihr-bäcker-schüren.de",
         "marker-symbol": "bakery"
       },
       "geometry": {
@@ -83,7 +83,7 @@
         "* ": "",
         "Name": "Bäcker Schüren",
         "Adresse": "Rethelstr. 144, 40239 Düsseldorf",
-        "Zusatz": "http://www.ihr-bäcker-schüren.de",
+        "Web:": "http://www.ihr-bäcker-schüren.de",
         "marker-symbol": "bakery"
       },
       "geometry": {
@@ -101,7 +101,7 @@
         "* ": "",
         "Name": "Bäckerei Hinkel",
         "Adresse": "Hohe Str. 31, 40213 Düsseldorf",
-        "Zusatz": "http://www.baeckerei-hinkel.de",
+        "Web:": "http://www.baeckerei-hinkel.de",
         "marker-symbol": "bakery"
       },
       "geometry": {
@@ -121,7 +121,7 @@
         "* ": "",
         "Name": "Hercules Bäckerei ",
         "Adresse": "Ulmenstr. 120, 40476 Düsseldorf,",
-        "Zusatz": "http://www.hercules-baeckerei.de",
+        "Web:": "http://www.hercules-baeckerei.de",
         "marker-symbol": "bakery"
       },
       "geometry": {
@@ -139,7 +139,7 @@
         "* ": "",
         "Name": "Steinofen Bäcker (im SuperBioMarkt)",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
-        "Zusatz": "http://www.steinofenbaecker.de",
+        "Web:": "http://www.steinofenbaecker.de",
         "marker-symbol": "bakery"
       },
       "geometry": {
@@ -160,7 +160,7 @@
         "* ": "",
         "Name": "Annes Bioladen",
         "Adresse": "Benrodestr. 39, 40597 Düsseldorf",
-        "Zusatz": "http://www.annesbioladen.de"
+        "Web:": "http://www.annesbioladen.de"
       },
       "geometry": {
         "type": "Point",
@@ -177,7 +177,7 @@
         "* ": "",
         "Name": "Das Kleeblatt",
         "Adresse": "Benderstr. 75 40625 Düsseldorf",
-        "Zusatz": "",
+        "Web:": "",
         "marker-symbol": "shop"
       },
       "geometry": {
@@ -193,9 +193,9 @@
       "properties": {
         "Typ": "Bioladen",
         "* ": "",
-        "Name": "Frucht & Genuss ",
-        "Adresse": "Stresemannstr. 29,  40210 Düsseldorf",
-        "Zusatz": "http://www.fruchtundgenuss.de",
+        "Name": "FruchtÂ &Â Genuss ",
+        "Adresse": "Stresemannstr.Â 29,  40210Â Düsseldorf",
+        "Web:": "http://www.fruchtundgenuss.de",
         "marker-symbol": "shop"
       },
       "geometry": {
@@ -215,7 +215,7 @@
         "* ": "",
         "Name": "Hofladen Südpark",
         "Adresse": "In den Großen Banden 60, 40225 Düsseldorf",
-        "Zusatz": "http://www.wfaa.de",
+        "Web:": "http://www.wfaa.de",
         "marker-symbol": "shop"
       },
       "geometry": {
@@ -233,7 +233,7 @@
         "* ": "",
         "Name": "Naturkost Holthausen",
         "Adresse": "Itter Str. 34, 40589 Düsseldorf",
-        "Zusatz": "http://www.moehre.com",
+        "Web:": "http://www.moehre.com",
         "marker-symbol": "shop"
       },
       "geometry": {
@@ -251,7 +251,7 @@
         "* ": "v/vgn",
         "Name": "Natürlich Natürlich",
         "Adresse": "Brunnenstr. 22 40223 Düsseldorf",
-        "Zusatz": "",
+        "Web:": "",
         "marker-symbol": "shop"
       },
       "geometry": {
@@ -269,7 +269,7 @@
         "* ": "omni/v/vgn",
         "Name": "Ökologische Marktwirtschaft",
         "Adresse": "Heerstr. 19 40227 Düsseldorf",
-        "Zusatz": "http://www.oekoma.de",
+        "Web:": "http://www.oekoma.de",
         "marker-symbol": "shop"
       },
       "geometry": {
@@ -290,7 +290,7 @@
         "* ": "",
         "Name": "BiBaBuZe",
         "Adresse": "Aachener Str. 1, 40223 Düsseldorf",
-        "Zusatz": "Die BilkerBasisBuchZentrale ist mehr als nur ein Buchladen http://www.bibabuze.de/"
+        "Web:": "Die BilkerBasisBuchZentrale ist mehr als nur ein Buchladen http://www.bibabuze.de/"
       },
       "geometry": {
         "type": "Point",
@@ -307,7 +307,7 @@
         "* ": "",
         "Name": "GarageBilk | Coworking Space",
         "Adresse": "Bilker Allee 217, 40215 Düsseldorf",
-        "Zusatz": "https://garagebilk.de",
+        "Web:": "https://garagebilk.de",
         "marker-symbol": ""
       },
       "geometry": {
@@ -323,9 +323,9 @@
       "properties": {
         "Typ": "Büro",
         "* ": "",
-        "Name": "GEWÄCHSHAUS DÜSSELDORF",
+        "Name": "GEWÃCHSHAUS DÜSSELDORF",
         "Adresse": "Mindener Str. 30, 40227 Düsseldorf",
-        "Zusatz": "http://www.gewaechshaus-duesseldorf.de"
+        "Web:": "http://www.gewaechshaus-duesseldorf.de"
       },
       "geometry": {
         "type": "Point",
@@ -343,9 +343,9 @@
         "marker-symbol": "cafe",
         "Typ": "Cafe",
         "* ": "omni/v/vgn",
-        "Name": "Café Sternwarte",
+        "Name": "Cafe Sternwarte",
         "Adresse": "Volmerswertherstr. 130,  40221 Düsseldorf",
-        "Zusatz": "Cafe, Park und Wasserspielplatz"
+        "Web:": "Cafe, Park und Wasserspielplatz"
       },
       "geometry": {
         "type": "Point",
@@ -362,7 +362,7 @@
         "* ": "v/vgn",
         "Name": "Carrot/Cake",
         "Adresse": "Moltkestr. 75, 40479 Düsseldorf",
-        "Zusatz": "http://www.carrotcake.de",
+        "Web:": "http://www.carrotcake.de",
         "marker-symbol": "cafe",
         "marker-color": "#0000ff"
       },
@@ -384,7 +384,7 @@
         "* ": "omni/v/vgn",
         "Name": "Florabar",
         "Adresse": "Kronenstr. 65, 40217 Düsseldorf",
-        "Zusatz": "http://www.florabar.de"
+        "Web:": "http://www.florabar.de"
       },
       "geometry": {
         "type": "Point",
@@ -401,7 +401,7 @@
         "* ": "v/vgn",
         "Name": "Greenies",
         "Adresse": "Collenbachstr. 41, 40476 Düsseldorf",
-        "Zusatz": "Cafe mit vegetarisch/veganer Küche https://www.facebook.com/greeniessalat",
+        "Web:": "Cafe mit vegetarisch/veganer Küche https://www.facebook.com/greeniessalat",
         "marker-color": "#0000ff",
         "marker-symbol": "cafe"
       },
@@ -421,7 +421,7 @@
         "* ": "omni/v/vgn",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Am Carlsplatz 6B, 40213 Düsseldorf ",
-        "Zusatz": "info@yomaro.de",
+        "Web:": "info@yomaro.de",
         "marker-color": "#0000ff",
         "marker-symbol": "ice-cream"
       },
@@ -440,7 +440,7 @@
         "* ": "omni/v",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Immermannstr. 18, 40210 Düsseldorf ",
-        "Zusatz": "info@yomaro.de",
+        "Web:": "info@yomaro.de",
         "marker-color": "#0000ff",
         "marker-symbol": "ice-cream"
       },
@@ -459,7 +459,7 @@
         "* ": "omni/v",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Hauptstr. 18, 40597 Düsseldorf",
-        "Zusatz": "info@yomaro.de",
+        "Web:": "info@yomaro.de",
         "marker-color": "#0000ff",
         "marker-symbol": "ice-cream"
       },
@@ -478,7 +478,7 @@
         "* ": "omni/v",
         "Name": "YOMARO Frozen Yogurt",
         "Adresse": "Lorettostr. 17, 40219 Düsseldorf",
-        "Zusatz": "info@yomaro.de",
+        "Web:": "info@yomaro.de",
         "marker-color": "#0000ff",
         "marker-symbol": "ice-cream"
       },
@@ -497,7 +497,7 @@
         "* ": "v/vgn",
         "Name": "Eiscafe",
         "Adresse": "Friedrichstr. 8 40217 Düsseldorf",
-        "Zusatz": "http://www.eisbar-eis.de",
+        "Web:": "http://www.eisbar-eis.de",
         "marker-color": "#0000ff",
         "marker-symbol": "ice-cream"
       },
@@ -516,7 +516,7 @@
         "* ": "",
         "Name": "NATURSTROM AG",
         "Adresse": "Achenbachstr. 43, 40237 Düsseldorf",
-        "Zusatz": "http://www.naturstrom.de"
+        "Web:": "http://www.naturstrom.de"
       },
       "geometry": {
         "type": "Point",
@@ -529,14 +529,14 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff8000",
         "marker-size": "medium",
         "marker-symbol": "bicycle",
         "Typ": "Fahrrad",
         "* ": "",
         "Name": "Düsselrad",
         "Adresse": " Konkordiastr. 61 (im Hof), 40219 Düsseldorf",
-        "Zusatz": "http://www.duesselrad.de"
+        "Web:": "http://www.duesselrad.de"
       },
       "geometry": {
         "type": "Point",
@@ -553,9 +553,9 @@
         "* ": "",
         "Name": "Re-Cycler",
         "Adresse": " Herderstr. 26-28, 40237 Düsseldorf ",
-        "Zusatz": "http://www.re-cycler.de/",
+        "Web:": "http://www.re-cycler.de/",
         "marker-symbol": "bicycle",
-        "marker-color": "#7e7e7e"
+        "marker-color": "#ff8000"
       },
       "geometry": {
         "type": "Point",
@@ -572,9 +572,9 @@
         "* ": "",
         "Name": "Schicke Mütze ",
         "Adresse": "Talstr. 22-24 (Hinterhaus), 40217 Düsseldorf",
-        "Zusatz": "Café, Laden, Schrauberei. http://schickemuetze.de/",
+        "Web:": "Cafe, Laden, Schrauberei. http://schickemuetze.de/",
         "marker-symbol": "bicycle",
-        "marker-color": "#7e7e7e"
+        "marker-color": "#ff8000"
       },
       "geometry": {
         "type": "Point",
@@ -594,7 +594,7 @@
         "* ": " ",
         "Name": "düsselgrün",
         "Adresse": "Haifastr. / Eintrachtstr. 40227 Düsseldorf",
-        "Zusatz": "Wir sind eine Gruppe von Bürger_Innen, die sich lose zusammen geschlossen hat um einen offenen Gemeinschaftsgarten für Düsseldorf zu gestalten. http://duesselgruen.de/"
+        "Web:": "Wir sind eine Gruppe von Bürger_Innen, die sich lose zusammen geschlossen hat um einen offenen Gemeinschaftsgarten für Düsseldorf zu gestalten. http://duesselgruen.de/"
       },
       "geometry": {
         "type": "Point",
@@ -611,7 +611,7 @@
         "* ": " ",
         "Name": "Oberbilker Stadtgärtner e.V.",
         "Adresse": "Ellerstr. 126/128, 40227 Düsseldorf",
-        "Zusatz": "",
+        "Web:": "",
         "marker-color": "#508658",
         "marker-symbol": "garden"
       },
@@ -632,7 +632,7 @@
         "* ": "",
         "Name": "Givebox Benrath",
         "Adresse": "Sistenichstr.",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-symbol": "heart"
       },
       "geometry": {
@@ -650,7 +650,7 @@
         "* ": "",
         "Name": "Givebox Eller",
         "Adresse": "Konradstr./Gertrudisplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -669,7 +669,7 @@
         "* ": "",
         "Name": "Givebox Flingern",
         "Adresse": "Platanenstr./Hermannplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -688,7 +688,7 @@
         "* ": "",
         "Name": "Givebox Gerresheim (1)",
         "Adresse": "Heyestr. 95",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -707,7 +707,7 @@
         "* ": "",
         "Name": "Givebox Gerresheim (2)",
         "Adresse": "Benderstr./Apostelplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -726,7 +726,7 @@
         "* ": "",
         "Name": "Givebox Knittkuhl",
         "Adresse": "Am Mergelsberg, 40629 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -745,7 +745,7 @@
         "* ": "",
         "Name": "Givebox Oberbilk (1) ",
         "Adresse": "Siegburger Str. 3, 40591 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -764,7 +764,7 @@
         "* ": "",
         "Name": "Givebox Oberbilk (2) ",
         "Adresse": "Lessingplatz",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -783,7 +783,7 @@
         "* ": "",
         "Name": "Givebox Oberkassel",
         "Adresse": "Brüggener Weg 8, 40547 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -802,7 +802,7 @@
         "* ": "",
         "Name": "Givebox Rath",
         "Adresse": "Westfalenstr.",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -821,7 +821,7 @@
         "* ": "",
         "Name": "Givebox Unterbilk",
         "Adresse": "Kirchplatz (leider abgebrannt)",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -840,7 +840,7 @@
         "* ": "",
         "Name": "Givebox Unterrath",
         "Adresse": "Kalkumer Str. 58,  40468 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -859,7 +859,7 @@
         "* ": "",
         "Name": "Givebox Vennhausen",
         "Adresse": "Vennhauser Allee 215, 40627 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -878,7 +878,7 @@
         "* ": "",
         "Name": "Givebox Wersten",
         "Adresse": "Liebfrauenstr./Burscheider Str. ",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -897,7 +897,7 @@
         "* ": "",
         "Name": "Indoor-Givebox für Lebensmittel",
         "Adresse": "Aldekerkstr. 31, 40549 Düsseldorf",
-        "Zusatz": "https://www.facebook.com/GiveboxDuesseldorf",
+        "Web:": "https://www.facebook.com/GiveboxDuesseldorf",
         "marker-color": "#ff7f00",
         "marker-symbol": "heart"
       },
@@ -916,9 +916,9 @@
         "marker-size": "medium",
         "Typ": "Imbiss",
         "* ": "omni/v/vgn",
-        "Name": "MY Gemüse Döner",
+        "Name": "MY Gemüse DÃ¶ner",
         "Adresse": "",
-        "Zusatz": "",
+        "Web:": "",
         "marker-symbol": "fast-food"
       },
       "geometry": {
@@ -936,7 +936,7 @@
         "* ": "",
         "Name": "Purzel-Baum - Naturtextil & Spiel",
         "Adresse": "Birkenstr. 86, 40233 Düsseldorf",
-        "Zusatz": "http://www.purzel-baum.com"
+        "Web:": "http://www.purzel-baum.com"
       },
       "geometry": {
         "type": "Point",
@@ -953,7 +953,7 @@
         "* ": "vgn",
         "Name": "Salon für Naturkosmetik",
         "Adresse": "Flurstr. 77 (Hinterhof), 40235 Düsseldorf",
-        "Zusatz": "Naturkosmetik - Studio "
+        "Web:": "Naturkosmetik - Studio "
       },
       "geometry": {
         "type": "Point",
@@ -970,7 +970,7 @@
         "* ": "",
         "Name": "Kräuterhaus Hackenberg",
         "Adresse": "Moltkestr. 98, 40479 Düsseldorf",
-        "Zusatz": "http://www.kraeuterhaus-hackenberg.de/"
+        "Web:": "http://www.kraeuterhaus-hackenberg.de/"
       },
       "geometry": {
         "type": "Point",
@@ -990,7 +990,7 @@
         "* ": "v/vgn",
         "Name": "Jade Imbiss",
         "Adresse": "Dürener Str. 42, 40223 Düsseldorf",
-        "Zusatz": "http://www.jade-imbiss.de/"
+        "Web:": "http://www.jade-imbiss.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1007,7 +1007,7 @@
         "* ": "omni/v/vgn",
         "Name": "Bauernmarkt Friedensplätzchen",
         "Adresse": "Friedensplätzchen",
-        "Zusatz": "jeden Dienstag von 08:00 Uhr bis 13:00 Uhr / jeden Freitag von 10:00 Uhr bis 18:00 Uhr"
+        "Web:": "jeden Dienstag von 08:00 Uhr bis 13:00 Uhr / jeden Freitag von 10:00 Uhr bis 18:00 Uhr"
       },
       "geometry": {
         "type": "Point",
@@ -1024,7 +1024,7 @@
         "* ": "omni/v/vgn",
         "Name": "Bauernmarkt Kolpingplatz",
         "Adresse": "Kolpingplatz",
-        "Zusatz": "jeden Mittwoch von 9.00 bis 13.00 Uhr / jeden Samstag von 08:30 Uhr bis 13:30 Uhr "
+        "Web:": "jeden Mittwoch von 9.00 bis 13.00 Uhr / jeden Samstag von 08:30 Uhr bis 13:30 Uhr "
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1041,7 @@
         "* ": "omni/v/vgn",
         "Name": "Bauernmarkt Lessingplatz",
         "Adresse": "Lessingplatz",
-        "Zusatz": "jeden Donnerstag von 08:00 Uhr bis 13:30 Uhr"
+        "Web:": "jeden Donnerstag von 08:00 Uhr bis 13:30 Uhr"
       },
       "geometry": {
         "type": "Point",
@@ -1054,11 +1054,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#008080",
+        "marker-size": "medium",
+        "marker-symbol": "clothing-store",
         "Typ": "Mode",
         "* ": "",
         "Name": "Fräulein Bredow - Green Concept Store",
         "Adresse": "Roßstr. 9, 40476 Düsseldorf",
-        "Zusatz": "http://www.fraeuleinbredow.com"
+        "Web:": "http://www.fraeuleinbredow.com"
       },
       "geometry": {
         "type": "Point",
@@ -1075,7 +1078,9 @@
         "* ": "",
         "Name": "HanfHaus Düsseldorf",
         "Adresse": "Münsterstr. 336, 40470 Düsseldorf",
-        "Zusatz": "OutletStore nur Freitags und Samstags geöffnet. https://www.hanfhaus.de/"
+        "Web:": "OutletStore nur Freitags und Samstags geÃ¶ffnet. https://www.hanfhaus.de/",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#008080"
       },
       "geometry": {
         "type": "Point",
@@ -1092,7 +1097,9 @@
         "* ": "",
         "Name": "SOULGOODS Düsseldorf",
         "Adresse": "Nordstr. 6, 40477 Düsseldorf",
-        "Zusatz": "www.soulgoods-duesseldorf.de\n"
+        "Web:": "www.soulgoods-duesseldorf.de\n",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#008080"
       },
       "geometry": {
         "type": "Point",
@@ -1109,7 +1116,9 @@
         "* ": "",
         "Name": "SUBURBIA Store",
         "Adresse": "Birkenstr. 40, 40233 Düsseldorf",
-        "Zusatz": "http://www.suburbia-store.de"
+        "Web:": "http://www.suburbia-store.de",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#008080"
       },
       "geometry": {
         "type": "Point",
@@ -1126,7 +1135,9 @@
         "* ": "v/vgn",
         "Name": "Yavana Naturmode - organisch und fair",
         "Adresse": "Brunnenstr. 32, 40223 Düsseldorf",
-        "Zusatz": "http://www.yavana.de "
+        "Web:": "http://www.yavana.de ",
+        "marker-symbol": "clothing-store",
+        "marker-color": "#008080"
       },
       "geometry": {
         "type": "Point",
@@ -1143,7 +1154,8 @@
         "* ": "",
         "Name": "Reformhaus Bacher",
         "Adresse": "Rehtelstr. 166, 40237 Düsseldorf",
-        "Zusatz": ""
+        "Web:": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1160,7 +1172,8 @@
         "* ": "omni/v/vgn",
         "Name": "Reformhaus Goll",
         "Adresse": "Friedrichstr. 6, 40217 Düsseldorf",
-        "Zusatz": "http://www.reformhaus-goll.de"
+        "Web:": "http://www.reformhaus-goll.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1177,7 +1190,8 @@
         "* ": "",
         "Name": "Reformhaus Goll",
         "Adresse": "Luegallee 108a, 40545 Düsseldorf",
-        "Zusatz": ""
+        "Web:": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1194,7 +1208,8 @@
         "* ": "",
         "Name": "Reformhaus Kaubisch,",
         "Adresse": "Jacobistr. 7, 40210 Düsseldorf",
-        "Zusatz": ""
+        "Web:": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1211,7 +1226,8 @@
         "* ": "omni/v/vgn",
         "Name": "Reformhaus Ulrike Hilger",
         "Adresse": "Nordstr. 100, 40477 Düsseldorf",
-        "Zusatz": "http://www.reformhaus-ulrikehilger.de"
+        "Web:": "http://www.reformhaus-ulrikehilger.de",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1228,7 +1244,8 @@
         "* ": "",
         "Name": "Reformhaus van der Zande",
         "Adresse": "Neustr. 13, 40213 Düsseldorf",
-        "Zusatz": ""
+        "Web:": "",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -1247,8 +1264,8 @@
         "Typ": "Reformhaus",
         "* ": "",
         "Name": "Reformhaus Wersten",
-        "Adresse": "Kölner Landstr. 204, 40591 Düsseldorf",
-        "Zusatz": ""
+        "Adresse": "KÃ¶lner Landstr. 204, 40591 Düsseldorf",
+        "Web:": ""
       },
       "geometry": {
         "type": "Point",
@@ -1265,8 +1282,9 @@
         "* ": "omni/v/vgn",
         "Name": " Kirti's Dhaba",
         "Adresse": "Düsselthaler Str. 1a, 40211 Düsseldorf",
-        "Zusatz": "http://www.kirtisdhaba.de/",
-        "marker-symbol": "restaurant"
+        "Web:": "http://www.kirtisdhaba.de/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1279,14 +1297,14 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0080ff",
         "marker-size": "medium",
         "marker-symbol": "restaurant",
         "Typ": "Restaurant",
         "* ": "v/vgn",
         "Name": "Amano Verde",
         "Adresse": "Hammer Str. 23, 40219 Düsseldorf ",
-        "Zusatz": "http://www.radissonblu.de/mediaharbourhotel-duesseldorf"
+        "Web:": "http://www.radissonblu.de/mediaharbourhotel-duesseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -1303,8 +1321,9 @@
         "* ": "omni/v/vgn",
         "Name": "Kirti's Restaurant",
         "Adresse": "Brückenstr. 19, 40221 Düsseldorf",
-        "Zusatz": "http://www.kirtis.de",
-        "marker-symbol": "restaurant"
+        "Web:": "http://www.kirtis.de",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1321,8 +1340,9 @@
         "* ": "omni/v/vgn",
         "Name": "Richie'n Rose",
         "Adresse": "Konkordiastr. 89, 40219 Düsseldorf",
-        "Zusatz": "(also vegan & vegetarisch ist eher strittig!) http://www.richie-n-rose.de/",
-        "marker-symbol": "restaurant"
+        "Web:": "(also vegan & vegetarisch ist eher strittig!) http://www.richie-n-rose.de/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1339,8 +1359,9 @@
         "* ": "v/vgn",
         "Name": "Sattgrün Flingern",
         "Adresse": "Hoffeldstr. 18, 40233 Düsseldorf",
-        "Zusatz": "http://sattgruen.de/",
-        "marker-symbol": "restaurant"
+        "Web:": "http://sattgruen.de/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1357,8 +1378,9 @@
         "* ": "v/vgn",
         "Name": "Sattgrün Medienhafen",
         "Adresse": "Brückenstr. 12, 40221 Düsseldorf",
-        "Zusatz": "http://sattgruen.de/",
-        "marker-symbol": "restaurant"
+        "Web:": "http://sattgruen.de/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1371,11 +1393,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
         "Typ": "Restaurant",
         "* ": "v/vgn",
         "Name": "Sattgrün Mitte",
         "Adresse": "Graf-Adolf-Platz 6, 40213 Düsseldorf",
-        "Zusatz": "http://sattgruen.de/",
+        "Web:": "http://sattgruen.de/",
         "marker-symbol": "restaurant"
       },
       "geometry": {
@@ -1393,8 +1417,9 @@
         "* ": "v/vgn",
         "Name": "SchnellVeg",
         "Adresse": "Bagelstr. 130, 40479 Düsseldorf",
-        "Zusatz": "Vegetarian Eatery and Bar http://www.schnellveg.com/",
-        "marker-symbol": "restaurant"
+        "Web:": "Vegetarian Eatery and Bar http://www.schnellveg.com/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1411,8 +1436,9 @@
         "* ": "omni/v/vgn",
         "Name": "Space Burger",
         "Adresse": "Neustr. 41, 40213 Düsseldorf",
-        "Zusatz": "http://spaceburger.eu",
-        "marker-symbol": "restaurant"
+        "Web:": "http://spaceburger.eu",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1429,8 +1455,9 @@
         "* ": "omni/v/vgn",
         "Name": "Space Burger",
         "Adresse": "Pfalzstr 15, 40477 Düsseldorf",
-        "Zusatz": "http://spaceburger.eu",
-        "marker-symbol": "restaurant"
+        "Web:": "http://spaceburger.eu",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1447,8 +1474,9 @@
         "* ": "",
         "Name": "Der schnelle Joe",
         "Adresse": "Kruppstr. 47, 40227 Düsseldorf",
-        "Zusatz": "",
-        "marker-symbol": "restaurant"
+        "Web:": "",
+        "marker-symbol": "restaurant",
+        "marker-color": "#0080ff"
       },
       "geometry": {
         "type": "Point",
@@ -1463,10 +1491,11 @@
       "properties": {
         "Typ": "Supermarkt",
         "* ": "omni/v/vgn",
-        "Name": "Basic – Bio für alle",
+        "Name": "Basic â Bio für alle",
         "Adresse": " Friedrichstr. 73, 40217 Düsseldorf",
-        "Zusatz": "http://www.basic-bio-genuss-fuer-alle.de",
-        "marker-symbol": "shop"
+        "Web:": "http://www.basic-bio-genuss-fuer-alle.de",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1483,8 +1512,9 @@
         "* ": "omni/v/vgn",
         "Name": "SuperBioMarkt",
         "Adresse": "Aachener Str. 57, 40223 Düsseldorf",
-        "Zusatz": "http://www.superbiomarkt.de",
-        "marker-symbol": "shop"
+        "Web:": "http://www.superbiomarkt.de",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1501,8 +1531,9 @@
         "* ": "omni/v/vgn",
         "Name": "SuperBioMarkt",
         "Adresse": "Nordstr. 82, 40477 Düsseldorf",
-        "Zusatz": "http://www.superbiomarkt.de",
-        "marker-symbol": "shop"
+        "Web:": "http://www.superbiomarkt.de",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1519,8 +1550,9 @@
         "* ": "vgn",
         "Name": "Vantastisch",
         "Adresse": "Elisabethstr. 54A, Düsseldorf",
-        "Zusatz": "Vantastisch - alles vegan www.vantastisch-alles-vegan.de",
-        "marker-symbol": "shop"
+        "Web:": "Vantastisch - alles vegan www.vantastisch-alles-vegan.de",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1537,8 +1569,9 @@
         "* ": "",
         "Name": "el martin - Das Fachgeschäft für fairen Handel",
         "Adresse": "Nordstr. 94, 40477 Düsseldorf",
-        "Zusatz": "http://www.elmartin.de",
-        "marker-symbol": "shop"
+        "Web:": "http://www.elmartin.de",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1555,8 +1588,9 @@
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": "Herzogstr. 28, 40217 Düsseldorf",
-        "Zusatz": "http://cash-und-raus.skmd.de/",
-        "marker-symbol": "shop"
+        "Web:": "http://cash-und-raus.skmd.de/",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1573,8 +1607,9 @@
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": " Schloßstr. 58, 40477 Düsseldorf",
-        "Zusatz": "http://cash-und-raus.skmd.de/",
-        "marker-symbol": "shop"
+        "Web:": "http://cash-und-raus.skmd.de/",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1591,8 +1626,9 @@
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": " Kaiserswerther Str. 33, 40477 Düsseldorf",
-        "Zusatz": "http://cash-und-raus.skmd.de/",
-        "marker-symbol": "shop"
+        "Web:": "http://cash-und-raus.skmd.de/",
+        "marker-symbol": "shop",
+        "marker-color": "#808000"
       },
       "geometry": {
         "type": "Point",
@@ -1605,11 +1641,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
         "Typ": "SecondHand",
         "* ": "",
         "Name": "Cash & Raus ",
         "Adresse": " Katzbachstr. 2, 40231 Düsseldorf",
-        "Zusatz": "Küchenstudio  http://cash-und-raus.skmd.de/",
+        "Web:": "Küchenstudio  http://cash-und-raus.skmd.de/",
         "marker-symbol": "shop"
       },
       "geometry": {
@@ -1630,7 +1668,7 @@
         "* ": "",
         "Name": "Ökotop Heerdt e.V.",
         "Adresse": "Am Ökotop 70, 40549 Düsseldorf",
-        "Zusatz": "http://www.oekotop.de/"
+        "Web:": "http://www.oekotop.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1685,7 @@
         "* ": "",
         "Name": "PLUP - Planet Upcycling",
         "Adresse": "Ackerstr. 168b, 40233 Düsseldorf",
-        "Zusatz": "https://www.planet-upcycling.de/"
+        "Web:": "https://www.planet-upcycling.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1664,7 +1702,7 @@
         "* ": "",
         "Name": "Imkerei Dieter Weinkauf & Karin Wolter",
         "Adresse": "Bachstraße 68 40217 Düsseldorf",
-        "Zusatz": "http://honig-duesseldorf.de",
+        "Web:": "http://honig-duesseldorf.de",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1682,7 +1720,7 @@
         "* ": "",
         "Name": "Imkerei Strauch",
         "Adresse": "Eiskellersstr. 15, 40213 Düsseldorf",
-        "Zusatz": "http://www.duesseldorferhonig.de/"
+        "Web:": "http://www.duesseldorferhonig.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1699,7 +1737,7 @@
         "* ": "",
         "Name": "Elementarteilchen",
         "Adresse": "Ackerstraße 125, 40233 Düsseldorf",
-        "Zusatz": "http://www.elementarteilchen-secondhand.de"
+        "Web:": "http://www.elementarteilchen-secondhand.de"
       },
       "geometry": {
         "type": "Point",
@@ -1714,9 +1752,9 @@
       "properties": {
         "Typ": "SecondHand",
         "* ": "",
-        "Name": "Noblesse  Second-Hand",
+        "Name": "Noblesse  Second-Hand",
         "Adresse": "Oststraße 89, 40210 Düsseldorf",
-        "Zusatz": "http://www.noblesse-secondhand.de/"
+        "Web:": "http://www.noblesse-secondhand.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1733,7 +1771,7 @@
         "* ": "",
         "Name": "Feen und Kobolde",
         "Adresse": "Nordstraße 80 Düsseldorf",
-        "Zusatz": "http://www.feenundkobolde.com"
+        "Web:": "http://www.feenundkobolde.com"
       },
       "geometry": {
         "type": "Point",
@@ -1750,7 +1788,7 @@
         "* ": "",
         "Name": "LIEBLINGSSTÜCKE",
         "Adresse": "Bruchstraße 1, 40235 Düsseldorf ",
-        "Zusatz": "http://www.lieblings-stuecke.de"
+        "Web:": "http://www.lieblings-stuecke.de"
       },
       "geometry": {
         "type": "Point",
@@ -1770,7 +1808,7 @@
         "* ": "",
         "Name": "Hosenmatz",
         "Adresse": "Amsterdamer Straße 8, 40474 Düsseldorf",
-        "Zusatz": "http://www.hosenmatz.net/"
+        "Web:": "http://www.hosenmatz.net/"
       },
       "geometry": {
         "type": "Point",
@@ -1787,7 +1825,7 @@
         "* ": "",
         "Name": "Anziehend Secondhand ",
         "Adresse": "Wissmannstr. 25, Düsseldorf",
-        "Zusatz": "https://www.facebook.com/anziehendduesseldorf"
+        "Web:": "https://www.facebook.com/anziehendduesseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -1804,7 +1842,7 @@
         "* ": "",
         "Name": "Oxfam",
         "Adresse": "Nordstr. 9, 40477 Düsseldorf",
-        "Zusatz": "http://www.oxfam.de"
+        "Web:": "http://www.oxfam.de"
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1859,7 @@
         "* ": "",
         "Name": "Jacke wie Hose",
         "Adresse": "Bilker Allee 24, 40219 Düsseldorf ",
-        "Zusatz": "http://www.jacke-wie-hose-duesseldorf.de/"
+        "Web:": "http://www.jacke-wie-hose-duesseldorf.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1838,7 +1876,7 @@
         "* ": "",
         "Name": "Vintage Fabrik",
         "Adresse": "Nordstrasse 4 Düsseldorf ",
-        "Zusatz": "http://vintage-fabrik.de/"
+        "Web:": "http://vintage-fabrik.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1853,9 +1891,9 @@
       "properties": {
         "Typ": "Wellness",
         "* ": "",
-        "Name": "PADMAVATI Ayurveda – Yoga, Wellness & Reiki",
+        "Name": "PADMAVATI Ayurveda â Yoga, Wellness & Reiki",
         "Adresse": "Reichsgasse/Ecke Reichsstrasse 57 40217 Düsseldorf",
-        "Zusatz": "http://www.padmavatiwellness.de/"
+        "Web:": "http://www.padmavatiwellness.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1872,7 +1910,7 @@
         "* ": "",
         "Name": "Rundum Yoga",
         "Adresse": "Kronenstraße 4 40217 Düsseldorf",
-        "Zusatz": "http://www.rundumyoga.de/ (Studio Unterbilk)"
+        "Web:": "http://www.rundumyoga.de/ (Studio Unterbilk)"
       },
       "geometry": {
         "type": "Point",
@@ -1889,7 +1927,7 @@
         "* ": "",
         "Name": "Rundum Yoga",
         "Adresse": "Schwerinstraße 21, 40477 Düsseldorf",
-        "Zusatz": "http://www.rundumyoga.de/ (Studio Derendorf)"
+        "Web:": "http://www.rundumyoga.de/ (Studio Derendorf)"
       },
       "geometry": {
         "type": "Point",
@@ -1906,7 +1944,7 @@
         "* ": "",
         "Name": "Naturburschen",
         "Adresse": "Birkenstraße 149 40233 Düsseldorf ",
-        "Zusatz": "http://www.naturburschen-flingern.de/"
+        "Web:": "http://www.naturburschen-flingern.de/"
       },
       "geometry": {
         "type": "Point",
@@ -1921,9 +1959,9 @@
       "properties": {
         "Typ": "",
         "* ": "",
-        "Name": "Repaircafé",
+        "Name": "Repaircafe",
         "Adresse": "Bilker Allee 217 (in den Räumen des Coworking Space GarageBilk)  40215 Düsseldorf",
-        "Zusatz": "http://garage-lab.de"
+        "Web:": "http://garage-lab.de"
       },
       "geometry": {
         "type": "Point",
@@ -1943,7 +1981,7 @@
         "* ": "",
         "Name": "TasteGreece",
         "Adresse": "Volmerswerther Str. 21 40221 Düsseldorf",
-        "Zusatz": "http://www.tastegreece.com"
+        "Web:": "http://www.tastegreece.com"
       },
       "geometry": {
         "type": "Point",
@@ -1959,8 +1997,8 @@
         "Typ": "Fahrrad",
         "* ": "",
         "Name": "RAD AB ",
-        "Adresse": "Friedrichstraße 112 – 116, 40217 Düsseldorf ",
-        "Zusatz": "http://www.radab.de"
+        "Adresse": "Friedrichstraße 112 â 116, 40217Â Düsseldorf ",
+        "Web:": "http://www.radab.de"
       },
       "geometry": {
         "type": "Point",
@@ -1977,7 +2015,7 @@
         "* ": "",
         "Name": "Magno Fahrräder ",
         "Adresse": "Bilker Allee 167, 40217 Düsseldorf",
-        "Zusatz": "http://www.magno.de"
+        "Web:": "http://www.magno.de"
       },
       "geometry": {
         "type": "Point",
@@ -1994,7 +2032,7 @@
         "* ": "",
         "Name": "JUNG & VOLKE Zweiradstudio",
         "Adresse": "Jahnstrasse 22 - 24, 40215 Düsseldorf",
-        "Zusatz": "http://www.jung-volke.de/"
+        "Web:": "http://www.jung-volke.de/"
       },
       "geometry": {
         "type": "Point",
@@ -2011,7 +2049,7 @@
         "* ": "",
         "Name": "Radstation Düsseldorf",
         "Adresse": "Willi-Becker-Allee 8a, 40227 Düsseldorf",
-        "Zusatz": "http://www.radstation-duesseldorf.de"
+        "Web:": "http://www.radstation-duesseldorf.de"
       },
       "geometry": {
         "type": "Point",
@@ -2027,8 +2065,8 @@
         "Typ": "Fahrrad",
         "* ": "",
         "Name": "Bicycle Doctor ",
-        "Adresse": "Derendorfer Straße 10 – 12, 40479 Düsseldorf ",
-        "Zusatz": "http://www.bicycle-doctor.de/"
+        "Adresse": "Derendorfer Straße 10 â 12, 40479 Düsseldorf ",
+        "Web:": "http://www.bicycle-doctor.de/"
       },
       "geometry": {
         "type": "Point",
@@ -2045,7 +2083,7 @@
         "* ": "",
         "Name": "Oxfam",
         "Adresse": "Friedrichstraße 25, 40217 Düsseldorf",
-        "Zusatz": "http://www.oxfam.de"
+        "Web:": "http://www.oxfam.de"
       },
       "geometry": {
         "type": "Point",
