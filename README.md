@@ -5,7 +5,7 @@ Wer diese Daten einbinden möchte - dies geht zum Beispiel mit dieser simplen Ze
 ```
 <script src="https://embed.github.com/view/geojson/MichaK/bilkorama/master/map_duesseldorf_alternativ.geojson"></script>
 ```
-oder sich die Beispieldatei genauer anschauen - it works, but it's quite ugly ;-) 
+oder sich die Beispieldatei (https://github.com/MichaK/bilkorama/index.html) genauer anschauen - it works, but it's quite ugly ;-) 
 
 ## Wie kann ich beitragen:
 - Hinterlasst einfach einen Kommentar / Hinweis welche POIs noch fehlen oder nicht mehr aktuell sind
