@@ -1813,7 +1813,7 @@
         "Adresse": "Torfbruchstraße 350",
         "stadt": "Düsseldorf",
         "": "Gedenktafel für politisch Verfolgte in Gerresheim ",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1829,7 +1829,7 @@
         "Adresse": "Mühlenstraße 29",
         "stadt": "Düsseldorf",
         "": "Mahn- und Gedenkstätte der Landeshauptstadt Düsseldorf ",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1845,7 +1845,7 @@
         "Adresse": "Rather Straße",
         "stadt": "Düsseldorf",
         "": "Sammelort der deportierten Juden - Schlachthofmauer ",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1877,7 +1877,7 @@
         "Adresse": "Bismarckstraße 44",
         "stadt": "Düsseldorf",
         "": "'Schlegelkeller' SA-Folterkeller",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1943,7 +1943,7 @@
         "Adresse": "Schulstr 2",
         "stadt": "Düsseldorf",
         "": "Mahnmal 'Ehra oder Kind mit Ball' gewidmet den KZ-öberlebenden aus dem Lager Hö¶herweg",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1959,7 +1959,7 @@
         "Adresse": "oberbilkermarkt",
         "stadt": "Düsseldorf",
         "": "Gedenktafel für Moritz Sommer",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1975,7 +1975,7 @@
         "Adresse": "Haroldstraße 26 ",
         "stadt": "Düsseldorf",
         "": "'Schlageterheim' - Folterkeller der SA",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1991,7 +1991,7 @@
         "Adresse": "Joseph Beuys Ufer 1",
         "stadt": "Düsseldorf",
         "": "Gedenktafel für Hilarius Gilges ",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +2007,7 @@
         "Adresse": "Oststraße 42",
         "stadt": "Düsseldorf",
         "": "Gedenktafel für Kaplan Rossaint",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -2023,7 +2023,7 @@
         "Adresse": "Am Nordfriedhof 1",
         "stadt": "Düsseldorf",
         "": "Ehrenmal/Ehrengrab für die Widerstandskämpfer vom 16. April 1945",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -2039,7 +2039,7 @@
         "Adresse": "Golzheimer Friedhof",
         "stadt": "Düsseldorf",
         "": "Gedenkstein für Karl Schwesig sowie für die verfolgten und ermordeten Düsseldorfer Künstler Franz Monjau, Julo Levin und Peter Ludwigs ",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -2054,7 +2054,7 @@
       "properties": {
         "Adresse": "Suitbertusstrasse 34",
         "stadt": "Düsseldorf",
-        "": "â..."
+        "": "..."
       },
       "geometry": {
         "type": "Point",
@@ -2069,7 +2069,7 @@
       "properties": {
         "Adresse": "Karolingerstraße 55 ",
         "stadt": "Düsseldorf",
-        "": "â..."
+        "": "..."
       },
       "geometry": {
         "type": "Point",
@@ -2084,7 +2084,7 @@
       "properties": {
         "Adresse": "Karolingerstraße 55 ",
         "stadt": "Düsseldorf",
-        "": "â..."
+        "": "..."
       },
       "geometry": {
         "type": "Point",
@@ -2116,7 +2116,7 @@
       "properties": {
         "Adresse": "Kronprinzenstr. 48",
         "stadt": "Düsseldorf",
-        "": "â..."
+        "": "..."
       },
       "geometry": {
         "type": "Point",
