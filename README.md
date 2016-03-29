@@ -1,11 +1,9 @@
 
-**Karten über Düsseldorf.** Ich habe folgende Idee - die Kartendaten, die man in meinem Blog auf http://www.bilkorama.de/stadtplan-mal-anders/ findet, stellen ich einfach mal als geojson Daten ins Netz... Dann können auch weitere mit diesen Daten arbeiten, sie ergänzen, aktualisieren und auch was anderes daraus machen :-) 
-
-Wer diese Daten einbinden möchte - dies geht zum Beispiel mit dieser simplen Zeile: 
+**Karten über Düsseldorf.** Ich habe folgende Idee - die Kartendaten, die man in meinem Blog auf http://www.bilkorama.de/stadtplan-mal-anders/ findet, stellen ich einfach mal als geojson Daten ins Netz... Dann können auch weitere mit diesen Daten arbeiten, sie ergänzen, aktualisieren und auch was anderes daraus machen :-)  Wer diese Daten einbinden möchte - dies geht zum Beispiel mit dieser simplen Zeile: 
 ```
 <script src="https://embed.github.com/view/geojson/MichaK/bilkorama/master/map_duesseldorf_alternativ.geojson"></script>
 ```
-oder sich die Beispieldatei (https://github.com/MichaK/bilkorama/blob/master/index.html) genauer anschauen - it works, but it's quite ugly ;-) 
+oder man kann sich auch die Beispieldatei (https://github.com/MichaK/bilkorama/blob/master/index.html) genauer anschauen und dann GeoJson mit Leaflet verwenden - it works, but it's quite ugly ;-) 
 
 ## Wie kann ich beitragen:
 - Hinterlasst einfach einen Kommentar / Hinweis welche POIs noch fehlen oder nicht mehr aktuell sind
