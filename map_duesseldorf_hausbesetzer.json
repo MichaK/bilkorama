@@ -1,1 +1,815 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Kronprinzenstraße 113  ",
+        "Zusatz:": "Besetzt am : 09.05.1972 - legalisiert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769283,
+          51.209746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Kronprinzenstraße 90  ",
+        "Zusatz:": "Besetzt am : 19.09.1979 - Räumung am 24.09.1979 (Teilweis) Endgültige Räumung am 9.10.1979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769799,
+          51.211578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Lichtenbroicher Weg 137",
+        "Zusatz:": "Besetzt am : 19.06.1980 - Räumung am 09.07.1979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.793629,
+          51.282986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Volmerswertherstraße 41",
+        "Zusatz:": "Besetzt am : 13.02.1981\t- Räumung am 27.05.1981  Wiederbesetzung - Erneute Räumung am 10.06.1981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.761106,
+          51.208786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Benrather Schloßallee 97",
+        "Zusatz:": "Besetzt am : 28.03.1981\t- Räumung am 12.05.1981."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86865,
+          51.16305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Suitbertusstraße 122a",
+        "Zusatz:": "Besetzt am : 04.04.1981\t- Räumung am 16.06.1982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77486,
+          51.20454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Neusser Straße 75",
+        "Zusatz:": "Besetzt am : 14.04.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.763799,
+          51.213149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Neusser Straße 77",
+        "Zusatz:": "Besetzt am : 14.04.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.763791,
+          51.21301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Suitbertusstraße 120",
+        "Zusatz:": "Besetzt am : 20.04.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774674,
+          51.204531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Elisabethstraße 87",
+        "Zusatz:": "Besetzt am : 01.05.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775054,
+          51.212268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Christophstraße 4",
+        "Zusatz:": "Besetzt am : 06.05.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7972,
+          51.19595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "rathausstr 10",
+        "Zusatz:": "Besetzt am : 13.05.1981\t- freiwillige Räumung vom 18. bis 22.05.1981 Mai."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.866125,
+          51.163641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Bahlenstraße 164",
+        "Zusatz:": "Besetzt am : 20.05.1981\t- freiwillige Räumung am 11.06.1981 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.830338,
+          51.175802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Venloer Straße 8",
+        "Zusatz:": "Besetzt am : 24.05.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777979,
+          51.237002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Heyebad",
+        "Straße:": "Torfbruchstraße 350",
+        "Zusatz:": "Besetzt am : 24.05.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.862073,
+          51.223297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Kronprinzenstraße 119",
+        "Zusatz:": "Besetzt am : 18.06.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769188,
+          51.209447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Düsselstraße 26",
+        "Zusatz:": "Besetzt am : 26.06.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76551,
+          51.214134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Weißenburgstraße 31",
+        "Zusatz:": "Besetzt am : 26.06.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.786066,
+          51.246596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Straßenzug",
+        "Straße:": "Kiefernstraße ",
+        "Zusatz:": "Besetzt am : 05.08.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.809057,
+          51.21889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Autonomes Zentrum",
+        "Straße:": "Neusser Straße 75 – 77",
+        "Zusatz:": "Besetzt am : 08.08.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.763799,
+          51.213149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Bachstraße 160",
+        "Zusatz:": "Besetzt am : 24.07.1982\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778012,
+          51.210166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Kaiserswertherstraße 290a",
+        "Zusatz:": "Besetzt am : 04.02.1995\t- Räumung am 04.02.1995 (Wiederbesetzung erfolgte am 1.05.1995)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76134,
+          51.25198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Binterimstr 28",
+        "Zusatz:": "Besetzt am : 18.10.2003\t- freiwillige Räumung am 20.10.2003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772147,
+          51.205129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Wohnungen",
+        "Straße:": "Hammer Dorfstraße 9",
+        "Zusatz:": "Dauerbesichtigung am : 27.06.2013 - Beendet am 29.06.2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74908,
+          51.21172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Alt Pempelfort 15",
+        "Zusatz:": "Besetzt am : 01.11.1990\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78905,
+          51.23156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Nicht bestätigt ",
+        "Straße:": "Buchenstraße 12 – 14",
+        "Zusatz:": "unsichere Quellenlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86282,
+          51.17776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Haus",
+        "Straße:": "Lichtenbroicher Weg 127 - 129 ",
+        "Zusatz:": "Besetzt am : 01.09.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79329,
+          51.2824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Selbstverwaltete Wohnprojekt Theodorstraße e.V.",
+        "Straße:": "Theodorstraße 338",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.821409,
+          51.269877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Selbsthilfe Düsseldorf e. V. (SHD)",
+        "Straße:": "Kopernikusstraße 53",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77759,
+          51.2019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Cafe Grenzenlos",
+        "Straße:": "Kronprinzenstraße 113  ",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769283,
+          51.209746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "ZAKK",
+        "Straße:": "Fichtenstraße 40",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.810405,
+          51.216726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Initiativenhaus Martinstraße ",
+        "Straße:": "Martinstraße 58 ",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.764476,
+          51.207974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Buchenstraße 12 – 14",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86282,
+          51.17776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Am Wallgraben 2 - 8",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861211,
+          51.234894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Kölner Tor 40 ",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861489,
+          51.234843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "BiBaBuZe – BilkerBasisBuchZentrale",
+        "Straße:": "Buch- und Infoladen ",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77656,
+          51.207545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Nicht bestätigt ",
+        "Straße:": "Herzogstraße ",
+        "Zusatz:": "Besetzt in den Jahren: 1968-70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.780763,
+          51.215566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Nicht bestätigt ",
+        "Straße:": "Nähe Reeser Platz",
+        "Zusatz:": "Besetzt in den Jahren: 1968-70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.759543,
+          51.253054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "Nicht bestätigt ",
+        "Straße:": "Mörsenbroicher Weg",
+        "Zusatz:": "Besetzung : 1971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.813489,
+          51.250645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "In der Niesdonk 22 ",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.791899,
+          51.283503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Lüneburger Weg 17 ",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78063,
+          51.26728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Lichtenbroicher Weg 107 ",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79414,
+          51.28113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Böhmestr. 16",
+        "Zusatz:": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.748818,
+          51.269898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Neusser Str. 65",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.764369,
+          51.216111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Kölner Tor 38",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861359,
+          51.234955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Martinstr. 58 ",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.764476,
+          51.207974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Himmelgeister Str. 284",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78748,
+          51.19162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Kölner Tor 40",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861489,
+          51.234843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Kölner Tor 42 ",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861507,
+          51.234841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Kölner Tor 44",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861507,
+          51.234841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Am Wallgraben 3",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861082,
+          51.234813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Am Wallgraben 5",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860963,
+          51.234821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Am Wallgraben 7 ",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860827,
+          51.235027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Info:": "AWN-Wohnhaus",
+        "Straße:": "Am Wallgraben 9",
+        "Zusatz:": "September 1974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860725,
+          51.23514
+        ]
+      }
+    }
+  ]
+}
