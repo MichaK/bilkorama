@@ -51,7 +51,7 @@
       "properties": {
         "Adresse": "Adalbertstraße 22",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
       "properties": {
         "Adresse": "Cecilienallee 19",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Albert Schöndorff, Jg. 1870, Flucht 1938 Holland, deportiert, Auschwitz, ermordet 17.9.1942"
+        "": "Stolperstein für Albert Schö¶ndorff, Jg. 1870, Flucht 1938 Holland, deportiert, Auschwitz, ermordet 17.9.1942"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
       "properties": {
         "Adresse": "Cecilienallee 19",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Marie Schöndorff geb. Gross, Jg. 1871, Flucht 1938 Holland, deportiert, Auschwitz, ermordet 17.9.1942 "
+        "": "Stolperstein für Marie Schö¶ndorff geb. Gross, Jg. 1871, Flucht 1938 Holland, deportiert, Auschwitz, ermordet 17.9.1942 "
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@
       "properties": {
         "Adresse": "Cheruskerstraße 44",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@
       "properties": {
         "Adresse": "Cheruskerstraße 99",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
       "properties": {
         "Adresse": "Cheruskerstraße 99",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@
       "properties": {
         "Adresse": "Düsseldorfer Straße 88",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
       "properties": {
         "Adresse": "Engerstraße 5",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
       "properties": {
         "Adresse": "Gertrudisplatz",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Klara Kerz, Jg. 1918, hingerichtet 6.7.1944, Köln-Klingelpütz"
+        "": "Stolperstein für Klara Kerz, Jg. 1918, hingerichtet 6.7.1944, Kö¶ln-Klingelpütz"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +576,7 @@
       "properties": {
         "Adresse": "Graf-Adolf-Straße 16",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +606,7 @@
       "properties": {
         "Adresse": "Graf-Recke-Str. 49",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Änne Cohen, Jg. 1898, deportiert 1941, Lodz, ermordet 11.9.1942, Chelmno "
+        "": "Stolperstein für önne Cohen, Jg. 1898, deportiert 1941, Lodz, ermordet 11.9.1942, Chelmno "
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +786,7 @@
       "properties": {
         "Adresse": "Hermannstraße 5",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -964,9 +964,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Kölner Straße 151",
+        "Adresse": "Kö¶lner Straße 151",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -979,9 +979,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Kölner Straße 280",
+        "Adresse": "Kö¶lner Straße 280",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -994,9 +994,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Königsallee",
+        "Adresse": "Kö¶nigsallee",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1009,9 +1009,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Königsallee",
+        "Adresse": "Kö¶nigsallee",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1116,7 @@
       "properties": {
         "Adresse": "Luegallee 15",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1161,7 @@
       "properties": {
         "Adresse": "Moltkestraße 100",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1176,7 @@
       "properties": {
         "Adresse": "Moltkestraße 85",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1191,7 @@
       "properties": {
         "Adresse": "Neusser Straße 37",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1206,7 @@
       "properties": {
         "Adresse": "Nordstraße 3",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1221,7 @@
       "properties": {
         "Adresse": "Oststraße 52",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1236,7 +1236,7 @@
       "properties": {
         "Adresse": "Oststraße 52",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1251,7 @@
       "properties": {
         "Adresse": "Paulusstr. 15",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Josef Herkenrath, Jg. 1900, in Haft genommen, tot 20.9.1942, KZ Börgermoor "
+        "": "Stolperstein für Josef Herkenrath, Jg. 1900, in Haft genommen, tot 20.9.1942, KZ Bö¶rgermoor "
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@
       "properties": {
         "Adresse": "Reisholzerstr. 26",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Herbert Neubeck, Jg. 1923, Flucht 1936 Belgien, verhaftet, hingerichtet, 21.4.1943 Berlin-Plötzensee "
+        "": "Stolperstein für Herbert Neubeck, Jg. 1923, Flucht 1936 Belgien, verhaftet, hingerichtet, 21.4.1943 Berlin-Plö¶tzensee "
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1401,7 @@
       "properties": {
         "Adresse": "Rochusstr. 7",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Karlrobert Kreiten, Jg. 1916, hingerichtet 7.9.1943 Berlin-Plötzensee"
+        "": "Stolperstein für Karlrobert Kreiten, Jg. 1916, hingerichtet 7.9.1943 Berlin-Plö¶tzensee"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
       "properties": {
         "Adresse": "Scharnhorststraße 4",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@
       "properties": {
         "Adresse": "Schillerstr. 65",
         "stadt": "Düsseldorf",
-        "": "Stolperstein für Margarethe Fröchtling geb. Stahlberg, Jg. 1896, deportiert 22.4.1942, Izbica, tot "
+        "": "Stolperstein für Margarethe Frö¶chtling geb. Stahlberg, Jg. 1896, deportiert 22.4.1942, Izbica, tot "
       },
       "geometry": {
         "type": "Point",
@@ -1474,7 +1474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Schönaustr. 1",
+        "Adresse": "Schö¶naustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Karl Cohen, Jg. 1895, deportiert 1941 Lodz, ermordet Aug. 1944, Auschwitz"
       },
@@ -1489,7 +1489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Schönaustr. 1",
+        "Adresse": "Schö¶naustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Hugo Kussel, Jg. 1898, deportiert 1941 Minsk, ermordet"
       },
@@ -1504,7 +1504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Schönaustr. 1",
+        "Adresse": "Schö¶naustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Albert Kussel, Jg. 1941, deportiert 1941 Minsk, ermordet"
       },
@@ -1519,7 +1519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Adresse": "Schönaustr. 1",
+        "Adresse": "Schö¶naustr. 1",
         "stadt": "Düsseldorf",
         "": "Stolperstein für Henriette Kussel geb. Wagner, Jg. 1910, deportiert 1941 Minsk, ermordet "
       },
@@ -1536,7 +1536,7 @@
       "properties": {
         "Adresse": "Schwanenmarkt 3",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1551,7 @@
       "properties": {
         "Adresse": "Sonnbornstraße 59",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1566,7 @@
       "properties": {
         "Adresse": "Sonnbornstraße 59",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1581,7 @@
       "properties": {
         "Adresse": "Stresemannstraße 29",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1596,7 @@
       "properties": {
         "Adresse": "Stresemannstraße 30",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1611,7 @@
       "properties": {
         "Adresse": "Stresemannstraße 30",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1626,7 @@
       "properties": {
         "Adresse": "Stresemannstraße 35",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1641,7 @@
       "properties": {
         "Adresse": "Stresemannstraße 35",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â¦"
       },
       "geometry": {
         "type": "Point",
@@ -1684,9 +1684,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
         "Adresse": "Ursulinengasse 7",
-        "stadt": "Düsseldorf",
-        "": "Stolperstein für Karl Jung, Jg. 1912, interniert 1939, Gurs, tot 20.2.1943 in Dachau "
+        "stadt": "Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -1774,10 +1776,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "Adresse": "Kasernenstraße 67",
         "stadt": "Düsseldorf",
-        "": "Standort der ehemaligen Synagoge",
-        "marker-symbol": "square"
+        "marker-symbol": "religious-jewish"
       },
       "geometry": {
         "type": "Point",
@@ -1790,10 +1793,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "Adresse": "Anton-Betz-Straße",
         "stadt": "Düsseldorf",
-        "": "An dieser Stelle wurden die Widerstandskämpfer Franz Jürgens, Theodor Andresen, Karl Kleppe, Josef Knab  und Hermann Weill der Aktion Rheinland ermordet.",
-        "marker-symbol": "square"
+        "marker-symbol": "monument"
       },
       "geometry": {
         "type": "Point",
@@ -1857,7 +1861,7 @@
         "Adresse": "Reuterkaserne",
         "stadt": "Düsseldorf",
         "": "SS-Foltergefängnis (Reuterkaserne)",
-        "marker-symbol": "square"
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
@@ -1872,7 +1876,7 @@
       "properties": {
         "Adresse": "Bismarckstraße 44",
         "stadt": "Düsseldorf",
-        "": "„Schlegelkeller“ SA-Folterkeller",
+        "": "'Schlegelkeller' SA-Folterkeller",
         "marker-symbol": "square"
       },
       "geometry": {
@@ -1890,7 +1894,7 @@
         "stadt": "Düsseldorf",
         "": "KZ Außenlager Sachsenhausen - Stoffeler Kapellenweg",
         "marker-color": "",
-        "marker-symbol": "square"
+        "marker-symbol": "campsite"
       },
       "geometry": {
         "type": "Point",
@@ -1905,8 +1909,8 @@
       "properties": {
         "Adresse": "Posenerstr 222",
         "stadt": "Düsseldorf",
-        "": "„Zigeunerlager Höherweg“",
-        "marker-symbol": "square"
+        "": "'Zigeunerlager Hö¶herweg'",
+        "marker-symbol": "campsite"
       },
       "geometry": {
         "type": "Point",
@@ -1919,10 +1923,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "Adresse": "Ehrenhof 1",
         "stadt": "Düsseldorf",
-        "": "Ort der Bücherverbrennung ",
-        "marker-symbol": "square"
+        "marker-symbol": "library"
       },
       "geometry": {
         "type": "Point",
@@ -1937,7 +1942,7 @@
       "properties": {
         "Adresse": "Schulstr 2",
         "stadt": "Düsseldorf",
-        "": "Mahnmal „Ehra oder Kind mit Ball – gewidmet den KZ-Überlebenden aus dem Lager Höherweg",
+        "": "Mahnmal 'Ehra oder Kind mit Ball' gewidmet den KZ-öberlebenden aus dem Lager Hö¶herweg",
         "marker-symbol": "square"
       },
       "geometry": {
@@ -1969,7 +1974,7 @@
       "properties": {
         "Adresse": "Haroldstraße 26 ",
         "stadt": "Düsseldorf",
-        "": "„Schlageterheim“ - Folterkeller der SA",
+        "": "'Schlageterheim' - Folterkeller der SA",
         "marker-symbol": "square"
       },
       "geometry": {
@@ -2049,7 +2054,7 @@
       "properties": {
         "Adresse": "Suitbertusstrasse 34",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â..."
       },
       "geometry": {
         "type": "Point",
@@ -2064,7 +2069,7 @@
       "properties": {
         "Adresse": "Karolingerstraße 55 ",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â..."
       },
       "geometry": {
         "type": "Point",
@@ -2079,7 +2084,7 @@
       "properties": {
         "Adresse": "Karolingerstraße 55 ",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â..."
       },
       "geometry": {
         "type": "Point",
@@ -2092,9 +2097,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Adresse": "Merowingerstr. 29",
-        "stadt": "Düsseldorf",
-        "": "…"
+        "stadt": "Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -2109,7 +2116,7 @@
       "properties": {
         "Adresse": "Kronprinzenstr. 48",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "â..."
       },
       "geometry": {
         "type": "Point",
@@ -2124,7 +2131,7 @@
       "properties": {
         "Adresse": "LeoStatzPlatz",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "..."
       },
       "geometry": {
         "type": "Point",
@@ -2139,7 +2146,7 @@
       "properties": {
         "Adresse": "Kronprinzenstr. ",
         "stadt": "Düsseldorf",
-        "": "…"
+        "": "..."
       },
       "geometry": {
         "type": "Point",
@@ -2152,10 +2159,10 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Adresse": "Grafental",
         "stadt": "Düsseldorf",
-        "": "KZ Außenlager Buchenwald Lager: 'Berta'  - Hohenzollern-Gelände (Lokomotivfabrik), Rheinmetall-Borsig",
-        "marker-symbol": "square",
+        "marker-symbol": "campsite",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -2171,7 +2178,7 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "square",
+        "marker-symbol": "campsite",
         "Adresse": "Arnheimer Str. 115 ",
         "stadt": "Düsseldorf"
       },
@@ -2189,7 +2196,7 @@
         "Adresse": "Kirchfeldstraße 74-80",
         "stadt": "Düsseldorf",
         "": "KZ Außenlager Buchenwald Lager: Düsseldorf-Friedrichstadt (DESt) - Deutsche Erd- und Steinwerke, Trümmerbeseitigung,",
-        "marker-symbol": "square",
+        "marker-symbol": "campsite",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -2205,8 +2212,8 @@
       "properties": {
         "Adresse": "Ulmenstraße 136",
         "stadt": "Düsseldorf",
-        "": "KZ Außenlager Buchenwald Lager: Derendorf – Lagername: Rheinmetall Borsig / Berta II/Borsig",
-        "marker-symbol": "square",
+        "": "KZ Außenlager Buchenwald Lager: Derendorf â Lagername: Rheinmetall Borsig / Berta II/Borsig",
+        "marker-symbol": "campsite",
         "marker-color": "#000000"
       },
       "geometry": {
@@ -2223,7 +2230,7 @@
         "Adresse": "Leuchtenberger Kirchweg 87-93",
         "stadt": "Düsseldorf",
         "": "KZ Außenlager Buchenwald Lager-Nummer: 246 / Sprengkommando Düsseldorf-Lohausen",
-        "marker-symbol": "square",
+        "marker-symbol": "campsite",
         "marker-color": "#000000"
       },
       "geometry": {
