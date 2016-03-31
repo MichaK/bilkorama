@@ -1024,6 +1024,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#00ff00",
+        "marker-symbol": "triangle",
         "Typ": "Kräuter",
         "* ": "",
         "title": "Kräuterhaus Hackenberg",
