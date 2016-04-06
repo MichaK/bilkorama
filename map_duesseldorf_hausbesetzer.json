@@ -80,7 +80,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Haus",
-        "title": "Benrather SchloÃallee 97",
+        "title": "Benrather Schloßallee 97",
         "description": "Besetzt am : 28.03.1981\t- Räumung am 12.05.1981."
       },
       "geometry": {
@@ -116,7 +116,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Haus",
-        "title": "Neusser StraÃe 75",
+        "title": "Neusser Str. 75",
         "description": "Besetzt am : 14.04.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
       },
       "geometry": {
@@ -134,7 +134,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Haus",
-        "title": "Neusser StraÃe 77",
+        "title": "Neusser Str. 77",
         "description": "Besetzt am : 14.04.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
       },
       "geometry": {
@@ -242,7 +242,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Haus",
-        "title": "Venloer StraÃe 8",
+        "title": "Venloer Str. 8",
         "description": "Besetzt am : 24.05.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
       },
       "geometry": {
@@ -314,7 +314,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Haus",
-        "title": "WeiÃenburgstr. 31",
+        "title": "Weißenburgstr. 31",
         "description": "Besetzt am : 26.06.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
       },
       "geometry": {
@@ -331,7 +331,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "Info:": "StraÃenzug",
+        "Info:": "Str.nzug",
         "title": "Kiefernstr. ",
         "description": "Besetzt am : 05.08.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
       },
@@ -350,7 +350,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "Info:": "Autonomes Zentrum",
-        "title": "Neusser StraÃe 75 Ã¢ÂÂ 77",
+        "title": "Neusser Str. 75 Ã¢ÂÂ 77",
         "description": "Besetzt am : 08.08.1981\t- keine weiteren Quellen gefunden über eine Räumung oder Legalisierung..."
       },
       "geometry": {
