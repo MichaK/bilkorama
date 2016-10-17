@@ -204,6 +204,23 @@
           51.227741
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "original address": "Kolonialkriegerdenkmal",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777008771896362,
+          51.249412262023924
+        ]
+      }
     }
   ]
 }
