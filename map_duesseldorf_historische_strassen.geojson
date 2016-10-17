@@ -4,8 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "original address": "Friedenstraße",
-        "href": "https://de.wikipedia.org/wiki/Friede_von_Frankfurt"
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "original address": "Friedenstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Friede_von_Frankfurt"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +22,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Sedanstraße ",
-        "href": "https://de.wikipedia.org/wiki/Schlacht_von_Sedan"
+        "URL": "https://de.wikipedia.org/wiki/Schlacht_von_Sedan",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +39,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Wissmannstraße ",
-        "href": "https://de.wikipedia.org/wiki/Hermann_von_Wissmann"
+        "URL": "https://de.wikipedia.org/wiki/Hermann_von_Wissmann",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +56,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Lüderitzstraße ",
-        "href": "https://de.wikipedia.org/wiki/Adolf_L%C3%BCderitz"
+        "URL": "https://de.wikipedia.org/wiki/Adolf_L%C3%BCderitz",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +73,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Petersstraße  ",
-        "href": "https://de.wikipedia.org/wiki/Carl_Peters"
+        "URL": "https://de.wikipedia.org/wiki/Carl_Peters",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +90,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Nettelbeckstraße ",
-        "href": "https://de.wikipedia.org/wiki/Joachim_Nettelbeck"
+        "URL": "https://de.wikipedia.org/wiki/Joachim_Nettelbeck",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +107,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Sodenstraße ",
-        "href": "https://de.wikipedia.org/wiki/Julius_von_Soden"
+        "URL": "https://de.wikipedia.org/wiki/Julius_von_Soden",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +124,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Solfstraße ",
-        "href": "https://de.wikipedia.org/wiki/Wilhelm_Solf"
+        "URL": "https://de.wikipedia.org/wiki/Wilhelm_Solf",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +141,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Woermannstraße ",
-        "href": "https://de.wikipedia.org/wiki/Adolph_Woermann"
+        "URL": "https://de.wikipedia.org/wiki/Adolph_Woermann",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +158,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Finschstraße ",
-        "href": "https://de.wikipedia.org/wiki/Otto_Finsch"
+        "URL": "https://de.wikipedia.org/wiki/Otto_Finsch",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +175,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Leutweinstraße ",
-        "href": "https://de.wikipedia.org/wiki/Theodor_Leutwein"
+        "URL": "https://de.wikipedia.org/wiki/Theodor_Leutwein",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +192,10 @@
       "type": "Feature",
       "properties": {
         "original address": "Ulanendenkmal ",
-        "href": "https://de.wikipedia.org/wiki/Ulanen"
+        "URL": "https://de.wikipedia.org/wiki/Ulanen",
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
       },
       "geometry": {
         "type": "Point",
