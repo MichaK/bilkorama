@@ -221,6 +221,22 @@
           51.249412262023924
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#996633",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "original address": "Niederrheinisches Füsilier-Regiment Nr. 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.757718324661255,
+          51.25155446177739
+        ]
+      }
     }
   ]
 }
