@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Friedenstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Friede_von_Frankfurt"
+        "href": "https://de.wikipedia.org/wiki/Friede_von_Frankfurt"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Sedanstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Schlacht_von_Sedan"
+        "href": "https://de.wikipedia.org/wiki/Schlacht_von_Sedan"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Wissmannstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Hermann_von_Wissmann"
+        "href": "https://de.wikipedia.org/wiki/Hermann_von_Wissmann"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Lüderitzstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Adolf_L%C3%BCderitz"
+        "href": "https://de.wikipedia.org/wiki/Adolf_L%C3%BCderitz"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Petersstraße  ",
-        "URL": "https://de.wikipedia.org/wiki/Carl_Peters"
+        "href": "https://de.wikipedia.org/wiki/Carl_Peters"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Nettelbeckstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Joachim_Nettelbeck"
+        "href": "https://de.wikipedia.org/wiki/Joachim_Nettelbeck"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Sodenstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Julius_von_Soden"
+        "href": "https://de.wikipedia.org/wiki/Julius_von_Soden"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Solfstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Wilhelm_Solf"
+        "href": "https://de.wikipedia.org/wiki/Wilhelm_Solf"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Woermannstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Adolph_Woermann"
+        "href": "https://de.wikipedia.org/wiki/Adolph_Woermann"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Finschstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Otto_Finsch"
+        "href": "https://de.wikipedia.org/wiki/Otto_Finsch"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Leutweinstraße ",
-        "URL": "https://de.wikipedia.org/wiki/Theodor_Leutwein"
+        "href": "https://de.wikipedia.org/wiki/Theodor_Leutwein"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "original address": "Ulanendenkmal ",
-        "URL": "https://de.wikipedia.org/wiki/Ulanen"
+        "href": "https://de.wikipedia.org/wiki/Ulanen"
       },
       "geometry": {
         "type": "Point",
