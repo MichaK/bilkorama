@@ -1,15 +1,173 @@
-"original address",latitude,longitude
-"Friedenstraße Düsseldorf",51.212037,6.767631
-"Sedanstraße Düsseldorf",51.213202,6.772186
-"Wissmannstraße Düsseldorf",51.212278,6.768448
-"Lüderitzstraße Düsseldorf",51.146704,6.88482
-"Petersstraße  Düsseldorf",51.14912,6.884119
-"Nettelbeckstraße Düsseldorf",51.237418,6.783008
-"Sodenstraße Düsseldorf",51.149219,6.882834
-"Solfstraße Düsseldorf",51.147611,6.882429
-"Woermannstraße Düsseldorf",51.148137,6.880811
-"Finschstraße Düsseldorf",51.148535,6.886084
-"Leutweinstraße Düsseldorf",51.147953,6.883854
-"Ulanendenkmal Düsseldorf",51.23399421078941,6.771457269787788
-
-          
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Friedenstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Friede_von_Frankfurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.767631,
+          51.212037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Sedanstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Schlacht_von_Sedan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772186,
+          51.213202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Wissmannstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Hermann_von_Wissmann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.768448,
+          51.212278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Lüderitzstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Adolf_L%C3%BCderitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88482,
+          51.146704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Petersstraße  ",
+        "URL": "https://de.wikipedia.org/wiki/Carl_Peters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.884119,
+          51.14912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Nettelbeckstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Joachim_Nettelbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.783008,
+          51.237418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Sodenstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Julius_von_Soden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882834,
+          51.149219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Solfstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Wilhelm_Solf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882429,
+          51.147611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Woermannstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Adolph_Woermann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880811,
+          51.148137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Finschstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Otto_Finsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.886084,
+          51.148535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Leutweinstraße ",
+        "URL": "https://de.wikipedia.org/wiki/Theodor_Leutwein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.883854,
+          51.147953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "original address": "Ulanendenkmal ",
+        "URL": "https://de.wikipedia.org/wiki/Ulanen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.773456,
+          51.227741
+        ]
+      }
+    }
+  ]
+}
