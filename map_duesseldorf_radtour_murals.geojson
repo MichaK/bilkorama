@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": " Metzgerei Schnitzele / Brause"
+        "name": "Start: Metzgerei Schnitzele / Brause",
+        "strasse": "Bilker Allee 233"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Konsumonsun"
+        "name": "Konsumonsun Bachstr. 126 „Konsumonsun“",
+        "URL": "",
+        "strasse": "Bilker Allee 2"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +33,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wirtschaftswunder"
+        "name": "Wirtschaftswunder",
+        "strasse": "Bachstr. 126"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +47,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Merowingerstraße 4"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +61,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Aachener Straße/Ecke Karolingerstraße "
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +75,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Suitbertusstraße 151 "
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +89,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Oberbilker Allee 1 "
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +103,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Fürstenplatz Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +117,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Helmholtzstraße 17-21 Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +131,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Ellerstraße Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +145,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Eintrachtstraße 1 Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +159,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": " Kölner Straße 229 Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +173,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "strasse": "Kiefernstraße Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +187,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "URL": "",
+        "strasse": "Erkrather Straße 206 Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +202,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "",
+        "URL": "",
+        "strasse": "Jägerstraße 21 "
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +217,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Vennhauser Allee, hall of fame",
+        "URL": "https://40grad-urbanart.de/orte/vennhauser-allee-hall-of-fame/",
+        "strasse": "Vennhauser Allee"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +232,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Odenthaler Weg 7",
+        "URL": "https://40grad-urbanart.de/orte/odenthaler-weg-7/",
+        "strasse": "Odenthaler Weg 7 Düsseldorf"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +247,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "End: Kamper Acker",
+        "URL": "https://40grad-urbanart.de/orte/kamper-acker/",
+        "strasse": "Kamper Acker Düsseldorf"
       },
       "geometry": {
         "type": "Point",
