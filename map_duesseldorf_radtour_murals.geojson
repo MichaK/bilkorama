@@ -20,10 +20,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kinderspieltreff",
-        "URL": "https://40grad-urbanart.de/orte/kinderspieltreff-oberbilker-allee-1/",
-        "strasse": "Bilker Allee 2",
-        "Nr": 6
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "",
+        "URL": "",
+        "strasse": "",
+        "Nr": ""
       },
       "geometry": {
         "type": "Point",
@@ -100,10 +103,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Kinderspieltreff",
         "strasse": "Oberbilker Allee 1 ",
         "Nr": 6,
-        "URL": ""
+        "URL": "https://40grad-urbanart.de/orte/kinderspieltreff-oberbilker-allee-1/"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +138,7 @@
         "name": "",
         "strasse": "Helmholtzstraße 17-21 ",
         "Nr": 8,
-        "URL": ""
+        "URL": "https://40grad-urbanart.de/orte/helmholtzstrasse-17-21/"
       },
       "geometry": {
         "type": "Point",
@@ -150,7 +153,8 @@
       "properties": {
         "name": "",
         "strasse": "Ellerstraße ",
-        "Nr": 9
+        "Nr": 9,
+        "URL": "https://40grad-urbanart.de/orte/unterfuehrung-ellerstrasse/"
       },
       "geometry": {
         "type": "Point",
@@ -165,7 +169,8 @@
       "properties": {
         "name": "",
         "strasse": "Eintrachtstraße 1 ",
-        "Nr": 10
+        "Nr": 10,
+        "URL": "https://40grad-urbanart.de/orte/eintrachtstrasse-1/"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +185,8 @@
       "properties": {
         "name": "",
         "strasse": " Kölner Straße 229 ",
-        "Nr": 11
+        "Nr": 11,
+        "URL": "https://40grad-urbanart.de/orte/koelner-strasse-229/"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +201,8 @@
       "properties": {
         "name": "",
         "strasse": "Kiefernstraße ",
-        "Nr": 12
+        "Nr": 12,
+        "URL": "https://40grad-urbanart.de/orte/kiefernstrasse/"
       },
       "geometry": {
         "type": "Point",
@@ -209,7 +216,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "URL": "",
+        "URL": "https://40grad-urbanart.de/orte/erkrather-strasse-206/",
         "strasse": "Erkrather Straße 206 ",
         "Nr": 13
       },
@@ -225,7 +232,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "URL": "",
+        "URL": "https://40grad-urbanart.de/orte/jaegerstrasse-21/",
         "strasse": "Jägerstraße 21 ",
         "Nr": 14
       },
