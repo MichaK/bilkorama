@@ -1,16 +1,239 @@
-Metzgerei Schnitzele / Brause Bilker Allee 233,
-Bachstr. 126 
-Merowingerstraße 4
-Bunker, Aachener Straße/Ecke Karolingerstraße
-Suitbertusstraße 151
-Kinderspieltreff, Oberbilker Allee 1
-Fürstenplatz
-Helmholtzstraße 17-21
-Unterführung Ellerstraße
-Eintrachtstraße 1
-Kölner Straße 229
-Kiefernstraße
-Erkrather Straße 206
-Jägerstraße 21
-Vennhauser Allee
-Kamper Acker
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Metzgerei Schnitzele / Brause"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7816576999999825,
+          51.2106022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Konsumonsun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7816576999999825,
+          51.2106022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wirtschaftswunder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77449660000002,
+          51.209431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777378499999941,
+          51.2070243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7743544999999585,
+          51.2053647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.776023900000041,
+          51.2041586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.783064999999965,
+          51.210881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785970799999973,
+          51.2133343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7891190999999935,
+          51.2165186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.798599100000047,
+          51.21535180000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.799449800000048,
+          51.2206304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8026267999999845,
+          51.2167643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.809057100000018,
+          51.2188902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8124361000000135,
+          51.2196258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.837575199999947,
+          51.2038109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.857557300000053,
+          51.2069069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.829922500000066,
+          51.1844316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8137907999999925,
+          51.19507549999999
+        ]
+      }
+    }
+  ]
+}
