@@ -102,7 +102,8 @@
       "properties": {
         "name": "",
         "strasse": "Oberbilker Allee 1 ",
-        "Nr": 6
+        "Nr": 6,
+        "URL": ""
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +118,8 @@
       "properties": {
         "name": "",
         "strasse": "Fürstenplatz ",
-        "Nr": 7
+        "Nr": 7,
+        "URL": "https://40grad-urbanart.de/orte/fuerstenplatz/"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +134,8 @@
       "properties": {
         "name": "",
         "strasse": "Helmholtzstraße 17-21 ",
-        "Nr": 8
+        "Nr": 8,
+        "URL": ""
       },
       "geometry": {
         "type": "Point",
