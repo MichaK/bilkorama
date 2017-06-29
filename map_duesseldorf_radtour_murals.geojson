@@ -48,7 +48,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Merowingerstraße 4"
+        "strasse": "Merowingerstraße 4",
+        "URL": "https://40grad-urbanart.de/orte/merowingerstrasse-4/"
       },
       "geometry": {
         "type": "Point",
@@ -62,7 +63,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Aachener Straße/Ecke Karolingerstraße "
+        "strasse": "Aachener Straße/Ecke Karolingerstraße ",
+        "URL": "https://40grad-urbanart.de/orte/bunker-aachener-strasseecke-karolingerstrasse/"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +78,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Suitbertusstraße 151 "
+        "strasse": "Suitbertusstraße 151 ",
+        "URL": "https://40grad-urbanart.de/orte/suitbertusstrasse-151/"
       },
       "geometry": {
         "type": "Point",
@@ -104,7 +107,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Fürstenplatz Düsseldorf"
+        "strasse": "Fürstenplatz "
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +121,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Helmholtzstraße 17-21 Düsseldorf"
+        "strasse": "Helmholtzstraße 17-21 "
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +135,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Ellerstraße Düsseldorf"
+        "strasse": "Ellerstraße "
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Eintrachtstraße 1 Düsseldorf"
+        "strasse": "Eintrachtstraße 1 "
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +163,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": " Kölner Straße 229 Düsseldorf"
+        "strasse": " Kölner Straße 229 "
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +177,7 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Kiefernstraße Düsseldorf"
+        "strasse": "Kiefernstraße "
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +192,7 @@
       "properties": {
         "name": "",
         "URL": "",
-        "strasse": "Erkrather Straße 206 Düsseldorf"
+        "strasse": "Erkrather Straße 206 "
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +237,7 @@
       "properties": {
         "name": "Odenthaler Weg 7",
         "URL": "https://40grad-urbanart.de/orte/odenthaler-weg-7/",
-        "strasse": "Odenthaler Weg 7 Düsseldorf"
+        "strasse": "Odenthaler Weg 7 "
       },
       "geometry": {
         "type": "Point",
@@ -249,7 +252,7 @@
       "properties": {
         "name": "End: Kamper Acker",
         "URL": "https://40grad-urbanart.de/orte/kamper-acker/",
-        "strasse": "Kamper Acker Düsseldorf"
+        "strasse": "Kamper Acker "
       },
       "geometry": {
         "type": "Point",
