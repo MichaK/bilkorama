@@ -6,7 +6,8 @@
       "properties": {
         "name": "Start: Metzgerei Schnitzele / Brause",
         "strasse": "Bilker Allee 233",
-        "URL": ""
+        "URL": "",
+        "Nr": 1
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "name": "Kinderspieltreff",
         "URL": "https://40grad-urbanart.de/orte/kinderspieltreff-oberbilker-allee-1/",
-        "strasse": "Bilker Allee 2"
+        "strasse": "Bilker Allee 2",
+        "Nr": 6
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "name": "„Konsumonsun“",
         "strasse": "Bachstr. 126",
-        "URL": "https://40grad-urbanart.de/orte/bachstr-126/"
+        "URL": "https://40grad-urbanart.de/orte/bachstr-126/",
+        "Nr": 2
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "name": "Wirtschaftswunder",
         "strasse": "Merowingerstraße 4",
-        "URL": "https://40grad-urbanart.de/orte/merowingerstrasse-4/"
+        "URL": "https://40grad-urbanart.de/orte/merowingerstrasse-4/",
+        "Nr": 3
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +70,8 @@
       "properties": {
         "name": "",
         "strasse": "Aachener Straße/Ecke Karolingerstraße ",
-        "URL": "https://40grad-urbanart.de/orte/bunker-aachener-strasseecke-karolingerstrasse/"
+        "URL": "https://40grad-urbanart.de/orte/bunker-aachener-strasseecke-karolingerstrasse/",
+        "Nr": 4
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "name": "",
         "strasse": "Suitbertusstraße 151 ",
-        "URL": "https://40grad-urbanart.de/orte/suitbertusstrasse-151/"
+        "URL": "https://40grad-urbanart.de/orte/suitbertusstrasse-151/",
+        "Nr": 5
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +101,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Oberbilker Allee 1 "
+        "strasse": "Oberbilker Allee 1 ",
+        "Nr": 6
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +116,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Fürstenplatz "
+        "strasse": "Fürstenplatz ",
+        "Nr": 7
       },
       "geometry": {
         "type": "Point",
@@ -123,7 +131,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Helmholtzstraße 17-21 "
+        "strasse": "Helmholtzstraße 17-21 ",
+        "Nr": 8
       },
       "geometry": {
         "type": "Point",
@@ -137,7 +146,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Ellerstraße "
+        "strasse": "Ellerstraße ",
+        "Nr": 9
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +161,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Eintrachtstraße 1 "
+        "strasse": "Eintrachtstraße 1 ",
+        "Nr": 10
       },
       "geometry": {
         "type": "Point",
@@ -165,7 +176,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": " Kölner Straße 229 "
+        "strasse": " Kölner Straße 229 ",
+        "Nr": 11
       },
       "geometry": {
         "type": "Point",
@@ -179,7 +191,8 @@
       "type": "Feature",
       "properties": {
         "name": "",
-        "strasse": "Kiefernstraße "
+        "strasse": "Kiefernstraße ",
+        "Nr": 12
       },
       "geometry": {
         "type": "Point",
@@ -194,7 +207,8 @@
       "properties": {
         "name": "",
         "URL": "",
-        "strasse": "Erkrather Straße 206 "
+        "strasse": "Erkrather Straße 206 ",
+        "Nr": 13
       },
       "geometry": {
         "type": "Point",
@@ -209,7 +223,8 @@
       "properties": {
         "name": "",
         "URL": "",
-        "strasse": "Jägerstraße 21 "
+        "strasse": "Jägerstraße 21 ",
+        "Nr": 14
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +239,8 @@
       "properties": {
         "name": "Vennhauser Allee, hall of fame",
         "URL": "https://40grad-urbanart.de/orte/vennhauser-allee-hall-of-fame/",
-        "strasse": "Vennhauser Allee"
+        "strasse": "Vennhauser Allee",
+        "Nr": 15
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +255,8 @@
       "properties": {
         "name": "Odenthaler Weg 7",
         "URL": "https://40grad-urbanart.de/orte/odenthaler-weg-7/",
-        "strasse": "Odenthaler Weg 7 "
+        "strasse": "Odenthaler Weg 7 ",
+        "Nr": 16
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +271,8 @@
       "properties": {
         "name": "End: Kamper Acker",
         "URL": "https://40grad-urbanart.de/orte/kamper-acker/",
-        "strasse": "Kamper Acker "
+        "strasse": "Kamper Acker ",
+        "Nr": 17
       },
       "geometry": {
         "type": "Point",
