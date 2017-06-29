@@ -7,26 +7,10 @@
         "name": "Start: Metzgerei Schnitzele / Brause",
         "strasse": "Bilker Allee 233",
         "URL": "",
-        "Nr": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7816576999999825,
-          51.2106022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
+        "Nr": 1,
+        "marker-symbol": "star-stroked",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "",
-        "URL": "",
-        "strasse": "",
-        "Nr": ""
+        "marker-color": "#ff0000"
       },
       "geometry": {
         "type": "Point",
@@ -39,6 +23,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "warehouse",
         "name": "„Konsumonsun“",
         "strasse": "Bachstr. 126",
         "URL": "https://40grad-urbanart.de/orte/bachstr-126/",
@@ -58,7 +45,10 @@
         "name": "Wirtschaftswunder",
         "strasse": "Merowingerstraße 4",
         "URL": "https://40grad-urbanart.de/orte/merowingerstrasse-4/",
-        "Nr": 3
+        "Nr": 3,
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +64,10 @@
         "name": "",
         "strasse": "Aachener Straße/Ecke Karolingerstraße ",
         "URL": "https://40grad-urbanart.de/orte/bunker-aachener-strasseecke-karolingerstrasse/",
-        "Nr": 4
+        "Nr": 4,
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -90,7 +83,10 @@
         "name": "",
         "strasse": "Suitbertusstraße 151 ",
         "URL": "https://40grad-urbanart.de/orte/suitbertusstrasse-151/",
-        "Nr": 5
+        "Nr": 5,
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +102,10 @@
         "name": "Kinderspieltreff",
         "strasse": "Oberbilker Allee 1 ",
         "Nr": 6,
-        "URL": "https://40grad-urbanart.de/orte/kinderspieltreff-oberbilker-allee-1/"
+        "URL": "https://40grad-urbanart.de/orte/kinderspieltreff-oberbilker-allee-1/",
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -122,7 +121,10 @@
         "name": "",
         "strasse": "Fürstenplatz ",
         "Nr": 7,
-        "URL": "https://40grad-urbanart.de/orte/fuerstenplatz/"
+        "URL": "https://40grad-urbanart.de/orte/fuerstenplatz/",
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +140,10 @@
         "name": "",
         "strasse": "Helmholtzstraße 17-21 ",
         "Nr": 8,
-        "URL": "https://40grad-urbanart.de/orte/helmholtzstrasse-17-21/"
+        "URL": "https://40grad-urbanart.de/orte/helmholtzstrasse-17-21/",
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -154,13 +159,16 @@
         "name": "",
         "strasse": "Ellerstraße ",
         "Nr": 9,
-        "URL": "https://40grad-urbanart.de/orte/unterfuehrung-ellerstrasse/"
+        "URL": "https://40grad-urbanart.de/orte/unterfuehrung-ellerstrasse/",
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.798599100000047,
-          51.21535180000001
+          6.791439056396484,
+          51.21717992635272
         ]
       }
     },
@@ -170,7 +178,10 @@
         "name": "",
         "strasse": "Eintrachtstraße 1 ",
         "Nr": 10,
-        "URL": "https://40grad-urbanart.de/orte/eintrachtstrasse-1/"
+        "URL": "https://40grad-urbanart.de/orte/eintrachtstrasse-1/",
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -186,13 +197,16 @@
         "name": "",
         "strasse": " Kölner Straße 229 ",
         "Nr": 11,
-        "URL": "https://40grad-urbanart.de/orte/koelner-strasse-229/"
+        "URL": "https://40grad-urbanart.de/orte/koelner-strasse-229/",
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.8026267999999845,
-          51.2167643
+          6.800322532653809,
+          51.218443310778504
         ]
       }
     },
@@ -202,7 +216,10 @@
         "name": "",
         "strasse": "Kiefernstraße ",
         "Nr": 12,
-        "URL": "https://40grad-urbanart.de/orte/kiefernstrasse/"
+        "URL": "https://40grad-urbanart.de/orte/kiefernstrasse/",
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -218,7 +235,10 @@
         "name": "",
         "URL": "https://40grad-urbanart.de/orte/erkrather-strasse-206/",
         "strasse": "Erkrather Straße 206 ",
-        "Nr": 13
+        "Nr": 13,
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +254,10 @@
         "name": "",
         "URL": "https://40grad-urbanart.de/orte/jaegerstrasse-21/",
         "strasse": "Jägerstraße 21 ",
-        "Nr": 14
+        "Nr": 14,
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -250,13 +273,16 @@
         "name": "Vennhauser Allee, hall of fame",
         "URL": "https://40grad-urbanart.de/orte/vennhauser-allee-hall-of-fame/",
         "strasse": "Vennhauser Allee",
-        "Nr": 15
+        "Nr": 15,
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.857557300000053,
-          51.2069069
+          6.851348876953125,
+          51.202823294018735
         ]
       }
     },
@@ -266,7 +292,10 @@
         "name": "Odenthaler Weg 7",
         "URL": "https://40grad-urbanart.de/orte/odenthaler-weg-7/",
         "strasse": "Odenthaler Weg 7 ",
-        "Nr": 16
+        "Nr": 16,
+        "marker-symbol": "warehouse",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -282,7 +311,10 @@
         "name": "End: Kamper Acker",
         "URL": "https://40grad-urbanart.de/orte/kamper-acker/",
         "strasse": "Kamper Acker ",
-        "Nr": 17
+        "Nr": 17,
+        "marker-symbol": "star-stroked",
+        "marker-color": "#ff0000",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
