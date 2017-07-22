@@ -3,7 +3,13 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#558755",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00ff00",
+        "fill-opacity": 0.1
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27,6 +33,43 @@
             [
               6.772019863128662,
               51.20839575815819
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.7723846435546875,
+              51.208284853204205
+            ],
+            [
+              6.772518754005432,
+              51.208284853204205
+            ],
+            [
+              6.772518754005432,
+              51.2084226441674
+            ],
+            [
+              6.7723846435546875,
+              51.2084226441674
+            ],
+            [
+              6.7723846435546875,
+              51.208284853204205
             ]
           ]
         ]
