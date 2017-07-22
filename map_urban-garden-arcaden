@@ -41,37 +41,160 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5
+        "marker-color": "#ff6666",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "use": "infopoint"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              6.7723846435546875,
-              51.208284853204205
-            ],
-            [
-              6.772518754005432,
-              51.208284853204205
-            ],
-            [
-              6.772518754005432,
-              51.2084226441674
-            ],
-            [
-              6.7723846435546875,
-              51.2084226441674
-            ],
-            [
-              6.7723846435546875,
-              51.208284853204205
-            ]
-          ]
+          6.772387325763702,
+          51.208414242291205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "use": "wasserspeicher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772467792034149,
+          51.20832182155185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "use": "obst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7725348472595215,
+          51.20815714413845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#408000",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "use": "gemüse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772290766239166,
+          51.2080983306338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "use": "wasserspeicher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772601902484894,
+          51.20794541517026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "use": "kompost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772454380989075,
+          51.207827787545064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e6e6e6",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "use": "fahrradständer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77245706319809,
+          51.208417603041866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "use": "picknickareal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772250533103943,
+          51.20834366647064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "use": "kräuter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772288084030151,
+          51.20825124558966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "use": "wildwiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772306859493256,
+          51.20795213673974
         ]
       }
     }
